@@ -1,0 +1,291 @@
+# Chicago White Sox
+## Venue: Comiskey Park
+## Division: 
+## First Year of Play: 1901
+## Last Year of Play: 2022
+## Timezone: America/Chicago
+## Home Opener
+### 1910-04-14T00:00:00 at 4:33:00 AM
+## Address
+### 
+### State: IL
+### Country: 
+### Postal Code: 
+### Phone Number: 
+## Roster
+### Bullpen
+#### Bill Burns
+##### Primary Position: P
+##### Birdate: 1880-01-27T00:00:00
+##### Height: 6' 2"
+##### Weight: 195
+##### Throws: L
+##### Bats: S
+##### Jersey Number: 
+#### Chief Chouneau
+##### Primary Position: P
+##### Birdate: 1888-09-02T00:00:00
+##### Height: 5' 9"
+##### Weight: 150
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Frank Lange
+##### Primary Position: P
+##### Birdate: 1883-10-28T00:00:00
+##### Height: 5' 11"
+##### Weight: 180
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Fred Olmstead
+##### Primary Position: P
+##### Birdate: 1881-07-03T00:00:00
+##### Height: 5' 11"
+##### Weight: 170
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Jim Scott
+##### Primary Position: P
+##### Birdate: 1888-04-23T00:00:00
+##### Height: 6' 1"
+##### Weight: 235
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Frank Smith
+##### Primary Position: P
+##### Birdate: 1879-10-28T00:00:00
+##### Height: 5' 11"
+##### Weight: 194
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Ed Walsh
+##### Primary Position: P
+##### Birdate: 1881-05-14T00:00:00
+##### Height: 6' 1"
+##### Weight: 193
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Doc White
+##### Primary Position: P
+##### Birdate: 1879-04-09T00:00:00
+##### Height: 6' 1"
+##### Weight: 150
+##### Throws: L
+##### Bats: L
+##### Jersey Number: 
+#### Irv Young
+##### Primary Position: P
+##### Birdate: 1877-07-21T00:00:00
+##### Height: 5' 10"
+##### Weight: 170
+##### Throws: L
+##### Bats: L
+##### Jersey Number: 
+### Catchers
+#### Bruno Block
+##### Primary Position: C
+##### Birdate: 1885-03-13T00:00:00
+##### Height: 5' 9"
+##### Weight: 185
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Fred Payne
+##### Primary Position: C
+##### Birdate: 1880-09-02T00:00:00
+##### Height: 5' 10"
+##### Weight: 162
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Billy Sullivan
+##### Primary Position: C
+##### Birdate: 1875-02-01T00:00:00
+##### Height: 5' 9"
+##### Weight: 155
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+### Outfielders
+#### Cuke Barrows
+##### Primary Position: OF
+##### Birdate: 1883-10-20T00:00:00
+##### Height: 5' 8"
+##### Weight: 158
+##### Throws: L
+##### Bats: R
+##### Jersey Number: 
+#### Red Bowser
+##### Primary Position: OF
+##### Birdate: 1881-09-20T00:00:00
+##### Height: 0' 0"
+##### Weight: 0
+##### Throws: 
+##### Bats: 
+##### Jersey Number: 
+#### George Browne
+##### Primary Position: OF
+##### Birdate: 1876-01-12T00:00:00
+##### Height: 5' 11"
+##### Weight: 160
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Felix Chouinard
+##### Primary Position: OF
+##### Birdate: 1887-10-05T00:00:00
+##### Height: 5' 7"
+##### Weight: 150
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Willis Cole
+##### Primary Position: OF
+##### Birdate: 1882-01-06T00:00:00
+##### Height: 5' 8"
+##### Weight: 170
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Shano Collins
+##### Primary Position: OF
+##### Birdate: 1885-12-04T00:00:00
+##### Height: 6' 0"
+##### Weight: 185
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Patsy Dougherty
+##### Primary Position: OF
+##### Birdate: 1876-10-27T00:00:00
+##### Height: 6' 2"
+##### Weight: 190
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Ed Hahn
+##### Primary Position: OF
+##### Birdate: 1875-08-27T00:00:00
+##### Height: 0' 0"
+##### Weight: 160
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Red Kelly
+##### Primary Position: OF
+##### Birdate: 1884-11-15T00:00:00
+##### Height: 6' 0"
+##### Weight: 165
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Paul Meloan
+##### Primary Position: OF
+##### Birdate: 1888-08-23T00:00:00
+##### Height: 5' 11"
+##### Weight: 175
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Bobby Messenger
+##### Primary Position: OF
+##### Birdate: 1884-03-19T00:00:00
+##### Height: 5' 11"
+##### Weight: 165
+##### Throws: R
+##### Bats: S
+##### Jersey Number: 
+#### Dutch Zwilling
+##### Primary Position: OF
+##### Birdate: 1888-11-02T00:00:00
+##### Height: 5' 7"
+##### Weight: 160
+##### Throws: L
+##### Bats: L
+##### Jersey Number: 
+### Infielders
+#### Lena Blackburne
+##### Primary Position: 2B
+##### Birdate: 1886-10-23T00:00:00
+##### Height: 5' 11"
+##### Weight: 160
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Charlie French
+##### Primary Position: 2B
+##### Birdate: 1883-10-12T00:00:00
+##### Height: 5' 6"
+##### Weight: 140
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Chick Gandil
+##### Primary Position: 1B
+##### Birdate: 1888-01-19T00:00:00
+##### Height: 6' 2"
+##### Weight: 190
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Harry Lord
+##### Primary Position: 3B
+##### Birdate: 1882-03-08T00:00:00
+##### Height: 5' 11"
+##### Weight: 165
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Amby McConnell
+##### Primary Position: 2B
+##### Birdate: 1883-04-29T00:00:00
+##### Height: 5' 7"
+##### Weight: 150
+##### Throws: R
+##### Bats: L
+##### Jersey Number: 
+#### Charlie Mullen
+##### Primary Position: 1B
+##### Birdate: 1889-03-15T00:00:00
+##### Height: 5' 11"
+##### Weight: 155
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Freddy Parent
+##### Primary Position: SS
+##### Birdate: 1875-11-11T00:00:00
+##### Height: 5' 7"
+##### Weight: 154
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Billy Purtell
+##### Primary Position: 3B
+##### Birdate: 1886-01-06T00:00:00
+##### Height: 5' 9"
+##### Weight: 170
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Lee Tannehill
+##### Primary Position: 3B
+##### Birdate: 1880-10-26T00:00:00
+##### Height: 5' 11"
+##### Weight: 170
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 
+#### Rollie Zeider
+##### Primary Position: 2B
+##### Birdate: 1883-11-16T00:00:00
+##### Height: 5' 10"
+##### Weight: 162
+##### Throws: R
+##### Bats: R
+##### Jersey Number: 

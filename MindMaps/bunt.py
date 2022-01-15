@@ -25,9 +25,8 @@ headers = {
 # -------------------------
 
 start_year = 1876
-end_year = 2022
+end_year = 2021
 team_template = env.get_template('team.j2')
-roster_template = env.get_template('roster.j2')
 while start_year <= end_year:
     print (f"Getting All Teams from the year { start_year }")
     teams = requests.request("GET", f"http://lookup-service-prod.mlb.com/json/named.team_all_season.bam?sport_code='mlb'&sort_order=name_asc&season='{ start_year }'", headers=headers)
@@ -57,41 +56,26 @@ while start_year <= end_year:
                 rosterList = rosterJSON['roster_team_alltime']['queryResults']['row']
                 allRostersList.append(rosterList)
 
-# -------------------------
-# Roster Template
-# -------------------------
-
-                parsed_all_output = roster_template.render(
-                    singleTeam = singleTeam,
-                    singleRoster = rosterList,
-                    )
-
-# -------------------------
-# Save Roster File
-# -------------------------
-
-                with open(f"Baseball/{ start_year } Season/Rosters/{ singleTeam['mlb_org'].replace('/',' ')}.md", "w") as fh:
-                    fh.write(parsed_all_output)                
-                    fh.close()
 
 # -------------------------
 # Team Template
 # -------------------------
 
-        parsed_all_output = team_template.render(
-            singleTeam = singleTeam,
-            rosterList = allRostersList,
-            )
+                parsed_all_output = team_template.render(
+                    singleTeam = singleTeam,
+                    singleRoster = rosterList,
+                    )
 
 # -------------------------
 # Save Team File
 # -------------------------
 
         if singleTeam['mlb_org']:
-            with open(f"Baseball/{ start_year } Season/Teams/{ singleTeam['mlb_org'].replace('/',' ')}.md", "w") as fh:
+            with open(f"Baseball/{ start_year } Season/{ singleTeam['mlb_org'].replace('/',' ')}.md", "w") as fh:
                 fh.write(parsed_all_output)                
                 fh.close()
 
+        print(f"File Baseball/{ start_year } Season/{ singleTeam['mlb_org'].replace('/',' ')}.md Saved")
 
 # -------------------------
 # All MLB Template
@@ -109,5 +93,6 @@ while start_year <= end_year:
         fh.write(parsed_all_output)               
         fh.close()
     
+    print(f"File Baseball/{ start_year } Season/Major League Baseball { start_year }.md Saved")
     start_year = start_year + 1
     time.sleep(0.5)
