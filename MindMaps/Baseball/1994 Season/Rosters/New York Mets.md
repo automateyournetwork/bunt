@@ -1,0 +1,285 @@
+# New York Mets
+## Bullpen
+### Juan Castillo
+#### Primary Position: P
+#### Birdate: 1970-06-23T00:00:00
+#### Height: 6' 5"
+#### Weight: 205
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### John Franco
+#### Primary Position: P
+#### Birdate: 1960-09-17T00:00:00
+#### Height: 5' 10"
+#### Weight: 185
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 45
+### Dwight Gooden
+#### Primary Position: P
+#### Birdate: 1964-11-16T00:00:00
+#### Height: 6' 3"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Mauro Gozzo
+#### Primary Position: P
+#### Birdate: 1966-03-07T00:00:00
+#### Height: 6' 3"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Eric Gunderson
+#### Primary Position: P
+#### Birdate: 1966-03-29T00:00:00
+#### Height: 6' 0"
+#### Weight: 190
+#### Throws: L
+#### Bats: R
+#### Jersey Number: 
+### Eric Hillman
+#### Primary Position: P
+#### Birdate: 1966-04-27T00:00:00
+#### Height: 6' 10"
+#### Weight: 225
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Jonathan Hurst
+#### Primary Position: P
+#### Birdate: 1966-10-20T00:00:00
+#### Height: 6' 3"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jason Jacome
+#### Primary Position: P
+#### Birdate: 1970-11-24T00:00:00
+#### Height: 6' 0"
+#### Weight: 205
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Bobby Jones
+#### Primary Position: P
+#### Birdate: 1970-02-10T00:00:00
+#### Height: 6' 4"
+#### Weight: 225
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 28
+### Doug Linton
+#### Primary Position: P
+#### Birdate: 1965-02-09T00:00:00
+#### Height: 6' 1"
+#### Weight: 190
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Mike Maddux
+#### Primary Position: P
+#### Birdate: 1961-08-27T00:00:00
+#### Height: 6' 2"
+#### Weight: 190
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Josias Manzanillo
+#### Primary Position: P
+#### Birdate: 1967-10-16T00:00:00
+#### Height: 6' 0"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Roger Mason
+#### Primary Position: P
+#### Birdate: 1957-09-18T00:00:00
+#### Height: 6' 6"
+#### Weight: 220
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Mike Remlinger
+#### Primary Position: P
+#### Birdate: 1966-03-23T00:00:00
+#### Height: 6' 1"
+#### Weight: 215
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Bret Saberhagen
+#### Primary Position: P
+#### Birdate: 1964-04-11T00:00:00
+#### Height: 6' 1"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Frank Seminara
+#### Primary Position: P
+#### Birdate: 1967-05-16T00:00:00
+#### Height: 6' 2"
+#### Weight: 205
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Pete Smith
+#### Primary Position: P
+#### Birdate: 1966-02-27T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Dave Telgheder
+#### Primary Position: P
+#### Birdate: 1966-11-11T00:00:00
+#### Height: 6' 3"
+#### Weight: 212
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Catchers
+### Todd Hundley
+#### Primary Position: C
+#### Birdate: 1969-05-27T00:00:00
+#### Height: 5' 11"
+#### Weight: 200
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Kelly Stinnett
+#### Primary Position: C
+#### Birdate: 1970-02-04T00:00:00
+#### Height: 5' 11"
+#### Weight: 235
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Outfielders
+### Bobby Bonilla
+#### Primary Position: OF
+#### Birdate: 1963-02-23T00:00:00
+#### Height: 6' 3"
+#### Weight: 240
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### John Cangelosi
+#### Primary Position: OF
+#### Birdate: 1963-03-10T00:00:00
+#### Height: 5' 8"
+#### Weight: 160
+#### Throws: L
+#### Bats: S
+#### Jersey Number: 
+### Shawn Hare
+#### Primary Position: OF
+#### Birdate: 1967-03-26T00:00:00
+#### Height: 6' 2"
+#### Weight: 190
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Jim Lindeman
+#### Primary Position: OF
+#### Birdate: 1962-01-10T00:00:00
+#### Height: 6' 1"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Kevin McReynolds
+#### Primary Position: OF
+#### Birdate: 1959-10-16T00:00:00
+#### Height: 6' 1"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Joe Orsulak
+#### Primary Position: OF
+#### Birdate: 1962-05-31T00:00:00
+#### Height: 6' 1"
+#### Weight: 195
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Rick Parker
+#### Primary Position: OF
+#### Birdate: 1963-03-20T00:00:00
+#### Height: 6' 0"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Infielders
+### Tim Bogar
+#### Primary Position: SS
+#### Birdate: 1966-10-28T00:00:00
+#### Height: 6' 2"
+#### Weight: 198
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Rico Brogna
+#### Primary Position: 1B
+#### Birdate: 1970-04-18T00:00:00
+#### Height: 6' 2"
+#### Weight: 205
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Jeff Kent
+#### Primary Position: 2B
+#### Birdate: 1968-03-07T00:00:00
+#### Height: 6' 2"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jeff McKnight
+#### Primary Position: SS
+#### Birdate: 1963-02-18T00:00:00
+#### Height: 6' 0"
+#### Weight: 185
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Luis Rivera
+#### Primary Position: SS
+#### Birdate: 1964-01-03T00:00:00
+#### Height: 5' 9"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### David Segui
+#### Primary Position: 1B
+#### Birdate: 1966-07-19T00:00:00
+#### Height: 6' 1"
+#### Weight: 220
+#### Throws: L
+#### Bats: S
+#### Jersey Number: 
+### Fernando Vina
+#### Primary Position: 2B
+#### Birdate: 1969-04-16T00:00:00
+#### Height: 5' 9"
+#### Weight: 175
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Jose Vizcaino
+#### Primary Position: SS
+#### Birdate: 1968-03-26T00:00:00
+#### Height: 6' 1"
+#### Weight: 190
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 

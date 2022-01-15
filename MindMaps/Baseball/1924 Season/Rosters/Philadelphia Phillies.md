@@ -1,0 +1,269 @@
+# Philadelphia Phillies
+## Bullpen
+### Huck Betts
+#### Primary Position: P
+#### Birdate: 1897-02-18T00:00:00
+#### Height: 5' 11"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jim Bishop
+#### Primary Position: P
+#### Birdate: 1898-01-28T00:00:00
+#### Height: 6' 0"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Hal Carlson
+#### Primary Position: P
+#### Birdate: 1892-05-17T00:00:00
+#### Height: 6' 0"
+#### Weight: 180
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Johnny Couch
+#### Primary Position: P
+#### Birdate: 1891-03-31T00:00:00
+#### Height: 6' 0"
+#### Weight: 180
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Whitey Glazner
+#### Primary Position: P
+#### Birdate: 1893-09-17T00:00:00
+#### Height: 5' 9"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Earl Hamilton
+#### Primary Position: P
+#### Birdate: 1891-07-19T00:00:00
+#### Height: 5' 8"
+#### Weight: 160
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Bill Hubbell
+#### Primary Position: P
+#### Birdate: 1897-06-17T00:00:00
+#### Height: 6' 2"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Bert Lewis
+#### Primary Position: P
+#### Birdate: 1895-10-03T00:00:00
+#### Height: 6' 2"
+#### Weight: 176
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Clarence Mitchell
+#### Primary Position: P
+#### Birdate: 1891-02-22T00:00:00
+#### Height: 6' 0"
+#### Weight: 190
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Joe Oeschger
+#### Primary Position: P
+#### Birdate: 1892-05-24T00:00:00
+#### Height: 6' 0"
+#### Weight: 190
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Lerton Pinto
+#### Primary Position: P
+#### Birdate: 1899-04-08T00:00:00
+#### Height: 6' 0"
+#### Weight: 190
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Jimmy Ring
+#### Primary Position: P
+#### Birdate: 1895-02-15T00:00:00
+#### Height: 6' 1"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Ray Steineder
+#### Primary Position: P
+#### Birdate: 1895-11-13T00:00:00
+#### Height: 6' 0"
+#### Weight: 160
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Lefty Weinert
+#### Primary Position: P
+#### Birdate: 1902-04-21T00:00:00
+#### Height: 6' 1"
+#### Weight: 195
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+## Catchers
+### Butch Henline
+#### Primary Position: C
+#### Birdate: 1894-12-20T00:00:00
+#### Height: 5' 10"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Lew Wendell
+#### Primary Position: C
+#### Birdate: 1892-03-22T00:00:00
+#### Height: 5' 11"
+#### Weight: 178
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jimmie Wilson
+#### Primary Position: C
+#### Birdate: 1900-07-23T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Outfielders
+### Spoke Emery
+#### Primary Position: OF
+#### Birdate: 1896-12-10T00:00:00
+#### Height: 5' 9"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### George Harper
+#### Primary Position: OF
+#### Birdate: 1892-06-24T00:00:00
+#### Height: 5' 8"
+#### Weight: 167
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Fritz Henrich
+#### Primary Position: OF
+#### Birdate: 1899-05-08T00:00:00
+#### Height: 5' 10"
+#### Weight: 160
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Freddy Leach
+#### Primary Position: OF
+#### Birdate: 1897-11-23T00:00:00
+#### Height: 5' 11"
+#### Weight: 183
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Cliff Lee
+#### Primary Position: OF
+#### Birdate: 1896-08-04T00:00:00
+#### Height: 6' 1"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Johnny Mokan
+#### Primary Position: OF
+#### Birdate: 1895-09-23T00:00:00
+#### Height: 5' 7"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Joe Schultz
+#### Primary Position: OF
+#### Birdate: 1893-07-24T00:00:00
+#### Height: 6' 0"
+#### Weight: 172
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Curt Walker
+#### Primary Position: OF
+#### Birdate: 1896-07-03T00:00:00
+#### Height: 5' 10"
+#### Weight: 170
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Cy Williams
+#### Primary Position: OF
+#### Birdate: 1887-12-21T00:00:00
+#### Height: 6' 2"
+#### Weight: 180
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+## Infielders
+### Hod Ford
+#### Primary Position: 2B
+#### Birdate: 1897-07-23T00:00:00
+#### Height: 5' 10"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Walter Holke
+#### Primary Position: 1B
+#### Birdate: 1892-12-25T00:00:00
+#### Height: 6' 2"
+#### Weight: 185
+#### Throws: L
+#### Bats: S
+#### Jersey Number: 
+### Lenny Metz
+#### Primary Position: SS
+#### Birdate: 1899-07-06T00:00:00
+#### Height: 5' 11"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Frank Parkinson
+#### Primary Position: 2B
+#### Birdate: 1895-03-23T00:00:00
+#### Height: 5' 11"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Heinie Sand
+#### Primary Position: SS
+#### Birdate: 1897-07-03T00:00:00
+#### Height: 5' 8"
+#### Weight: 160
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Andy Woehr
+#### Primary Position: 3B
+#### Birdate: 1896-02-04T00:00:00
+#### Height: 5' 11"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Russ Wrightstone
+#### Primary Position: 3B
+#### Birdate: 1893-03-18T00:00:00
+#### Height: 5' 11"
+#### Weight: 176
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 

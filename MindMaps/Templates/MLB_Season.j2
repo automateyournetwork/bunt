@@ -1,0 +1,39 @@
+# Major League Baseball 2022 Season
+## American League
+{%- for team in teamList if team.league == "AL" %}
+{%-     if team.mlb_org %}
+### {{ team.mlb_org }}
+#### Venue: {{ team.venue_name }}
+#### Division: {{ team.division_full }}
+#### First Year of Play: {{ team.first_year_of_play }}
+#### Last Year of Play: {{ team.last_year_of_play }}
+#### Timezone: {{ team.time_zone_alt }}
+#### Home Opener
+##### {{ team.home_opener }} at {{ team.home_opener_time }}
+#### Address
+##### {{ team.address_line1 }}
+##### State: {{ team.state }}
+##### Country: {{ team.address_country }}
+##### Postal Code: {{ team.address_zip }}
+##### Phone Number: {{ team.phone_number }}
+{%-     endif %}
+{%- endfor %}
+## National League
+{%- for team in teamList if team.league == "NL" %}
+{%-     if team.mlb_org%}
+### {{ team.mlb_org }}
+#### Venue: {{ team.venue_name }}
+#### Division: {{ team.division_full }}
+#### First Year of Play: {{ team.first_year_of_play }}
+#### Last Year of Play: {{ team.last_year_of_play }}
+#### Timezone: {{ team.time_zone_alt }}
+#### Home Opener
+##### {{ team.home_opener }} at {{ team.home_opener_time }}
+#### Address
+##### {{ team.address_line1 }}
+##### State: {{ team.state }}
+##### Country: {{ team.address_country }}
+##### Postal Code: {{ team.address_zip }}
+##### Phone Number: {{ team.phone_number }}
+{%-     endif %}
+{%- endfor %}

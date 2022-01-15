@@ -1,0 +1,285 @@
+# Cleveland Guardians
+## Bullpen
+### Brian Anderson
+#### Primary Position: P
+#### Birdate: 1972-04-26T00:00:00
+#### Height: 6' 1"
+#### Weight: 190
+#### Throws: L
+#### Bats: R
+#### Jersey Number: 
+### Paul Assenmacher
+#### Primary Position: P
+#### Birdate: 1960-12-10T00:00:00
+#### Height: 6' 3"
+#### Weight: 200
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Alan Embree
+#### Primary Position: P
+#### Birdate: 1970-01-23T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Danny Graves
+#### Primary Position: P
+#### Birdate: 1973-08-07T00:00:00
+#### Height: 6' 0"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Orel Hershiser
+#### Primary Position: P
+#### Birdate: 1958-09-16T00:00:00
+#### Height: 6' 3"
+#### Weight: 190
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Albie Lopez
+#### Primary Position: P
+#### Birdate: 1971-08-18T00:00:00
+#### Height: 6' 2"
+#### Weight: 240
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Dennis Martinez
+#### Primary Position: P
+#### Birdate: 1955-05-14T00:00:00
+#### Height: 6' 1"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jack McDowell
+#### Primary Position: P
+#### Birdate: 1966-01-16T00:00:00
+#### Height: 6' 5"
+#### Weight: 180
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Kent Mercker
+#### Primary Position: P
+#### Birdate: 1968-02-01T00:00:00
+#### Height: 6' 2"
+#### Weight: 205
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Jose Mesa
+#### Primary Position: P
+#### Birdate: 1966-05-22T00:00:00
+#### Height: 6' 3"
+#### Weight: 235
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Charles Nagy
+#### Primary Position: P
+#### Birdate: 1967-05-05T00:00:00
+#### Height: 6' 3"
+#### Weight: 200
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 41
+### Chad Ogea
+#### Primary Position: P
+#### Birdate: 1970-11-09T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Eric Plunk
+#### Primary Position: P
+#### Birdate: 1963-09-03T00:00:00
+#### Height: 6' 5"
+#### Weight: 215
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jim Poole
+#### Primary Position: P
+#### Birdate: 1966-04-28T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Joe Roa
+#### Primary Position: P
+#### Birdate: 1971-10-11T00:00:00
+#### Height: 6' 2"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Paul Shuey
+#### Primary Position: P
+#### Birdate: 1970-09-16T00:00:00
+#### Height: 6' 3"
+#### Weight: 215
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 53
+### Greg Swindell
+#### Primary Position: P
+#### Birdate: 1965-01-02T00:00:00
+#### Height: 6' 1"
+#### Weight: 240
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Julian Tavarez
+#### Primary Position: P
+#### Birdate: 1973-05-22T00:00:00
+#### Height: 6' 2"
+#### Weight: 195
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+## Catchers
+### Sandy Alomar Jr.
+#### Primary Position: C
+#### Birdate: 1966-06-18T00:00:00
+#### Height: 6' 3"
+#### Weight: 235
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 15
+### Einar Diaz
+#### Primary Position: C
+#### Birdate: 1972-12-28T00:00:00
+#### Height: 5' 10"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 2
+### Tony Pena
+#### Primary Position: C
+#### Birdate: 1957-06-04T00:00:00
+#### Height: 6' 0"
+#### Weight: 180
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Outfielders
+### Mark Carreon
+#### Primary Position: OF
+#### Birdate: 1963-07-19T00:00:00
+#### Height: 6' 0"
+#### Weight: 195
+#### Throws: L
+#### Bats: R
+#### Jersey Number: 
+### Wayne Kirby
+#### Primary Position: OF
+#### Birdate: 1964-01-22T00:00:00
+#### Height: 5' 10"
+#### Weight: 185
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+## Infielders
+### Carlos Baerga
+#### Primary Position: 2B
+#### Birdate: 1968-11-04T00:00:00
+#### Height: 5' 11"
+#### Weight: 215
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Casey Candaele
+#### Primary Position: 2B
+#### Birdate: 1961-01-12T00:00:00
+#### Height: 5' 9"
+#### Weight: 165
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Alvaro Espinoza
+#### Primary Position: 3B
+#### Birdate: 1962-02-19T00:00:00
+#### Height: 6' 0"
+#### Weight: 180
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Julio Franco
+#### Primary Position: 1B
+#### Birdate: 1958-08-23T00:00:00
+#### Height: 6' 1"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Damian Jackson
+#### Primary Position: SS
+#### Birdate: 1973-08-16T00:00:00
+#### Height: 5' 11"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jeff Kent
+#### Primary Position: 2B
+#### Birdate: 1968-03-07T00:00:00
+#### Height: 6' 2"
+#### Weight: 210
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Scott Leius
+#### Primary Position: 3B
+#### Birdate: 1965-09-24T00:00:00
+#### Height: 6' 3"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Geronimo Pena
+#### Primary Position: 3B
+#### Birdate: 1967-03-29T00:00:00
+#### Height: 6' 1"
+#### Weight: 195
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Herbert Perry
+#### Primary Position: 1B
+#### Birdate: 1969-09-15T00:00:00
+#### Height: 6' 2"
+#### Weight: 230
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Jim Thome
+#### Primary Position: 1B
+#### Birdate: 1970-08-27T00:00:00
+#### Height: 6' 4"
+#### Weight: 250
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 25
+### Jose Vizcaino
+#### Primary Position: 2B
+#### Birdate: 1968-03-26T00:00:00
+#### Height: 6' 1"
+#### Weight: 190
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Omar Vizquel
+#### Primary Position: SS
+#### Birdate: 1967-04-24T00:00:00
+#### Height: 5' 9"
+#### Weight: 180
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 13

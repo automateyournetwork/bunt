@@ -1,0 +1,45 @@
+# {{ singleTeam.mlb_org }}
+## Bullpen
+{%- for player in singleRoster if player.primary_position == "P" %}
+### {{ player.name_first_last }}
+#### Primary Position: {{ player.primary_position }}
+#### Birdate: {{ player.birth_date }}
+#### Height: {{ player.height_feet }}' {{ player.height_inches }}"
+#### Weight: {{ player.weight }}
+#### Throws: {{ player.throws }}
+#### Bats: {{ player.bats }}
+#### Jersey Number: {{ player.jersey_number }}
+{%- endfor %}
+## Catchers
+{%- for player in singleRoster if player.primary_position == "C" %}
+### {{ player.name_first_last }}
+#### Primary Position: {{ player.primary_position }}
+#### Birdate: {{ player.birth_date }}
+#### Height: {{ player.height_feet }}' {{ player.height_inches }}"
+#### Weight: {{ player.weight }}
+#### Throws: {{ player.throws }}
+#### Bats: {{ player.bats }}
+#### Jersey Number: {{ player.jersey_number }}
+{%- endfor %}
+## Outfielders
+{%- for player in singleRoster if player.primary_position == "OF" %}
+### {{ player.name_first_last }}
+#### Primary Position: {{ player.primary_position }}
+#### Birdate: {{ player.birth_date }}
+#### Height: {{ player.height_feet }}' {{ player.height_inches }}"
+#### Weight: {{ player.weight }}
+#### Throws: {{ player.throws }}
+#### Bats: {{ player.bats }}
+#### Jersey Number: {{ player.jersey_number }}
+{%- endfor %}
+## Infielders
+{%- for player in singleRoster if player.position_desig == "INFIELDER" %}
+### {{ player.name_first_last }}
+#### Primary Position: {{ player.primary_position }}
+#### Birdate: {{ player.birth_date }}
+#### Height: {{ player.height_feet }}' {{ player.height_inches }}"
+#### Weight: {{ player.weight }}
+#### Throws: {{ player.throws }}
+#### Bats: {{ player.bats }}
+#### Jersey Number: {{ player.jersey_number }}
+{%- endfor %}

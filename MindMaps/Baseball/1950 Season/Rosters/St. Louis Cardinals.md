@@ -1,0 +1,309 @@
+# St. Louis Cardinals
+## Bullpen
+### Cloyd Boyer
+#### Primary Position: P
+#### Birdate: 1927-09-01T00:00:00
+#### Height: 6' 1"
+#### Weight: 188
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Al Brazle
+#### Primary Position: P
+#### Birdate: 1913-10-19T00:00:00
+#### Height: 6' 2"
+#### Weight: 185
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Harry Brecheen
+#### Primary Position: P
+#### Birdate: 1914-10-14T00:00:00
+#### Height: 5' 10"
+#### Weight: 160
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Cot Deal
+#### Primary Position: P
+#### Birdate: 1923-01-23T00:00:00
+#### Height: 5' 11"
+#### Weight: 185
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
+### Jim Hearn
+#### Primary Position: P
+#### Birdate: 1921-04-11T00:00:00
+#### Height: 6' 3"
+#### Weight: 205
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Ken Johnson
+#### Primary Position: P
+#### Birdate: 1923-01-14T00:00:00
+#### Height: 6' 1"
+#### Weight: 185
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Max Lanier
+#### Primary Position: P
+#### Birdate: 1915-08-18T00:00:00
+#### Height: 5' 10"
+#### Weight: 185
+#### Throws: L
+#### Bats: R
+#### Jersey Number: 
+### Fred Martin
+#### Primary Position: P
+#### Birdate: 1915-06-27T00:00:00
+#### Height: 6' 1"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Red Munger
+#### Primary Position: P
+#### Birdate: 1918-10-04T00:00:00
+#### Height: 6' 2"
+#### Weight: 200
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Al Papai
+#### Primary Position: P
+#### Birdate: 1917-05-07T00:00:00
+#### Height: 6' 3"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Tom Poholsky
+#### Primary Position: P
+#### Birdate: 1929-08-26T00:00:00
+#### Height: 6' 3"
+#### Weight: 205
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Howie Pollet
+#### Primary Position: P
+#### Birdate: 1921-06-26T00:00:00
+#### Height: 6' 2"
+#### Weight: 175
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Gerry Staley
+#### Primary Position: P
+#### Birdate: 1920-08-21T00:00:00
+#### Height: 6' 0"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Ted Wilks
+#### Primary Position: P
+#### Birdate: 1915-11-13T00:00:00
+#### Height: 5' 10"
+#### Weight: 178
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Catchers
+### Johnny Bucha
+#### Primary Position: C
+#### Birdate: 1925-01-22T00:00:00
+#### Height: 5' 11"
+#### Weight: 190
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Joe Garagiola
+#### Primary Position: C
+#### Birdate: 1926-02-12T00:00:00
+#### Height: 6' 0"
+#### Weight: 190
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Del Rice
+#### Primary Position: C
+#### Birdate: 1922-10-27T00:00:00
+#### Height: 6' 2"
+#### Weight: 190
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+## Outfielders
+### Johnny Blatnik
+#### Primary Position: OF
+#### Birdate: 1921-03-10T00:00:00
+#### Height: 6' 0"
+#### Weight: 195
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Chuck Diering
+#### Primary Position: OF
+#### Birdate: 1923-02-05T00:00:00
+#### Height: 5' 10"
+#### Weight: 165
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Erv Dusak
+#### Primary Position: OF
+#### Birdate: 1920-07-29T00:00:00
+#### Height: 6' 2"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Bill Howerton
+#### Primary Position: OF
+#### Birdate: 1921-12-12T00:00:00
+#### Height: 5' 11"
+#### Weight: 185
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Johnny Lindell
+#### Primary Position: OF
+#### Birdate: 1916-08-30T00:00:00
+#### Height: 6' 5"
+#### Weight: 217
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Peanuts Lowrey
+#### Primary Position: OF
+#### Birdate: 1917-08-27T00:00:00
+#### Height: 5' 9"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Stan Musial
+#### Primary Position: OF
+#### Birdate: 1920-11-21T00:00:00
+#### Height: 6' 0"
+#### Weight: 175
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Hal Rice
+#### Primary Position: OF
+#### Birdate: 1924-02-11T00:00:00
+#### Height: 6' 1"
+#### Weight: 195
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Enos Slaughter
+#### Primary Position: OF
+#### Birdate: 1916-04-27T00:00:00
+#### Height: 5' 9"
+#### Weight: 192
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Harry Walker
+#### Primary Position: OF
+#### Birdate: 1916-10-22T00:00:00
+#### Height: 6' 2"
+#### Weight: 190
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+## Infielders
+### Steve Bilko
+#### Primary Position: 1B
+#### Birdate: 1928-11-13T00:00:00
+#### Height: 6' 1"
+#### Weight: 230
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Don Bollweg
+#### Primary Position: 1B
+#### Birdate: 1921-02-12T00:00:00
+#### Height: 6' 1"
+#### Weight: 190
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Tommy Glaviano
+#### Primary Position: 3B
+#### Birdate: 1923-10-26T00:00:00
+#### Height: 5' 9"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Solly Hemus
+#### Primary Position: SS
+#### Birdate: 1923-04-17T00:00:00
+#### Height: 5' 9"
+#### Weight: 175
+#### Throws: R
+#### Bats: L
+#### Jersey Number: 
+### Nippy Jones
+#### Primary Position: 1B
+#### Birdate: 1925-06-29T00:00:00
+#### Height: 6' 1"
+#### Weight: 185
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Eddie Kazak
+#### Primary Position: 3B
+#### Birdate: 1920-07-18T00:00:00
+#### Height: 6' 0"
+#### Weight: 175
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Marty Marion
+#### Primary Position: SS
+#### Birdate: 1916-12-01T00:00:00
+#### Height: 6' 2"
+#### Weight: 170
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Ed Mickelson
+#### Primary Position: 1B
+#### Birdate: 1926-09-09T00:00:00
+#### Height: 6' 3"
+#### Weight: 205
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Eddie Miller
+#### Primary Position: SS
+#### Birdate: 1916-11-26T00:00:00
+#### Height: 5' 9"
+#### Weight: 180
+#### Throws: R
+#### Bats: R
+#### Jersey Number: 
+### Rocky Nelson
+#### Primary Position: 1B
+#### Birdate: 1924-11-18T00:00:00
+#### Height: 5' 11"
+#### Weight: 175
+#### Throws: L
+#### Bats: L
+#### Jersey Number: 
+### Red Schoendienst
+#### Primary Position: 2B
+#### Birdate: 1923-02-02T00:00:00
+#### Height: 6' 0"
+#### Weight: 170
+#### Throws: R
+#### Bats: S
+#### Jersey Number: 
