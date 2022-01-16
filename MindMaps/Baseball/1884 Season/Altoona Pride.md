@@ -22,6 +22,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Joe Connors
 ##### Primary Position: P
 ##### Birdate: 1862-01-01T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### John Murphy
 ##### Primary Position: P
 ##### Birdate: 1858-01-01T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 ### Catchers
 #### Pat Carroll
 ##### Primary Position: C
@@ -47,6 +95,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Charlie Manlove
 ##### Primary Position: C
 ##### Birdate: 1862-10-08T00:00:00
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Jerry Moore
 ##### Primary Position: C
 ##### Birdate: 1855-01-01T00:00:00
@@ -63,6 +143,22 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 ### Outfielders
 #### George Daisy
 ##### Primary Position: OF
@@ -72,6 +168,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Jack Leary
 ##### Primary Position: OF
 ##### Birdate: 1858-07-01T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### George Noftsker
 ##### Primary Position: OF
 ##### Birdate: 1859-08-24T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Taylor Shafer
 ##### Primary Position: OF
 ##### Birdate: 1866-07-13T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 ### Infielders
 #### Charlie Berry
 ##### Primary Position: 2B
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Clarence Cross
 ##### Primary Position: SS
 ##### Birdate: 1856-03-04T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Charlie Dougherty
 ##### Primary Position: 2B
 ##### Birdate: 1862-02-07T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### John Grady
 ##### Primary Position: 1B
 ##### Birdate: 1860-06-18T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Frank Harris
 ##### Primary Position: 1B
 ##### Birdate: 1858-11-02T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Harry Koons
 ##### Primary Position: 3B
 ##### Birdate: 1862-08-18T00:00:00
@@ -145,6 +385,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291
 #### Germany Smith
 ##### Primary Position: SS
 ##### Birdate: 1863-04-21T00:00:00
@@ -153,3 +409,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .371
+###### BB: 2
+###### AVG: .254
+###### OPS: .631
+###### SO: 45
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .289
+###### G: 72
+###### H: 74
+###### OBP: .259
+###### AO: 0
+###### R: 31
+###### AB: 291

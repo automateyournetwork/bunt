@@ -22,6 +22,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Doc Landis
 ##### Primary Position: P
 ##### Birdate: 1854-08-16T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tricky Nichols
 ##### Primary Position: P
 ##### Birdate: 1850-07-26T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Russ
 ##### Primary Position: P
 ##### Birdate: 1858-04-01T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bill Wise
 ##### Primary Position: P
 ##### Birdate: 1861-03-15T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Bill Jones
 ##### Primary Position: C
@@ -63,6 +68,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Ed Whiting
 ##### Primary Position: C
 ##### Birdate: 1860-01-01T00:00:00
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Tom Brown
 ##### Primary Position: OF
@@ -80,6 +87,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Frank Burt
 ##### Primary Position: OF
 ##### Birdate: 
@@ -88,6 +96,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Monk Cline
 ##### Primary Position: OF
 ##### Birdate: 1858-03-03T00:00:00
@@ -96,6 +105,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Nick Scharf
 ##### Primary Position: OF
 ##### Birdate: 1858-07-18T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### L. Smith
 ##### Primary Position: OF
 ##### Birdate: 
@@ -112,6 +123,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Waitt
 ##### Primary Position: OF
 ##### Birdate: 1853-10-14T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Amos Booth
 ##### Primary Position: 2B
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry East
 ##### Primary Position: 3B
 ##### Birdate: 1862-04-12T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Tom Evers
 ##### Primary Position: 2B
 ##### Birdate: 1852-03-31T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Householder
 ##### Primary Position: 1B
 ##### Birdate: 1854-02-08T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Harry Jacoby
 ##### Primary Position: 3B
 ##### Birdate: 
@@ -161,6 +178,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Jack Leary
 ##### Primary Position: 3B
 ##### Birdate: 1858-07-01T00:00:00
@@ -169,6 +187,7 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Henry Myers
 ##### Primary Position: SS
 ##### Birdate: 1858-05-01T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gracie Pierce
 ##### Primary Position: 2B
 ##### Birdate: 1860-01-01T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Shetzline
 ##### Primary Position: 3B
 ##### Birdate: 1850-01-01T00:00:00
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Smiley
 ##### Primary Position: 2B
 ##### Birdate: 1856-01-01T00:00:00
@@ -201,3 +223,4 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics

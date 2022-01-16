@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 45
+##### Statistics
 #### Brad Boxberger
 ##### Primary Position: P
 ##### Birdate: 1988-05-27T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 29
+##### Statistics
 #### Brad Brach
 ##### Primary Position: P
 ##### Birdate: 1986-04-12T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 58
+##### Statistics
 #### Andrew Cashner
 ##### Primary Position: P
 ##### Birdate: 1986-09-11T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 34
+##### Statistics
 #### Robbie Erlin
 ##### Primary Position: P
 ##### Birdate: 1990-10-08T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 41
+##### Statistics
 #### Luke Gregerson
 ##### Primary Position: P
 ##### Birdate: 1984-05-14T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 57
+##### Statistics
 #### Colt Hynes
 ##### Primary Position: P
 ##### Birdate: 1985-06-28T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 56
+##### Statistics
 #### Ian Kennedy
 ##### Primary Position: P
 ##### Birdate: 1984-12-19T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 22
+##### Statistics
 #### Tommy Layne
 ##### Primary Position: P
 ##### Birdate: 1984-11-02T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 40
+##### Statistics
 #### Jason Marquis
 ##### Primary Position: P
 ##### Birdate: 1978-08-21T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 21
+##### Statistics
 #### Miles Mikolas
 ##### Primary Position: P
 ##### Birdate: 1988-08-23T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 39
+##### Statistics
 #### Sean O'Sullivan
 ##### Primary Position: P
 ##### Birdate: 1987-09-01T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 59
+##### Statistics
 #### Clayton Richard
 ##### Primary Position: P
 ##### Birdate: 1983-09-12T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 33
+##### Statistics
 #### Tyson Ross
 ##### Primary Position: P
 ##### Birdate: 1987-04-22T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 38
+##### Statistics
 #### Burch Smith
 ##### Primary Position: P
 ##### Birdate: 1990-04-12T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 26
+##### Statistics
 #### Tim Stauffer
 ##### Primary Position: P
 ##### Birdate: 1982-06-02T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 46
+##### Statistics
 #### Huston Street
 ##### Primary Position: P
 ##### Birdate: 1983-08-02T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 16
+##### Statistics
 #### Eric Stults
 ##### Primary Position: P
 ##### Birdate: 1979-12-09T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 53
+##### Statistics
 #### Joe Thatcher
 ##### Primary Position: P
 ##### Birdate: 1981-10-04T00:00:00
@@ -166,6 +184,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 54
+##### Statistics
 #### Dale Thayer
 ##### Primary Position: P
 ##### Birdate: 1980-12-17T00:00:00
@@ -174,6 +193,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 55
+##### Statistics
 #### Nick Vincent
 ##### Primary Position: P
 ##### Birdate: 1986-07-12T00:00:00
@@ -182,6 +202,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 50
+##### Statistics
 #### Edinson Volquez
 ##### Primary Position: P
 ##### Birdate: 1983-07-03T00:00:00
@@ -190,6 +211,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 37
+##### Statistics
 #### Thad Weber
 ##### Primary Position: P
 ##### Birdate: 1984-09-28T00:00:00
@@ -198,6 +220,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 56
+##### Statistics
 ### Catchers
 #### John Baker
 ##### Primary Position: C
@@ -207,6 +230,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 8
+##### Statistics
 #### Yasmani Grandal
 ##### Primary Position: C
 ##### Birdate: 1988-11-08T00:00:00
@@ -215,6 +239,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 12
+##### Statistics
 #### Nick Hundley
 ##### Primary Position: C
 ##### Birdate: 1983-09-08T00:00:00
@@ -223,6 +248,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 4
+##### Statistics
 #### Rene Rivera
 ##### Primary Position: C
 ##### Birdate: 1983-07-31T00:00:00
@@ -231,6 +257,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 44
+##### Statistics
 #### Chris Robinson
 ##### Primary Position: C
 ##### Birdate: 1984-05-12T00:00:00
@@ -239,6 +266,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 8
+##### Statistics
 ### Outfielders
 ### Infielders
 #### Yonder Alonso
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 23
+##### Statistics
 #### Alexi Amarista
 ##### Primary Position: SS
 ##### Birdate: 1989-04-06T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 5
+##### Statistics
 #### Everth Cabrera
 ##### Primary Position: SS
 ##### Birdate: 1986-11-17T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 2
+##### Statistics
 #### Ronny Cedeno
 ##### Primary Position: SS
 ##### Birdate: 1983-02-02T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 3
+##### Statistics
 #### Pedro Ciriaco
 ##### Primary Position: SS
 ##### Birdate: 1985-09-27T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 3
+##### Statistics
 #### Logan Forsythe
 ##### Primary Position: 2B
 ##### Birdate: 1987-01-14T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 11
+##### Statistics
 #### Jedd Gyorko
 ##### Primary Position: 2B
 ##### Birdate: 1988-09-23T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 9
+##### Statistics
 #### Chase Headley
 ##### Primary Position: 3B
 ##### Birdate: 1984-05-09T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 7
+##### Statistics
 #### Tommy Medica
 ##### Primary Position: 1B
 ##### Birdate: 1988-04-09T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 14
+##### Statistics
 #### Cody Ransom
 ##### Primary Position: 3B
 ##### Birdate: 1976-02-17T00:00:00
@@ -321,3 +358,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 1
+##### Statistics

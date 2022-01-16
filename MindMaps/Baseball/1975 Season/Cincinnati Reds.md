@@ -22,6 +22,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Pedro Borbon
 ##### Primary Position: P
 ##### Birdate: 1946-12-02T00:00:00
@@ -30,6 +52,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Clay Carroll
 ##### Primary Position: P
 ##### Birdate: 1941-05-02T00:00:00
@@ -38,6 +82,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Tom Carroll
 ##### Primary Position: P
 ##### Birdate: 1952-11-05T00:00:00
@@ -46,6 +112,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Pat Darcy
 ##### Primary Position: P
 ##### Birdate: 1950-05-12T00:00:00
@@ -54,6 +142,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Rawly Eastwick
 ##### Primary Position: P
 ##### Birdate: 1950-10-24T00:00:00
@@ -62,6 +172,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Don Gullett
 ##### Primary Position: P
 ##### Birdate: 1951-01-06T00:00:00
@@ -70,6 +202,28 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Tom Hall
 ##### Primary Position: P
 ##### Birdate: 1947-11-23T00:00:00
@@ -78,6 +232,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Clay Kirby
 ##### Primary Position: P
 ##### Birdate: 1948-06-25T00:00:00
@@ -86,6 +262,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Will McEnaney
 ##### Primary Position: P
 ##### Birdate: 1952-02-14T00:00:00
@@ -94,6 +292,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Gary Nolan
 ##### Primary Position: P
 ##### Birdate: 1948-05-27T00:00:00
@@ -102,6 +322,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Fred Norman
 ##### Primary Position: P
 ##### Birdate: 1942-08-20T00:00:00
@@ -110,6 +352,28 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 ### Catchers
 #### Johnny Bench
 ##### Primary Position: C
@@ -119,6 +383,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Bill Plummer
 ##### Primary Position: C
 ##### Birdate: 1947-03-21T00:00:00
@@ -127,6 +413,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Don Werner
 ##### Primary Position: C
 ##### Birdate: 1953-03-08T00:00:00
@@ -135,6 +443,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 ### Outfielders
 #### Ed Armbrister
 ##### Primary Position: OF
@@ -144,6 +474,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Terry Crowley
 ##### Primary Position: OF
 ##### Birdate: 1947-02-16T00:00:00
@@ -152,6 +504,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### George Foster
 ##### Primary Position: OF
 ##### Birdate: 1948-12-01T00:00:00
@@ -160,6 +534,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Cesar Geronimo
 ##### Primary Position: OF
 ##### Birdate: 1948-03-11T00:00:00
@@ -168,6 +564,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Ken Griffey
 ##### Primary Position: OF
 ##### Birdate: 1950-04-10T00:00:00
@@ -176,6 +594,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Merv Rettenmund
 ##### Primary Position: OF
 ##### Birdate: 1943-06-06T00:00:00
@@ -184,6 +624,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Pete Rose
 ##### Primary Position: OF
 ##### Birdate: 1941-04-14T00:00:00
@@ -192,6 +654,28 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 ### Infielders
 #### Darrel Chaney
 ##### Primary Position: SS
@@ -201,6 +685,28 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Dave Concepcion
 ##### Primary Position: SS
 ##### Birdate: 1948-06-17T00:00:00
@@ -209,6 +715,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Dan Driessen
 ##### Primary Position: 1B
 ##### Birdate: 1951-07-29T00:00:00
@@ -217,6 +745,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Doug Flynn
 ##### Primary Position: 2B
 ##### Birdate: 1951-04-18T00:00:00
@@ -225,6 +775,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Joe Morgan
 ##### Primary Position: 2B
 ##### Birdate: 1943-09-19T00:00:00
@@ -233,6 +805,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### Tony Perez
 ##### Primary Position: 1B
 ##### Birdate: 1942-05-14T00:00:00
@@ -241,6 +835,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8
 #### John Vukovich
 ##### Primary Position: 3B
 ##### Birdate: 1947-07-31T00:00:00
@@ -249,3 +865,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .125
+###### BB: 0
+###### AVG: .125
+###### OPS: .347
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .125
+###### G: 7
+###### H: 1
+###### OBP: .222
+###### AO: 0
+###### R: 0
+###### AB: 8

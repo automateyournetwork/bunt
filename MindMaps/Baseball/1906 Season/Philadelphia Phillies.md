@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Harry Kane
 ##### Primary Position: P
 ##### Birdate: 1883-07-27T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Johnny Lush
 ##### Primary Position: P
 ##### Birdate: 1885-10-08T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### John McCloskey
 ##### Primary Position: P
 ##### Birdate: 1882-08-25T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Walter Moser
 ##### Primary Position: P
 ##### Birdate: 1881-02-27T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Kid Nichols
 ##### Primary Position: P
 ##### Birdate: 1869-09-14T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Togie Pittinger
 ##### Primary Position: P
 ##### Birdate: 1872-01-12T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Elwood Richie
 ##### Primary Position: P
 ##### Birdate: 1883-08-23T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Charlie Roy
 ##### Primary Position: P
 ##### Birdate: 1884-06-22T00:00:00
@@ -86,6 +222,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Tully Sparks
 ##### Primary Position: P
 ##### Birdate: 1874-12-12T00:00:00
@@ -94,6 +247,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 ### Catchers
 #### Ches Crist
 ##### Primary Position: C
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Jerry Donovan
 ##### Primary Position: C
 ##### Birdate: 1876-09-03T00:00:00
@@ -111,6 +298,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Red Dooin
 ##### Primary Position: C
 ##### Birdate: 1879-06-12T00:00:00
@@ -119,6 +323,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Harry Huston
 ##### Primary Position: C
 ##### Birdate: 1883-10-14T00:00:00
@@ -127,6 +348,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 ### Outfielders
 #### Hugh Duffy
 ##### Primary Position: OF
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Sherry Magee
 ##### Primary Position: OF
 ##### Birdate: 1884-08-06T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Roy Thomas
 ##### Primary Position: OF
 ##### Birdate: 1874-03-24T00:00:00
@@ -152,6 +424,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### John Titus
 ##### Primary Position: OF
 ##### Birdate: 1876-02-21T00:00:00
@@ -160,6 +449,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 ### Infielders
 #### Kitty Bransfield
 ##### Primary Position: 1B
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Ernie Courtney
 ##### Primary Position: 3B
 ##### Birdate: 1875-01-20T00:00:00
@@ -177,6 +500,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Michael Doolin
 ##### Primary Position: SS
 ##### Birdate: 1880-05-07T00:00:00
@@ -185,6 +525,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Kid Gleason
 ##### Primary Position: 2B
 ##### Birdate: 1866-10-26T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Paul Sentell
 ##### Primary Position: 3B
 ##### Birdate: 1879-08-27T00:00:00
@@ -201,6 +575,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129
 #### Joe Ward
 ##### Primary Position: 3B
 ##### Birdate: 1884-09-02T00:00:00
@@ -209,3 +600,20 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .450
+###### BB: 5
+###### AVG: .295
+###### OPS: .771
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .295
+###### G: 35
+###### H: 38
+###### OBP: .321
+###### AO: 0
+###### R: 12
+###### AB: 129

@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Daley
 ##### Primary Position: P
 ##### Birdate: 1868-06-27T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Kid Madden
 ##### Primary Position: P
 ##### Birdate: 1867-10-02T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Old Hoss Radbourn
 ##### Primary Position: P
 ##### Birdate: 1854-12-11T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Sowders
 ##### Primary Position: P
 ##### Birdate: 1864-11-29T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Charlie Bennett
 ##### Primary Position: C
@@ -63,6 +68,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Ganzel
 ##### Primary Position: C
 ##### Birdate: 1862-06-18T00:00:00
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jerry Hurley
 ##### Primary Position: C
 ##### Birdate: 1863-06-15T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Tom Brown
 ##### Primary Position: OF
@@ -88,6 +96,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dick Johnston
 ##### Primary Position: OF
 ##### Birdate: 1863-04-06T00:00:00
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### King Kelly
 ##### Primary Position: OF
 ##### Birdate: 1857-12-31T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Dan Brouthers
 ##### Primary Position: 1B
@@ -113,6 +124,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Billy Nash
 ##### Primary Position: 3B
 ##### Birdate: 1865-06-24T00:00:00
@@ -121,6 +133,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Quinn
 ##### Primary Position: 2B
 ##### Birdate: 1862-12-24T00:00:00
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Irv Ray
 ##### Primary Position: SS
 ##### Birdate: 1864-01-22T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Hardy Richardson
 ##### Primary Position: 2B
 ##### Birdate: 1855-04-21T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pop Smith
 ##### Primary Position: SS
 ##### Birdate: 1856-10-12T00:00:00
@@ -153,3 +169,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Fred Bruckbauer
 ##### Primary Position: P
 ##### Birdate: 1938-05-27T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bert Cueto
 ##### Primary Position: P
 ##### Birdate: 1937-08-14T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gary Dotter
 ##### Primary Position: P
 ##### Birdate: 1942-08-07T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Paul Giel
 ##### Primary Position: P
 ##### Birdate: 1932-02-29T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Kaat
 ##### Primary Position: P
 ##### Birdate: 1938-11-07T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jack Kralick
 ##### Primary Position: P
 ##### Birdate: 1935-06-01T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Don Lee
 ##### Primary Position: P
 ##### Birdate: 1934-02-26T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Danny McDevitt
 ##### Primary Position: P
 ##### Birdate: 1932-11-18T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ray Moore
 ##### Primary Position: P
 ##### Birdate: 1926-06-01T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Palmquist
 ##### Primary Position: P
 ##### Birdate: 1933-06-10T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Camilo Pascual
 ##### Primary Position: P
 ##### Birdate: 1934-01-20T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Pleis
 ##### Primary Position: P
 ##### Birdate: 1937-08-05T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pedro Ramos
 ##### Primary Position: P
 ##### Birdate: 1935-04-28T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Ted Sadowski
 ##### Primary Position: P
 ##### Birdate: 1936-04-01T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Al Schroll
 ##### Primary Position: P
 ##### Birdate: 1932-03-22T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Stange
 ##### Primary Position: P
 ##### Birdate: 1936-10-27T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Chuck Stobbs
 ##### Primary Position: P
 ##### Birdate: 1929-07-02T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Earl Battey
 ##### Primary Position: C
@@ -167,6 +185,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ron Henry
 ##### Primary Position: C
 ##### Birdate: 1936-08-07T00:00:00
@@ -175,6 +194,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hal Naragon
 ##### Primary Position: C
 ##### Birdate: 1928-10-01T00:00:00
@@ -183,6 +203,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Bob Allison
 ##### Primary Position: OF
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Altobelli
 ##### Primary Position: OF
 ##### Birdate: 1932-05-26T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dan Dobbek
 ##### Primary Position: OF
 ##### Birdate: 1934-12-06T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lenny Green
 ##### Primary Position: OF
 ##### Birdate: 1933-01-06T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jim Lemon
 ##### Primary Position: OF
 ##### Birdate: 1928-03-23T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Tuttle
 ##### Primary Position: OF
 ##### Birdate: 1929-07-04T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Elmer Valo
 ##### Primary Position: OF
 ##### Birdate: 1921-03-05T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Whisenant
 ##### Primary Position: OF
 ##### Birdate: 1929-12-14T00:00:00
@@ -248,6 +276,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Julio Becquer
 ##### Primary Position: 1B
@@ -257,6 +286,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Reno Bertoia
 ##### Primary Position: 3B
 ##### Birdate: 1935-01-08T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Consolo
 ##### Primary Position: SS
 ##### Birdate: 1934-08-18T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Gardner
 ##### Primary Position: 2B
 ##### Birdate: 1927-07-19T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harmon Killebrew
 ##### Primary Position: 3B
 ##### Birdate: 1936-06-29T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ted Lepcio
 ##### Primary Position: 3B
 ##### Birdate: 1929-07-28T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Martin
 ##### Primary Position: 2B
 ##### Birdate: 1928-05-16T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Mincher
 ##### Primary Position: 1B
 ##### Birdate: 1938-06-24T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Rich Rollins
 ##### Primary Position: 3B
 ##### Birdate: 1938-04-16T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Snyder
 ##### Primary Position: 2B
 ##### Birdate: 1932-08-15T00:00:00
@@ -329,6 +367,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jose Valdivielso
 ##### Primary Position: SS
 ##### Birdate: 1934-05-22T00:00:00
@@ -337,6 +376,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Zoilo Versalles
 ##### Primary Position: SS
 ##### Birdate: 1939-12-18T00:00:00
@@ -345,3 +385,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

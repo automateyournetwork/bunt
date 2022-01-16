@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim McCormick
 ##### Primary Position: P
 ##### Birdate: 1856-11-03T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Barney Gilligan
 ##### Primary Position: C
@@ -39,6 +41,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doc Kennedy
 ##### Primary Position: C
 ##### Birdate: 1853-08-11T00:00:00
@@ -47,6 +50,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Al Hall
 ##### Primary Position: OF
@@ -56,6 +60,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Ned Hanlon
 ##### Primary Position: OF
 ##### Birdate: 1857-08-22T00:00:00
@@ -64,6 +69,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Hotaling
 ##### Primary Position: OF
 ##### Birdate: 1856-12-16T00:00:00
@@ -72,6 +78,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### George Shafer
 ##### Primary Position: OF
 ##### Birdate: 1851-10-01T00:00:00
@@ -80,6 +87,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Harry Wheeler
 ##### Primary Position: OF
 ##### Birdate: 1858-03-03T00:00:00
@@ -88,6 +96,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Fred Dunlap
 ##### Primary Position: 2B
@@ -97,6 +106,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Glasscock
 ##### Primary Position: SS
 ##### Birdate: 1857-07-22T00:00:00
@@ -105,6 +115,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Hankinson
 ##### Primary Position: 3B
 ##### Birdate: 1856-04-29T00:00:00
@@ -113,6 +124,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike McGeary
 ##### Primary Position: 3B
 ##### Birdate: 1850-11-16T00:00:00
@@ -121,6 +133,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Phillips
 ##### Primary Position: 1B
 ##### Birdate: 1857-04-01T00:00:00
@@ -129,3 +142,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

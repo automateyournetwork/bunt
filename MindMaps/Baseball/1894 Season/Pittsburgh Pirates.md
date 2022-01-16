@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Easton
 ##### Primary Position: P
 ##### Birdate: 1865-02-28T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Red Ehret
 ##### Primary Position: P
 ##### Birdate: 1868-08-31T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ad Gumbert
 ##### Primary Position: P
 ##### Birdate: 1867-10-10T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Jordan
 ##### Primary Position: P
 ##### Birdate: 1873-02-14T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Frank Killen
 ##### Primary Position: P
 ##### Birdate: 1870-11-30T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Phil Knell
 ##### Primary Position: P
 ##### Birdate: 1865-03-12T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jock Menefee
 ##### Primary Position: P
 ##### Birdate: 1868-01-15T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Adonis Terry
 ##### Primary Position: P
 ##### Birdate: 1864-08-07T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Connie Mack
 ##### Primary Position: C
@@ -95,6 +104,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Merritt
 ##### Primary Position: C
 ##### Birdate: 1870-07-30T00:00:00
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Sugden
 ##### Primary Position: C
 ##### Birdate: 1870-07-31T00:00:00
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Patsy Donovan
 ##### Primary Position: OF
@@ -120,6 +132,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### George Nicol
 ##### Primary Position: OF
 ##### Birdate: 1870-10-17T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Elmer Smith
 ##### Primary Position: OF
 ##### Birdate: 1868-03-23T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jake Stenzel
 ##### Primary Position: OF
 ##### Birdate: 1867-06-24T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Farmer Weaver
 ##### Primary Position: OF
 ##### Birdate: 1865-03-23T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Jake Beckley
 ##### Primary Position: 1B
@@ -161,6 +178,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lou Bierbauer
 ##### Primary Position: 2B
 ##### Birdate: 1865-09-28T00:00:00
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Monte Cross
 ##### Primary Position: SS
 ##### Birdate: 1869-08-31T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gene DeMontreville
 ##### Primary Position: SS
 ##### Birdate: 1873-03-10T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Glasscock
 ##### Primary Position: SS
 ##### Birdate: 1857-07-22T00:00:00
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Hartman
 ##### Primary Position: 3B
 ##### Birdate: 1865-04-21T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Denny Lyons
 ##### Primary Position: 3B
 ##### Birdate: 1866-03-12T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Ritz
 ##### Primary Position: 3B
 ##### Birdate: 1874-01-01T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Frank Scheibeck
 ##### Primary Position: SS
 ##### Birdate: 1865-06-28T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gene Steere
 ##### Primary Position: SS
 ##### Birdate: 1872-08-16T00:00:00
@@ -233,3 +259,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

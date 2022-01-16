@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rube Benton
 ##### Primary Position: P
 ##### Birdate: 1890-06-27T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Christy Mathewson
 ##### Primary Position: P
 ##### Birdate: 1880-08-12T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Emilio Palmero
 ##### Primary Position: P
 ##### Birdate: 1895-06-13T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pol Perritt
 ##### Primary Position: P
 ##### Birdate: 1891-08-30T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hank Ritter
 ##### Primary Position: P
 ##### Birdate: 1893-10-12T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Slim Sallee
 ##### Primary Position: P
 ##### Birdate: 1885-02-03T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rube Schauer
 ##### Primary Position: P
 ##### Birdate: 1891-03-19T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ferdie Schupp
 ##### Primary Position: P
 ##### Birdate: 1891-01-16T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Smith
 ##### Primary Position: P
 ##### Birdate: 1892-05-31T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Sailor Stroud
 ##### Primary Position: P
 ##### Birdate: 1885-05-15T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jeff Tesreau
 ##### Primary Position: P
 ##### Birdate: 1889-03-05T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Red Dooin
 ##### Primary Position: C
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Duke Kelleher
 ##### Primary Position: C
 ##### Birdate: 1893-09-30T00:00:00
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Brad Kocher
 ##### Primary Position: C
 ##### Birdate: 1888-01-16T00:00:00
@@ -135,6 +149,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lew McCarty
 ##### Primary Position: C
 ##### Birdate: 1888-11-17T00:00:00
@@ -143,6 +158,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Rariden
 ##### Primary Position: C
 ##### Birdate: 1888-02-05T00:00:00
@@ -151,6 +167,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lew Wendell
 ##### Primary Position: C
 ##### Birdate: 1892-03-22T00:00:00
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### George Burns
 ##### Primary Position: OF
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Benny Kauff
 ##### Primary Position: OF
 ##### Birdate: 1890-01-05T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Red Killefer
 ##### Primary Position: OF
 ##### Birdate: 1885-04-13T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave Robertson
 ##### Primary Position: OF
 ##### Birdate: 1889-09-25T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Edd Roush
 ##### Primary Position: OF
 ##### Birdate: 1893-05-08T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Frederick Brainard
 ##### Primary Position: 1B
@@ -209,6 +232,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Michael Doolin
 ##### Primary Position: SS
 ##### Birdate: 1880-05-07T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Larry Doyle
 ##### Primary Position: 2B
 ##### Birdate: 1886-07-31T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Art Fletcher
 ##### Primary Position: SS
 ##### Birdate: 1885-01-05T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Buck Herzog
 ##### Primary Position: 2B
 ##### Birdate: 1885-07-09T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Walter Holke
 ##### Primary Position: 1B
 ##### Birdate: 1892-12-25T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Herb Hunter
 ##### Primary Position: 3B
 ##### Birdate: 1895-12-25T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### High Pockets Kelly
 ##### Primary Position: 1B
 ##### Birdate: 1895-09-10T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hans Lobert
 ##### Primary Position: 3B
 ##### Birdate: 1881-10-18T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill McKechnie
 ##### Primary Position: 3B
 ##### Birdate: 1886-08-07T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Fred Merkle
 ##### Primary Position: 1B
 ##### Birdate: 1888-12-20T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jose Rodriguez
 ##### Primary Position: 2B
 ##### Birdate: 1894-02-23T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Heinie Zimmerman
 ##### Primary Position: 3B
 ##### Birdate: 1887-02-09T00:00:00
@@ -305,3 +340,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

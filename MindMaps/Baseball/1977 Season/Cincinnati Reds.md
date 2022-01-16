@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Billingham
 ##### Primary Position: P
 ##### Birdate: 1943-02-21T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pedro Borbon
 ##### Primary Position: P
 ##### Birdate: 1946-12-02T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Caldwell
 ##### Primary Position: P
 ##### Birdate: 1949-01-22T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doug Capilla
 ##### Primary Position: P
 ##### Birdate: 1952-01-07T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dan Dumoulin
 ##### Primary Position: P
 ##### Birdate: 1953-08-20T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rawly Eastwick
 ##### Primary Position: P
 ##### Birdate: 1950-10-24T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Woodie Fryman
 ##### Primary Position: P
 ##### Birdate: 1940-04-12T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Henderson
 ##### Primary Position: P
 ##### Birdate: 1946-07-04T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Hoerner
 ##### Primary Position: P
 ##### Birdate: 1936-11-12T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Hume
 ##### Primary Position: P
 ##### Birdate: 1953-03-29T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Paul Moskau
 ##### Primary Position: P
 ##### Birdate: 1953-12-20T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dale Murray
 ##### Primary Position: P
 ##### Birdate: 1950-02-02T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gary Nolan
 ##### Primary Position: P
 ##### Birdate: 1948-05-27T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Norman
 ##### Primary Position: P
 ##### Birdate: 1942-08-20T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Manny Sarmiento
 ##### Primary Position: P
 ##### Birdate: 1956-02-02T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Seaver
 ##### Primary Position: P
 ##### Birdate: 1944-11-17T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mario Soto
 ##### Primary Position: P
 ##### Birdate: 1956-07-12T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Angel Torres
 ##### Primary Position: P
 ##### Birdate: 1952-10-24T00:00:00
@@ -166,6 +184,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pat Zachry
 ##### Primary Position: P
 ##### Birdate: 1952-04-24T00:00:00
@@ -174,6 +193,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Johnny Bench
 ##### Primary Position: C
@@ -183,6 +203,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Plummer
 ##### Primary Position: C
 ##### Birdate: 1947-03-21T00:00:00
@@ -191,6 +212,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Werner
 ##### Primary Position: C
 ##### Birdate: 1953-03-08T00:00:00
@@ -199,6 +221,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Ed Armbrister
 ##### Primary Position: OF
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Bailey
 ##### Primary Position: OF
 ##### Birdate: 1942-10-13T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Foster
 ##### Primary Position: OF
 ##### Birdate: 1948-12-01T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cesar Geronimo
 ##### Primary Position: OF
 ##### Birdate: 1948-03-11T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ken Griffey
 ##### Primary Position: OF
 ##### Birdate: 1950-04-10T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Mike Lum
 ##### Primary Position: OF
 ##### Birdate: 1945-10-27T00:00:00
@@ -248,6 +276,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Rose
 ##### Primary Position: OF
 ##### Birdate: 1941-04-14T00:00:00
@@ -256,6 +285,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Champ Summers
 ##### Primary Position: OF
 ##### Birdate: 1946-06-15T00:00:00
@@ -264,6 +294,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Rick Auerbach
 ##### Primary Position: SS
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave Concepcion
 ##### Primary Position: SS
 ##### Birdate: 1948-06-17T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dan Driessen
 ##### Primary Position: 1B
 ##### Birdate: 1951-07-29T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Doug Flynn
 ##### Primary Position: 2B
 ##### Birdate: 1951-04-18T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ray Knight
 ##### Primary Position: 3B
 ##### Birdate: 1952-12-28T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Morgan
 ##### Primary Position: 2B
 ##### Birdate: 1943-09-19T00:00:00
@@ -313,3 +349,4 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics

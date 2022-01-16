@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Clarkson
 ##### Primary Position: P
 ##### Birdate: 1861-07-01T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Kid Nichols
 ##### Primary Position: P
 ##### Birdate: 1869-09-14T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Harry Staley
 ##### Primary Position: P
 ##### Birdate: 1866-11-03T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Stivetts
 ##### Primary Position: P
 ##### Birdate: 1868-03-31T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Viau
 ##### Primary Position: P
 ##### Birdate: 1866-07-05T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Charlie Bennett
 ##### Primary Position: C
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dan Burke
 ##### Primary Position: C
 ##### Birdate: 1868-10-25T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Daly
 ##### Primary Position: C
 ##### Birdate: 1868-09-21T00:00:00
@@ -87,6 +95,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Ganzel
 ##### Primary Position: C
 ##### Birdate: 1862-06-18T00:00:00
@@ -95,6 +104,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### King Kelly
 ##### Primary Position: C
 ##### Birdate: 1857-12-31T00:00:00
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Hugh Duffy
 ##### Primary Position: OF
@@ -112,6 +123,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tommy McCarthy
 ##### Primary Position: OF
 ##### Birdate: 1863-07-24T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Stovey
 ##### Primary Position: OF
 ##### Birdate: 1856-12-20T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Herman Long
 ##### Primary Position: SS
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Lowe
 ##### Primary Position: 2B
 ##### Birdate: 1865-07-10T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Nash
 ##### Primary Position: 3B
 ##### Birdate: 1865-06-24T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Quinn
 ##### Primary Position: 2B
 ##### Birdate: 1862-12-24T00:00:00
@@ -161,6 +178,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tommy Tucker
 ##### Primary Position: 1B
 ##### Birdate: 1863-10-28T00:00:00
@@ -169,3 +187,4 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics

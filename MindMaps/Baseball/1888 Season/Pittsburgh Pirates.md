@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Hardie Henderson
 ##### Primary Position: P
 ##### Birdate: 1862-10-31T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Phil Knell
 ##### Primary Position: P
 ##### Birdate: 1865-03-12T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Ed Morris
 ##### Primary Position: P
 ##### Birdate: 1862-09-29T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Harry Staley
 ##### Primary Position: P
 ##### Birdate: 1866-11-03T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 ### Catchers
 #### Fred Carroll
 ##### Primary Position: C
@@ -63,6 +148,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Bill Farmer
 ##### Primary Position: C
 ##### Birdate: 1864-02-27T00:00:00
@@ -71,6 +173,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Doggie Miller
 ##### Primary Position: C
 ##### Birdate: 1864-08-15T00:00:00
@@ -79,6 +198,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Henry Yaik
 ##### Primary Position: C
 ##### Birdate: 1864-03-01T00:00:00
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 ### Outfielders
 #### Cliff Carroll
 ##### Primary Position: OF
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### John Coleman
 ##### Primary Position: OF
 ##### Birdate: 1863-03-06T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Abner Dalrymple
 ##### Primary Position: OF
 ##### Birdate: 1857-09-09T00:00:00
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Jocko Fields
 ##### Primary Position: OF
 ##### Birdate: 1864-10-20T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Al Maul
 ##### Primary Position: OF
 ##### Birdate: 1865-10-09T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Sam Nicholl
 ##### Primary Position: OF
 ##### Birdate: 1869-04-20T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Billy Sunday
 ##### Primary Position: OF
 ##### Birdate: 1862-11-19T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 ### Infielders
 #### Jake Beckley
 ##### Primary Position: 1B
@@ -153,6 +425,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Elmer Cleveland
 ##### Primary Position: 3B
 ##### Birdate: 1862-09-15T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Fred Dunlap
 ##### Primary Position: 2B
 ##### Birdate: 1859-05-21T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Bill Kuehne
 ##### Primary Position: 3B
 ##### Birdate: 1858-10-24T00:00:00
@@ -177,6 +500,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Pete McShannic
 ##### Primary Position: 3B
 ##### Birdate: 1864-03-20T00:00:00
@@ -185,6 +525,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6
 #### Pop Smith
 ##### Primary Position: 2B
 ##### Birdate: 1856-10-12T00:00:00
@@ -193,3 +550,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .333
+###### BB: 1
+###### AVG: .333
+###### OPS: .762
+###### SO: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 2
+###### H: 2
+###### OBP: .429
+###### AO: 0
+###### R: 0
+###### AB: 6

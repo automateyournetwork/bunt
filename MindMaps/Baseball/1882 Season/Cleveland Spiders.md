@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Fatty Briody
 ##### Primary Position: C
@@ -31,6 +32,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### John Dwyer
 ##### Primary Position: C
 ##### Birdate: 
@@ -39,6 +41,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### John Kelly
 ##### Primary Position: C
 ##### Birdate: 1859-03-03T00:00:00
@@ -47,6 +50,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doc Kennedy
 ##### Primary Position: C
 ##### Birdate: 1853-08-11T00:00:00
@@ -55,6 +59,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Dude Esterbrook
 ##### Primary Position: OF
@@ -64,6 +69,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill McGunnigle
 ##### Primary Position: OF
 ##### Birdate: 1855-01-01T00:00:00
@@ -72,6 +78,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Richmond
 ##### Primary Position: OF
 ##### Birdate: 1855-03-05T00:00:00
@@ -80,6 +87,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Dave Rowe
 ##### Primary Position: OF
 ##### Birdate: 1854-10-09T00:00:00
@@ -88,6 +96,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Shafer
 ##### Primary Position: OF
 ##### Birdate: 1851-10-01T00:00:00
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Tilley
 ##### Primary Position: OF
 ##### Birdate: 1854-08-01T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Julius Willigrod
 ##### Primary Position: OF
 ##### Birdate: 1857-10-27T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### George Bradley
 ##### Primary Position: 3B
@@ -121,6 +133,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Herm Doscher
 ##### Primary Position: 3B
 ##### Birdate: 1852-12-20T00:00:00
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Dunlap
 ##### Primary Position: 2B
 ##### Birdate: 1859-05-21T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Glasscock
 ##### Primary Position: SS
 ##### Birdate: 1857-07-22T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Muldoon
 ##### Primary Position: 3B
 ##### Birdate: 1858-04-09T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bill Phillips
 ##### Primary Position: 1B
 ##### Birdate: 1857-04-01T00:00:00
@@ -161,3 +178,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

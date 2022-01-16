@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Laurie Reis
 ##### Primary Position: P
 ##### Birdate: 1858-11-20T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Al Spalding
 ##### Primary Position: P
 ##### Birdate: 1850-09-02T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 ### Catchers
 ### Outfielders
 #### Charlie Eden
@@ -48,6 +96,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Dave Eggler
 ##### Primary Position: OF
 ##### Birdate: 1849-04-30T00:00:00
@@ -56,6 +120,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Jimmy Hallinan
 ##### Primary Position: OF
 ##### Birdate: 1849-05-27T00:00:00
@@ -64,6 +144,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Paul Hines
 ##### Primary Position: OF
 ##### Birdate: 1855-03-01T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Charley Jones
 ##### Primary Position: OF
 ##### Birdate: 1852-04-30T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Paddy Quinn
 ##### Primary Position: OF
 ##### Birdate: 1849-08-01T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Dave Rowe
 ##### Primary Position: OF
 ##### Birdate: 1854-10-09T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Charlie Waitt
 ##### Primary Position: OF
 ##### Birdate: 1853-10-14T00:00:00
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 ### Infielders
 #### Cap Anson
 ##### Primary Position: 1B
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Ross Barnes
 ##### Primary Position: 2B
 ##### Birdate: 1850-05-08T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Cherokee Fisher
 ##### Primary Position: 3B
 ##### Birdate: 1844-11-01T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### John Glenn
 ##### Primary Position: 1B
 ##### Birdate: 1850-01-01T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Cal McVey
 ##### Primary Position: 1B
 ##### Birdate: 1849-08-30T00:00:00
@@ -145,6 +385,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### John Peters
 ##### Primary Position: SS
 ##### Birdate: 1850-04-08T00:00:00
@@ -153,6 +409,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41
 #### Harry Smith
 ##### Primary Position: 2B
 ##### Birdate: 1856-02-05T00:00:00
@@ -161,3 +433,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .098
+###### BB: 0
+###### AVG: .098
+###### OPS: .195
+###### SO: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .105
+###### G: 10
+###### H: 4
+###### OBP: .098
+###### AO: 0
+###### R: 2
+###### AB: 41

@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mace Brown
 ##### Primary Position: P
 ##### Birdate: 1909-05-21T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Butland
 ##### Primary Position: P
 ##### Birdate: 1918-03-22T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mel Deutsch
 ##### Primary Position: P
 ##### Birdate: 1915-07-26T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Dobson
 ##### Primary Position: P
 ##### Birdate: 1917-01-20T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Clem Dreisewerd
 ##### Primary Position: P
 ##### Birdate: 1916-01-24T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dave Ferriss
 ##### Primary Position: P
 ##### Birdate: 1921-12-05T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Mickey Harris
 ##### Primary Position: P
 ##### Birdate: 1917-01-30T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Randy Heflin
 ##### Primary Position: P
 ##### Birdate: 1918-09-11T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tex Hughson
 ##### Primary Position: P
 ##### Birdate: 1916-02-09T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Earl Johnson
 ##### Primary Position: P
 ##### Birdate: 1919-04-02T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bob Klinger
 ##### Primary Position: P
 ##### Birdate: 1908-06-04T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Ryba
 ##### Primary Position: P
 ##### Birdate: 1903-06-09T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Wagner
 ##### Primary Position: P
 ##### Birdate: 1912-12-03T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Wilson
 ##### Primary Position: P
 ##### Birdate: 1922-02-20T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Zuber
 ##### Primary Position: P
 ##### Birdate: 1913-03-26T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Eddie McGah
 ##### Primary Position: C
@@ -151,6 +167,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Roy Partee
 ##### Primary Position: C
 ##### Birdate: 1917-09-07T00:00:00
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frankie Pytlak
 ##### Primary Position: C
 ##### Birdate: 1908-07-30T00:00:00
@@ -167,6 +185,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hal Wagner
 ##### Primary Position: C
 ##### Birdate: 1915-07-02T00:00:00
@@ -175,6 +194,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Leon Culberson
 ##### Primary Position: OF
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dom DiMaggio
 ##### Primary Position: OF
 ##### Birdate: 1917-02-12T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Andy Gilbert
 ##### Primary Position: OF
 ##### Birdate: 1914-07-18T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Lazor
 ##### Primary Position: OF
 ##### Birdate: 1912-09-09T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tom McBride
 ##### Primary Position: OF
 ##### Birdate: 1914-11-02T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Metkovich
 ##### Primary Position: OF
 ##### Birdate: 1920-10-08T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Wally Moses
 ##### Primary Position: OF
 ##### Birdate: 1910-10-08T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ted Williams
 ##### Primary Position: OF
 ##### Birdate: 1918-08-30T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Ernie Andres
 ##### Primary Position: 3B
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Paul Campbell
 ##### Primary Position: 1B
 ##### Birdate: 1917-09-01T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tom Carey
 ##### Primary Position: 2B
 ##### Birdate: 1906-10-11T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Doerr
 ##### Primary Position: 2B
 ##### Birdate: 1918-04-07T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Gutteridge
 ##### Primary Position: 2B
 ##### Birdate: 1912-06-19T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pinky Higgins
 ##### Primary Position: 3B
 ##### Birdate: 1909-05-27T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Eddie Pellagrini
 ##### Primary Position: 3B
 ##### Birdate: 1918-03-13T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Pesky
 ##### Primary Position: SS
 ##### Birdate: 1919-09-27T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 6
+##### Statistics
 #### Rip Russell
 ##### Primary Position: 3B
 ##### Birdate: 1915-01-26T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ben Steiner
 ##### Primary Position: 2B
 ##### Birdate: 1921-07-28T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Rudy York
 ##### Primary Position: 1B
 ##### Birdate: 1913-08-17T00:00:00
@@ -329,3 +367,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

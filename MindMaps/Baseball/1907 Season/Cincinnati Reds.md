@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Andy Coakley
 ##### Primary Position: P
 ##### Birdate: 1882-11-20T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bill Essick
 ##### Primary Position: P
 ##### Birdate: 1880-12-18T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bob Ewing
 ##### Primary Position: P
 ##### Birdate: 1873-04-24T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charley Hall
 ##### Primary Position: P
 ##### Birdate: 1884-07-27T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Roy Hitt
 ##### Primary Position: P
 ##### Birdate: 1884-06-22T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Frank Leary
 ##### Primary Position: P
 ##### Birdate: 1881-02-26T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Del Mason
 ##### Primary Position: P
 ##### Birdate: 1883-10-29T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cotton Minahan
 ##### Primary Position: P
 ##### Birdate: 1882-12-10T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Smith
 ##### Primary Position: P
 ##### Birdate: 1878-11-24T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bob Spade
 ##### Primary Position: P
 ##### Birdate: 1877-01-04T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jake Weimer
 ##### Primary Position: P
 ##### Birdate: 1873-11-29T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Pete Lamer
 ##### Primary Position: C
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bill McCarthy
 ##### Primary Position: C
 ##### Birdate: 1886-02-14T00:00:00
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Larry McLean
 ##### Primary Position: C
 ##### Birdate: 1881-07-18T00:00:00
@@ -135,6 +149,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Admiral Schlei
 ##### Primary Position: C
 ##### Birdate: 1878-01-12T00:00:00
@@ -143,6 +158,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Chick Autry
 ##### Primary Position: OF
@@ -152,6 +168,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lefty Davis
 ##### Primary Position: OF
 ##### Birdate: 1875-02-04T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Kane
 ##### Primary Position: OF
 ##### Birdate: 1882-09-24T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Art Kruger
 ##### Primary Position: OF
 ##### Birdate: 1881-03-16T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Mitchell
 ##### Primary Position: OF
 ##### Birdate: 1879-12-12T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike O'Neill
 ##### Primary Position: OF
 ##### Birdate: 1877-09-07T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Odwell
 ##### Primary Position: OF
 ##### Birdate: 1872-09-25T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dode Paskert
 ##### Primary Position: OF
 ##### Birdate: 1881-08-28T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Wolter
 ##### Primary Position: OF
 ##### Birdate: 1884-07-11T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### John Ganzel
 ##### Primary Position: 1B
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Miller Huggins
 ##### Primary Position: 2B
 ##### Birdate: 1878-03-27T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Hans Lobert
 ##### Primary Position: 3B
 ##### Birdate: 1881-10-18T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Mowrey
 ##### Primary Position: 3B
 ##### Birdate: 1884-04-24T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Eddie Tiemeyer
 ##### Primary Position: 3B
 ##### Birdate: 1885-05-09T00:00:00
@@ -257,3 +286,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

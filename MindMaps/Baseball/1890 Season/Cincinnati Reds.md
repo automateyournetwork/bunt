@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Jesse Duryea
 ##### Primary Position: P
 ##### Birdate: 1859-09-07T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Foreman
 ##### Primary Position: P
 ##### Birdate: 1863-05-01T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tony Mullane
 ##### Primary Position: P
 ##### Birdate: 1859-01-30T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: 
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Billy Rhines
 ##### Primary Position: P
 ##### Birdate: 1869-03-14T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Viau
 ##### Primary Position: P
 ##### Birdate: 1866-07-05T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Kid Baldwin
 ##### Primary Position: C
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jerry Harrington
 ##### Primary Position: C
 ##### Birdate: 1868-08-12T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Keenan
 ##### Primary Position: C
 ##### Birdate: 1858-02-10T00:00:00
@@ -87,6 +95,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Bug Holliday
 ##### Primary Position: OF
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Knight
 ##### Primary Position: OF
 ##### Birdate: 1859-09-28T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lefty Marr
 ##### Primary Position: OF
 ##### Birdate: 1862-09-19T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Hugh Nicol
 ##### Primary Position: OF
 ##### Birdate: 1858-01-01T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Ollie Beard
 ##### Primary Position: SS
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Clingman
 ##### Primary Position: SS
 ##### Birdate: 1869-11-21T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Arlie Latham
 ##### Primary Position: 3B
 ##### Birdate: 1860-03-15T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bid McPhee
 ##### Primary Position: 2B
 ##### Birdate: 1859-11-01T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Reilly
 ##### Primary Position: 1B
 ##### Birdate: 1858-10-05T00:00:00
@@ -161,3 +178,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

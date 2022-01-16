@@ -22,6 +22,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Hugh Daily
 ##### Primary Position: P
 ##### Birdate: 1847-07-17T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Pud Galvin
 ##### Primary Position: P
 ##### Birdate: 1856-12-25T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 ### Catchers
 #### Tom Dolan
 ##### Primary Position: C
@@ -47,6 +95,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Jack Rowe
 ##### Primary Position: C
 ##### Birdate: 1856-12-08T00:00:00
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 ### Outfielders
 #### Curry Foley
 ##### Primary Position: OF
@@ -64,6 +144,22 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Jim O'Rourke
 ##### Primary Position: OF
 ##### Birdate: 1850-09-01T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Blondie Purcell
 ##### Primary Position: OF
 ##### Birdate: 1854-03-16T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 ### Infielders
 #### Dan Brouthers
 ##### Primary Position: 1B
@@ -89,6 +217,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Davy Force
 ##### Primary Position: SS
 ##### Birdate: 1849-07-27T00:00:00
@@ -97,6 +241,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Hardy Richardson
 ##### Primary Position: 2B
 ##### Birdate: 1855-04-21T00:00:00
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337
 #### Deacon White
 ##### Primary Position: 3B
 ##### Birdate: 1847-12-07T00:00:00
@@ -113,3 +289,19 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .341
+###### BB: 15
+###### AVG: .282
+###### OPS: .654
+###### SO: 16
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .294
+###### G: 83
+###### H: 95
+###### OBP: .313
+###### AO: 0
+###### R: 51
+###### AB: 337

@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Lloyd Brown
 ##### Primary Position: P
 ##### Birdate: 1904-12-25T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Burke
 ##### Primary Position: P
 ##### Birdate: 1907-01-23T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Milt Gaston
 ##### Primary Position: P
 ##### Birdate: 1896-01-27T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bump Hadley
 ##### Primary Position: P
 ##### Birdate: 1904-07-05T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Sad Sam Jones
 ##### Primary Position: P
 ##### Birdate: 1892-07-26T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hod Lisenbee
 ##### Primary Position: P
 ##### Birdate: 1898-09-23T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Firpo Marberry
 ##### Primary Position: P
 ##### Birdate: 1898-11-30T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Clay Van Alstyne
 ##### Primary Position: P
 ##### Birdate: 1900-05-24T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Weaver
 ##### Primary Position: P
 ##### Birdate: 1903-11-25T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Zachary
 ##### Primary Position: P
 ##### Birdate: 1896-05-07T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Al Bool
 ##### Primary Position: C
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Eddie Kenna
 ##### Primary Position: C
 ##### Birdate: 1897-09-30T00:00:00
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Muddy Ruel
 ##### Primary Position: C
 ##### Birdate: 1896-02-20T00:00:00
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bennie Tate
 ##### Primary Position: C
 ##### Birdate: 1901-12-03T00:00:00
@@ -135,6 +149,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Red Barnes
 ##### Primary Position: OF
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Babe Ganzel
 ##### Primary Position: OF
 ##### Birdate: 1901-05-22T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Goose Goslin
 ##### Primary Position: OF
 ##### Birdate: 1900-10-16T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Sam Rice
 ##### Primary Position: OF
 ##### Birdate: 1890-02-20T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dick Spalding
 ##### Primary Position: OF
 ##### Birdate: 1893-10-13T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Sam West
 ##### Primary Position: OF
 ##### Birdate: 1904-10-05T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Pelham Ballenger
 ##### Primary Position: 3B
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ossie Bluege
 ##### Primary Position: 3B
 ##### Birdate: 1900-10-24T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harley Boss
 ##### Primary Position: 1B
 ##### Birdate: 1908-11-19T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Cronin
 ##### Primary Position: SS
 ##### Birdate: 1906-10-12T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Crowley
 ##### Primary Position: 3B
 ##### Birdate: 1906-08-06T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Grant Gillis
 ##### Primary Position: SS
 ##### Birdate: 1901-01-24T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bucky Harris
 ##### Primary Position: 2B
 ##### Birdate: 1896-11-08T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jackie Hayes
 ##### Primary Position: 2B
 ##### Birdate: 1906-07-19T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Judge
 ##### Primary Position: 1B
 ##### Birdate: 1894-05-25T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Reeves
 ##### Primary Position: SS
 ##### Birdate: 1904-06-24T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Sisler
 ##### Primary Position: 1B
 ##### Birdate: 1893-03-24T00:00:00
@@ -273,3 +304,4 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics

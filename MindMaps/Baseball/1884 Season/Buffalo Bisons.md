@@ -22,6 +22,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Bones Ely
 ##### Primary Position: P
 ##### Birdate: 1863-06-07T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Pud Galvin
 ##### Primary Position: P
 ##### Birdate: 1856-12-25T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Art Hagan
 ##### Primary Position: P
 ##### Birdate: 1863-03-17T00:00:00
@@ -46,6 +94,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Billy Serad
 ##### Primary Position: P
 ##### Birdate: 1863-01-01T00:00:00
@@ -54,6 +118,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 ### Catchers
 #### George Myers
 ##### Primary Position: C
@@ -63,6 +143,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Jack Rowe
 ##### Primary Position: C
 ##### Birdate: 1856-12-08T00:00:00
@@ -71,6 +167,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 ### Outfielders
 #### Dave Eggler
 ##### Primary Position: OF
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Jim Lillie
 ##### Primary Position: OF
 ##### Birdate: 1861-07-27T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Jim O'Rourke
 ##### Primary Position: OF
 ##### Birdate: 1850-09-01T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 ### Infielders
 #### Dan Brouthers
 ##### Primary Position: 1B
@@ -105,6 +265,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Chub Collins
 ##### Primary Position: 2B
 ##### Birdate: 1857-10-12T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Davy Force
 ##### Primary Position: SS
 ##### Birdate: 1849-07-27T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Hardy Richardson
 ##### Primary Position: 2B
 ##### Birdate: 1855-04-21T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452
 #### Deacon White
 ##### Primary Position: 3B
 ##### Birdate: 1847-12-07T00:00:00
@@ -137,3 +361,19 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .442
+###### BB: 32
+###### AVG: .325
+###### OPS: .812
+###### SO: 13
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .327
+###### G: 110
+###### H: 147
+###### OBP: .370
+###### AO: 0
+###### R: 82
+###### AB: 452

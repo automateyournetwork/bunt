@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Ned Garvin
 ##### Primary Position: P
 ##### Birdate: 1874-01-01T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Clark Griffith
 ##### Primary Position: P
 ##### Birdate: 1869-11-20T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Jack Katoll
 ##### Primary Position: P
 ##### Birdate: 1872-06-24T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Dummy Leitner
 ##### Primary Position: P
 ##### Birdate: 1871-06-19T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Sam McMackin
 ##### Primary Position: P
 ##### Birdate: 1872-11-24T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Roy Patterson
 ##### Primary Position: P
 ##### Birdate: 1876-12-17T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Wiley Piatt
 ##### Primary Position: P
 ##### Birdate: 1874-07-13T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 ### Catchers
 #### Ed Hughes
 ##### Primary Position: C
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Ed McFarland
 ##### Primary Position: C
 ##### Birdate: 1873-08-03T00:00:00
@@ -95,6 +248,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Billy Sullivan
 ##### Primary Position: C
 ##### Birdate: 1875-02-01T00:00:00
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 ### Outfielders
 #### Jimmy Callahan
 ##### Primary Position: OF
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Danny Green
 ##### Primary Position: OF
 ##### Birdate: 1876-11-06T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Fielder Jones
 ##### Primary Position: OF
 ##### Birdate: 1871-08-13T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Herm McFarland
 ##### Primary Position: OF
 ##### Birdate: 1870-03-11T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 ### Infielders
 #### Tom Daly
 ##### Primary Position: 2B
@@ -145,6 +400,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### George Davis
 ##### Primary Position: SS
 ##### Birdate: 1870-08-23T00:00:00
@@ -153,6 +425,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Frank Isbell
 ##### Primary Position: 1B
 ##### Birdate: 1875-08-21T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Sam Mertes
 ##### Primary Position: 2B
 ##### Birdate: 1872-08-06T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263
 #### Sammy Strang
 ##### Primary Position: 3B
 ##### Birdate: 1876-12-16T00:00:00
@@ -177,3 +500,20 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 8
+###### SLG: .323
+###### BB: 6
+###### AVG: .243
+###### OPS: .592
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .240
+###### G: 76
+###### H: 64
+###### OBP: .268
+###### AO: 0
+###### R: 36
+###### AB: 263

@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Bernhard
 ##### Primary Position: P
 ##### Birdate: 1871-03-16T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Chick Fraser
 ##### Primary Position: P
 ##### Birdate: 1873-08-26T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dummy Leitner
 ##### Primary Position: P
 ##### Birdate: 1871-06-19T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Loos
 ##### Primary Position: P
 ##### Birdate: 1878-03-23T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### John McPherson
 ##### Primary Position: P
 ##### Birdate: 1869-03-09T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Billy Milligan
 ##### Primary Position: P
 ##### Birdate: 1878-08-19T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Wiley Piatt
 ##### Primary Position: P
 ##### Birdate: 1874-07-13T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Eddie Plank
 ##### Primary Position: P
 ##### Birdate: 1875-08-31T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Snake Wiltse
 ##### Primary Position: P
 ##### Birdate: 1871-12-05T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Tom Leahy
 ##### Primary Position: C
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Morgan Murphy
 ##### Primary Position: C
 ##### Birdate: 1867-02-14T00:00:00
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doc Powers
 ##### Primary Position: C
 ##### Birdate: 1870-09-22T00:00:00
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Smith
 ##### Primary Position: C
 ##### Birdate: 1874-10-31T00:00:00
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Farmer Steelman
 ##### Primary Position: C
 ##### Birdate: 1875-06-29T00:00:00
@@ -135,6 +149,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Dave Fultz
 ##### Primary Position: OF
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Phil Geier
 ##### Primary Position: OF
 ##### Birdate: 1876-11-03T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jack Hayden
 ##### Primary Position: OF
 ##### Birdate: 1880-10-21T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Fred Ketchum
 ##### Primary Position: OF
 ##### Birdate: 1875-07-27T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bob Lindemann
 ##### Primary Position: OF
 ##### Birdate: 1878-06-07T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Matty McIntyre
 ##### Primary Position: OF
 ##### Birdate: 1880-06-12T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Socks Seybold
 ##### Primary Position: OF
 ##### Birdate: 1870-11-23T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Charlie Carr
 ##### Primary Position: 1B
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lave Cross
 ##### Primary Position: 3B
 ##### Birdate: 1866-05-12T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Davis
 ##### Primary Position: 1B
 ##### Birdate: 1873-07-18T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Dolan
 ##### Primary Position: SS
 ##### Birdate: 1873-02-24T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bones Ely
 ##### Primary Position: SS
 ##### Birdate: 1863-06-07T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Nap Lajoie
 ##### Primary Position: 2B
 ##### Birdate: 1874-09-05T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Lauder
 ##### Primary Position: 3B
 ##### Birdate: 1874-02-23T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Lochhead
 ##### Primary Position: SS
 ##### Birdate: 1876-03-29T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob McKinney
 ##### Primary Position: 2B
 ##### Birdate: 1875-10-04T00:00:00
@@ -265,3 +295,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

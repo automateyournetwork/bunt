@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Charlie Parsons
 ##### Primary Position: P
 ##### Birdate: 1863-07-18T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Old Hoss Radbourn
 ##### Primary Position: P
 ##### Birdate: 1854-12-11T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Bill Stemmeyer
 ##### Primary Position: P
 ##### Birdate: 1865-05-06T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 ### Catchers
 #### Con Daily
 ##### Primary Position: C
@@ -55,6 +123,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Pat Dealy
 ##### Primary Position: C
 ##### Birdate: 1861-11-12T00:00:00
@@ -63,6 +148,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Tom Gunning
 ##### Primary Position: C
 ##### Birdate: 1862-03-04T00:00:00
@@ -71,6 +173,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Pop Tate
 ##### Primary Position: C
 ##### Birdate: 1860-12-22T00:00:00
@@ -79,6 +198,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 ### Outfielders
 #### Joe Hornung
 ##### Primary Position: OF
@@ -88,6 +224,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Dick Johnston
 ##### Primary Position: OF
 ##### Birdate: 1863-04-06T00:00:00
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Tom Poorman
 ##### Primary Position: OF
 ##### Birdate: 1857-10-14T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 ### Infielders
 #### Myron Allen
 ##### Primary Position: 2B
@@ -113,6 +300,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Jack Burdock
 ##### Primary Position: 2B
 ##### Birdate: 1852-04-01T00:00:00
@@ -121,6 +325,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### John Morrill
 ##### Primary Position: 1B
 ##### Birdate: 1855-02-19T00:00:00
@@ -129,6 +350,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Billy Nash
 ##### Primary Position: 3B
 ##### Birdate: 1865-06-24T00:00:00
@@ -137,6 +375,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Ezra Sutton
 ##### Primary Position: 3B
 ##### Birdate: 1850-09-17T00:00:00
@@ -145,6 +400,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387
 #### Sam Wise
 ##### Primary Position: SS
 ##### Birdate: 1857-08-18T00:00:00
@@ -153,3 +425,20 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .432
+###### BB: 33
+###### AVG: .289
+###### OPS: .777
+###### SO: 61
+###### SB: 31
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 4
+###### BAB IP: .335
+###### G: 96
+###### H: 112
+###### OBP: .345
+###### AO: 0
+###### R: 71
+###### AB: 387

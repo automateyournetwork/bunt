@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Cobb
 ##### Primary Position: P
 ##### Birdate: 1865-09-25T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Harry Ely
 ##### Primary Position: P
 ##### Birdate: 1868-08-13T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Alex Ferson
 ##### Primary Position: P
 ##### Birdate: 1866-07-14T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Foreman
 ##### Primary Position: P
 ##### Birdate: 1863-05-01T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bill Gilbert
 ##### Primary Position: P
 ##### Birdate: 1868-03-13T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Egyptian Healy
 ##### Primary Position: P
 ##### Birdate: 1866-10-27T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Kling
 ##### Primary Position: P
 ##### Birdate: 1867-01-14T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Sadie McMahon
 ##### Primary Position: P
 ##### Birdate: 1867-09-19T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Crazy Schmit
 ##### Primary Position: P
 ##### Birdate: 1866-02-13T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ben Stephens
 ##### Primary Position: P
 ##### Birdate: 1867-09-28T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Adonis Terry
 ##### Primary Position: P
 ##### Birdate: 1864-08-07T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Vickery
 ##### Primary Position: P
 ##### Birdate: 1867-05-05T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Joe Gunson
 ##### Primary Position: C
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Hess
 ##### Primary Position: C
 ##### Birdate: 1875-08-15T00:00:00
@@ -135,6 +149,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Wilbert Robinson
 ##### Primary Position: C
 ##### Birdate: 1864-06-29T00:00:00
@@ -143,6 +158,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Sun Daly
 ##### Primary Position: OF
@@ -152,6 +168,7 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Godar
 ##### Primary Position: OF
 ##### Birdate: 1864-10-25T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jocko Halligan
 ##### Primary Position: OF
 ##### Birdate: 1868-12-08T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ned Hanlon
 ##### Primary Position: OF
 ##### Birdate: 1857-08-22T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lefty Johnson
 ##### Primary Position: OF
 ##### Birdate: 1861-09-28T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Kelley
 ##### Primary Position: OF
 ##### Birdate: 1871-12-09T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Stovey
 ##### Primary Position: OF
 ##### Birdate: 1856-12-20T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Van Haltren
 ##### Primary Position: OF
 ##### Birdate: 1866-03-30T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Piggy Ward
 ##### Primary Position: OF
 ##### Birdate: 1867-04-16T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Curt Welch
 ##### Primary Position: OF
 ##### Birdate: 1862-02-10T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Wood
 ##### Primary Position: OF
 ##### Birdate: 1858-11-09T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Monte Cross
 ##### Primary Position: SS
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pete Gilbert
 ##### Primary Position: 3B
 ##### Birdate: 1867-09-06T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### John McGraw
 ##### Primary Position: SS
 ##### Birdate: 1873-04-07T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tim O'Rourke
 ##### Primary Position: SS
 ##### Birdate: 1864-05-18T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Pickett
 ##### Primary Position: 2B
 ##### Birdate: 1866-02-20T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Shindle
 ##### Primary Position: 3B
 ##### Birdate: 1860-12-05T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Shoch
 ##### Primary Position: SS
 ##### Birdate: 1859-01-06T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cub Stricker
 ##### Primary Position: 2B
 ##### Birdate: 1859-06-08T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Sy Sutcliffe
 ##### Primary Position: 1B
 ##### Birdate: 1862-04-15T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lew Whistler
 ##### Primary Position: 1B
 ##### Birdate: 1868-03-10T00:00:00
@@ -313,3 +349,4 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics

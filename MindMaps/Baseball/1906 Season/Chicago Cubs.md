@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mordecai Brown
 ##### Primary Position: P
 ##### Birdate: 1876-10-19T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Jack Harper
 ##### Primary Position: P
 ##### Birdate: 1878-04-02T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Carl Lundgren
 ##### Primary Position: P
 ##### Birdate: 1880-02-16T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Orval Overall
 ##### Primary Position: P
 ##### Birdate: 1881-02-02T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Jack Pfiester
 ##### Primary Position: P
 ##### Birdate: 1878-05-24T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Reulbach
 ##### Primary Position: P
 ##### Birdate: 1882-12-01T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Taylor
 ##### Primary Position: P
 ##### Birdate: 1873-12-13T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Wicker
 ##### Primary Position: P
 ##### Birdate: 1877-05-25T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Johnny Kling
 ##### Primary Position: C
@@ -95,6 +104,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pat Moran
 ##### Primary Position: C
 ##### Birdate: 1876-02-07T00:00:00
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pete Noonan
 ##### Primary Position: C
 ##### Birdate: 1881-11-24T00:00:00
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Walsh
 ##### Primary Position: C
 ##### Birdate: 1886-02-28T00:00:00
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Doc Gessler
 ##### Primary Position: OF
@@ -128,6 +141,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Solly Hofman
 ##### Primary Position: OF
 ##### Birdate: 1882-10-29T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Schulte
 ##### Primary Position: OF
 ##### Birdate: 1882-09-17T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jimmy Sheckard
 ##### Primary Position: OF
 ##### Birdate: 1878-11-23T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jimmy Slagle
 ##### Primary Position: OF
 ##### Birdate: 1873-07-11T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Frank Chance
 ##### Primary Position: 1B
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Evers
 ##### Primary Position: 2B
 ##### Birdate: 1881-07-21T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Harry Steinfeldt
 ##### Primary Position: 3B
 ##### Birdate: 1877-09-29T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Tinker
 ##### Primary Position: SS
 ##### Birdate: 1880-07-27T00:00:00
@@ -193,3 +214,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

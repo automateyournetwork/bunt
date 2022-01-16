@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Billy Crowell
 ##### Primary Position: P
 ##### Birdate: 1865-11-06T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### John Ewing
 ##### Primary Position: P
 ##### Birdate: 1863-06-01T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Guy Hecker
 ##### Primary Position: P
 ##### Birdate: 1856-04-03T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Toad Ramsey
 ##### Primary Position: P
 ##### Birdate: 1864-08-08T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Scott Stratton
 ##### Primary Position: P
 ##### Birdate: 1869-10-02T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 ### Catchers
 #### Paul Cook
 ##### Primary Position: C
@@ -71,6 +173,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Lave Cross
 ##### Primary Position: C
 ##### Birdate: 1866-05-12T00:00:00
@@ -79,6 +198,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Farmer Vaughn
 ##### Primary Position: C
 ##### Birdate: 1864-03-01T00:00:00
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 ### Outfielders
 #### Pete Browning
 ##### Primary Position: OF
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Hercules Burnett
 ##### Primary Position: OF
 ##### Birdate: 1865-08-13T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Hub Collins
 ##### Primary Position: OF
 ##### Birdate: 1864-04-15T00:00:00
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Eddie Fusselback
 ##### Primary Position: OF
 ##### Birdate: 1856-07-17T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Thomas Long
 ##### Primary Position: OF
 ##### Birdate: 1860-11-01T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Farmer Weaver
 ##### Primary Position: OF
 ##### Birdate: 1865-03-23T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Jimmy Wolf
 ##### Primary Position: OF
 ##### Birdate: 1862-05-12T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 ### Infielders
 #### Wally Andrews
 ##### Primary Position: 1B
@@ -153,6 +425,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Dude Esterbrook
 ##### Primary Position: 1B
 ##### Birdate: 1857-06-09T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### John Kerins
 ##### Primary Position: 1B
 ##### Birdate: 1858-07-15T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Reddy Mack
 ##### Primary Position: 2B
 ##### Birdate: 1866-05-02T00:00:00
@@ -177,6 +500,23 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Harry Raymond
 ##### Primary Position: 3B
 ##### Birdate: 1862-02-20T00:00:00
@@ -185,6 +525,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Philip Reccius
 ##### Primary Position: 3B
 ##### Birdate: 1862-06-07T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Skyrocket Smith
 ##### Primary Position: 1B
 ##### Birdate: 1868-03-19T00:00:00
@@ -201,6 +575,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Phil Tomney
 ##### Primary Position: SS
 ##### Birdate: 1863-07-17T00:00:00
@@ -209,6 +600,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Joe Werrick
 ##### Primary Position: 3B
 ##### Birdate: 1861-10-25T00:00:00
@@ -217,6 +625,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246
 #### Bill White
 ##### Primary Position: SS
 ##### Birdate: 1860-05-01T00:00:00
@@ -225,3 +650,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .252
+###### BB: 2
+###### AVG: .220
+###### OPS: .484
+###### SO: 20
+###### SB: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .239
+###### G: 64
+###### H: 54
+###### OBP: .232
+###### AO: 0
+###### R: 21
+###### AB: 246

@@ -22,6 +22,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Sarge Connally
 ##### Primary Position: P
 ##### Birdate: 1898-08-31T00:00:00
@@ -30,6 +49,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Les Cox
 ##### Primary Position: P
 ##### Birdate: 1904-08-14T00:00:00
@@ -38,6 +76,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### James Edwards
 ##### Primary Position: P
 ##### Birdate: 1894-12-14T00:00:00
@@ -46,6 +103,25 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Red Faber
 ##### Primary Position: P
 ##### Birdate: 1888-09-06T00:00:00
@@ -54,6 +130,25 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Dixie Leverett
 ##### Primary Position: P
 ##### Birdate: 1894-03-29T00:00:00
@@ -62,6 +157,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Ted Lyons
 ##### Primary Position: P
 ##### Birdate: 1900-12-28T00:00:00
@@ -70,6 +184,25 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Pryor McBee
 ##### Primary Position: P
 ##### Birdate: 1901-06-20T00:00:00
@@ -78,6 +211,25 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Milt Steengrafe
 ##### Primary Position: P
 ##### Birdate: 1900-05-26T00:00:00
@@ -86,6 +238,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Tommy Thomas
 ##### Primary Position: P
 ##### Birdate: 1899-12-23T00:00:00
@@ -94,6 +265,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Sloppy Thurston
 ##### Primary Position: P
 ##### Birdate: 1899-06-02T00:00:00
@@ -102,6 +292,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 ### Catchers
 #### Moe Berg
 ##### Primary Position: C
@@ -111,6 +320,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Buck Crouse
 ##### Primary Position: C
 ##### Birdate: 1897-01-06T00:00:00
@@ -119,6 +347,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Johnny Grabowski
 ##### Primary Position: C
 ##### Birdate: 1900-01-07T00:00:00
@@ -127,6 +374,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Harry McCurdy
 ##### Primary Position: C
 ##### Birdate: 1899-09-15T00:00:00
@@ -135,6 +401,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Ray Schalk
 ##### Primary Position: C
 ##### Birdate: 1892-08-12T00:00:00
@@ -143,6 +428,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 ### Outfielders
 #### Bill Barrett
 ##### Primary Position: OF
@@ -152,6 +456,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Bibb Falk
 ##### Primary Position: OF
 ##### Birdate: 1899-01-27T00:00:00
@@ -160,6 +483,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Tom Gulley
 ##### Primary Position: OF
 ##### Birdate: 1899-12-25T00:00:00
@@ -168,6 +510,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Spencer Harris
 ##### Primary Position: OF
 ##### Birdate: 1900-08-12T00:00:00
@@ -176,6 +537,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Johnny Mostil
 ##### Primary Position: OF
 ##### Birdate: 1896-06-01T00:00:00
@@ -184,6 +564,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Pid Purdy
 ##### Primary Position: OF
 ##### Birdate: 1904-06-15T00:00:00
@@ -192,6 +591,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 ### Infielders
 #### Bud Clancy
 ##### Primary Position: 1B
@@ -201,6 +619,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Eddie Collins
 ##### Primary Position: 2B
 ##### Birdate: 1887-05-02T00:00:00
@@ -209,6 +646,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Bill Hunnefield
 ##### Primary Position: SS
 ##### Birdate: 1899-01-05T00:00:00
@@ -217,6 +673,25 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Willie Kamm
 ##### Primary Position: 3B
 ##### Birdate: 1900-02-02T00:00:00
@@ -225,6 +700,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Ray Morehart
 ##### Primary Position: 2B
 ##### Birdate: 1899-12-02T00:00:00
@@ -233,6 +727,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Everett Scott
 ##### Primary Position: SS
 ##### Birdate: 1892-11-19T00:00:00
@@ -241,6 +754,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Earl Sheely
 ##### Primary Position: 1B
 ##### Birdate: 1893-02-12T00:00:00
@@ -249,6 +781,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4
 #### Pat Veltman
 ##### Primary Position: SS
 ##### Birdate: 1906-03-24T00:00:00
@@ -257,3 +808,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 1
+###### AVG: .250
+###### OPS: .650
+###### SO: 1
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 5
+###### H: 1
+###### OBP: .400
+###### AO: 0
+###### R: 1
+###### AB: 4

@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Buster Brown
 ##### Primary Position: P
 ##### Birdate: 1881-08-31T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Carl Druhot
 ##### Primary Position: P
 ##### Birdate: 1881-09-04T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Art Fromme
 ##### Primary Position: P
 ##### Birdate: 1883-09-03T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Karger
 ##### Primary Position: P
 ##### Birdate: 1883-05-06T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Lush
 ##### Primary Position: P
 ##### Birdate: 1885-10-08T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Stoney McGlynn
 ##### Primary Position: P
 ##### Birdate: 1872-05-26T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bugs Raymond
 ##### Primary Position: P
 ##### Birdate: 1882-02-24T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Shields
 ##### Primary Position: P
 ##### Birdate: 1879-12-10T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Doc Marshall
 ##### Primary Position: C
@@ -95,6 +104,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pete Noonan
 ##### Primary Position: C
 ##### Birdate: 1881-11-24T00:00:00
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### John Barnett
 ##### Primary Position: OF
@@ -112,6 +123,7 @@
 ##### Throws: 
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Shad Barry
 ##### Primary Position: OF
 ##### Birdate: 1878-10-27T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Al Burch
 ##### Primary Position: OF
 ##### Birdate: 1883-10-07T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Delahanty
 ##### Primary Position: OF
 ##### Birdate: 1875-10-18T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Buck Hopkins
 ##### Primary Position: OF
 ##### Birdate: 1883-01-03T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Kelly
 ##### Primary Position: OF
 ##### Birdate: 1879-03-13T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Red Murray
 ##### Primary Position: OF
 ##### Birdate: 1884-03-04T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom O'Hara
 ##### Primary Position: OF
 ##### Birdate: 1880-07-13T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Al Shaw
 ##### Primary Position: OF
 ##### Birdate: 1881-03-01T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Harry Wolter
 ##### Primary Position: OF
 ##### Birdate: 1884-07-11T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Harry Arndt
 ##### Primary Position: 2B
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Moose Baxter
 ##### Primary Position: 1B
 ##### Birdate: 1876-07-27T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jake Beckley
 ##### Primary Position: 1B
 ##### Birdate: 1867-08-04T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pug Bennett
 ##### Primary Position: 2B
 ##### Birdate: 1874-02-20T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Byrne
 ##### Primary Position: 3B
 ##### Birdate: 1884-12-31T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Forrest Crawford
 ##### Primary Position: SS
 ##### Birdate: 1881-05-10T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Art Hoelskoetter
 ##### Primary Position: 2B
 ##### Birdate: 1882-09-30T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Holly
 ##### Primary Position: SS
 ##### Birdate: 1879-07-06T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Konetchy
 ##### Primary Position: 1B
 ##### Birdate: 1885-09-03T00:00:00
@@ -257,3 +286,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

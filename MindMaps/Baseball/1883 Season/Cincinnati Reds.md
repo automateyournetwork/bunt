@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Harry McCormick
 ##### Primary Position: P
 ##### Birdate: 1855-10-25T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Bill Mountjoy
 ##### Primary Position: P
 ##### Birdate: 1858-12-11T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Will White
 ##### Primary Position: P
 ##### Birdate: 1854-10-11T00:00:00
@@ -46,6 +94,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 ### Catchers
 #### Phil Powers
 ##### Primary Position: C
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Pop Snyder
 ##### Primary Position: C
 ##### Birdate: 1854-10-06T00:00:00
@@ -63,6 +143,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Bill Traffley
 ##### Primary Position: C
 ##### Birdate: 1859-12-21T00:00:00
@@ -71,6 +167,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 ### Outfielders
 #### Pop Corkhill
 ##### Primary Position: OF
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Charley Jones
 ##### Primary Position: OF
 ##### Birdate: 1852-04-30T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Jimmy Macullar
 ##### Primary Position: OF
 ##### Birdate: 1855-01-16T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Joe Sommer
 ##### Primary Position: OF
 ##### Birdate: 1858-11-20T00:00:00
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Podge Weihe
 ##### Primary Position: OF
 ##### Birdate: 1862-11-13T00:00:00
@@ -112,6 +288,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 ### Infielders
 #### Hick Carpenter
 ##### Primary Position: 3B
@@ -121,6 +313,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Chick Fulmer
 ##### Primary Position: SS
 ##### Birdate: 1851-02-13T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### Bid McPhee
 ##### Primary Position: 2B
 ##### Birdate: 1859-11-01T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402
 #### John Reilly
 ##### Primary Position: 1B
 ##### Birdate: 1858-10-05T00:00:00
@@ -145,3 +385,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .438
+###### BB: 22
+###### AVG: .276
+###### OPS: .751
+###### SO: 48
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .310
+###### G: 98
+###### H: 111
+###### OBP: .314
+###### AO: 0
+###### R: 83
+###### AB: 402

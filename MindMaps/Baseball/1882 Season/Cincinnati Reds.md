@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Will White
 ##### Primary Position: P
 ##### Birdate: 1854-10-11T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 ### Catchers
 #### Rudy Kemmler
 ##### Primary Position: C
@@ -39,6 +71,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Phil Powers
 ##### Primary Position: C
 ##### Birdate: 1854-07-26T00:00:00
@@ -47,6 +95,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Pop Snyder
 ##### Primary Position: C
 ##### Birdate: 1854-10-06T00:00:00
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 ### Outfielders
 #### Jimmy Macullar
 ##### Primary Position: OF
@@ -64,6 +144,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Joe Sommer
 ##### Primary Position: OF
 ##### Birdate: 1858-11-20T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Tug Thompson
 ##### Primary Position: OF
 ##### Birdate: 
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Harry Wheeler
 ##### Primary Position: OF
 ##### Birdate: 1858-03-03T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 ### Infielders
 #### Hick Carpenter
 ##### Primary Position: 3B
@@ -97,6 +241,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Chick Fulmer
 ##### Primary Position: SS
 ##### Birdate: 1851-02-13T00:00:00
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Henry Luff
 ##### Primary Position: 1B
 ##### Birdate: 1852-09-14T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Bid McPhee
 ##### Primary Position: 2B
 ##### Birdate: 1859-11-01T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Ecky Stearns
 ##### Primary Position: 1B
 ##### Birdate: 1861-10-17T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11
 #### Bill Tierney
 ##### Primary Position: 1B
 ##### Birdate: 1858-05-14T00:00:00
@@ -137,3 +361,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .455
+###### BB: 0
+###### AVG: .273
+###### OPS: .727
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .273
+###### G: 3
+###### H: 3
+###### OBP: .273
+###### AO: 0
+###### R: 1
+###### AB: 11

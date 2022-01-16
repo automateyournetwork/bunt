@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Fox
 ##### Primary Position: P
 ##### Birdate: 1859-02-07T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Bobby Mathews
 ##### Primary Position: P
 ##### Birdate: 1851-11-21T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jim Whitney
 ##### Primary Position: P
 ##### Birdate: 1857-11-10T00:00:00
@@ -46,6 +94,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Catchers
 #### Pat Deasley
 ##### Primary Position: C
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Pop Snyder
 ##### Primary Position: C
 ##### Birdate: 1854-10-06T00:00:00
@@ -63,6 +143,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Outfielders
 #### Bill Crowley
 ##### Primary Position: OF
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Joe Hornung
 ##### Primary Position: OF
 ##### Birdate: 1857-06-12T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Fred Lewis
 ##### Primary Position: OF
 ##### Birdate: 1858-10-13T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Infielders
 #### Ross Barnes
 ##### Primary Position: SS
@@ -97,6 +241,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Burdock
 ##### Primary Position: 2B
 ##### Birdate: 1852-04-01T00:00:00
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Morrill
 ##### Primary Position: 1B
 ##### Birdate: 1855-02-19T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Joseph Quinn
 ##### Primary Position: 1B
 ##### Birdate: 
@@ -121,6 +313,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Richmond
 ##### Primary Position: SS
 ##### Birdate: 1855-03-05T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Ezra Sutton
 ##### Primary Position: 3B
 ##### Birdate: 1850-09-17T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Wright
 ##### Primary Position: SS
 ##### Birdate: 1847-01-28T00:00:00
@@ -145,6 +385,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Sam Wright
 ##### Primary Position: SS
 ##### Birdate: 1848-11-25T00:00:00
@@ -153,3 +409,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .250
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4

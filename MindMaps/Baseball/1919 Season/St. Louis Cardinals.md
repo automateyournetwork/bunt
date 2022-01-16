@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Bill Bolden
 ##### Primary Position: P
 ##### Birdate: 1893-05-09T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Doak
 ##### Primary Position: P
 ##### Birdate: 1891-01-28T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Marv Goodwin
 ##### Primary Position: P
 ##### Birdate: 1891-01-16T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Oscar Horstmann
 ##### Primary Position: P
 ##### Birdate: 1891-06-02T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Elmer Jacobs
 ##### Primary Position: P
 ##### Birdate: 1892-08-10T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Will Koenigsmark
 ##### Primary Position: P
 ##### Birdate: 1896-02-27T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jakie May
 ##### Primary Position: P
 ##### Birdate: 1895-11-25T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Meadows
 ##### Primary Position: P
 ##### Birdate: 1894-07-12T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Roy Parker
 ##### Primary Position: P
 ##### Birdate: 1896-02-29T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Art Reinhart
 ##### Primary Position: P
 ##### Birdate: 1899-05-29T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ferdie Schupp
 ##### Primary Position: P
 ##### Birdate: 1891-01-16T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Sherdel
 ##### Primary Position: P
 ##### Birdate: 1896-08-15T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Oscar Tuero
 ##### Primary Position: P
 ##### Birdate: 1898-12-17T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Woodward
 ##### Primary Position: P
 ##### Birdate: 1894-05-17T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Verne Clemons
 ##### Primary Position: C
@@ -143,6 +158,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pickles Dillhoefer
 ##### Primary Position: C
 ##### Birdate: 1893-10-13T00:00:00
@@ -151,6 +167,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Snyder
 ##### Primary Position: C
 ##### Birdate: 1893-05-27T00:00:00
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Walton Cruise
 ##### Primary Position: OF
@@ -168,6 +186,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Cliff Heathcote
 ##### Primary Position: OF
 ##### Birdate: 1898-01-24T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Austin McHenry
 ##### Primary Position: OF
 ##### Birdate: 1895-09-22T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Schultz
 ##### Primary Position: OF
 ##### Birdate: 1893-07-24T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Burt Shotton
 ##### Primary Position: OF
 ##### Birdate: 1884-10-18T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jack Smith
 ##### Primary Position: OF
 ##### Birdate: 1895-06-23T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Doug Baird
 ##### Primary Position: 3B
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Sam Fishburn
 ##### Primary Position: 1B
 ##### Birdate: 1893-05-15T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Fisher
 ##### Primary Position: 2B
 ##### Birdate: 1886-11-03T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rogers Hornsby
 ##### Primary Position: 2B
 ##### Birdate: 1896-04-27T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hal Janvrin
 ##### Primary Position: 2B
 ##### Birdate: 1892-08-27T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Wally Kimmick
 ##### Primary Position: SS
 ##### Birdate: 1897-05-30T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doc Lavan
 ##### Primary Position: SS
 ##### Birdate: 1890-10-28T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Roy Leslie
 ##### Primary Position: 1B
 ##### Birdate: 1894-08-23T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dots Miller
 ##### Primary Position: 1B
 ##### Birdate: 1886-09-09T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fritz Mollwitz
 ##### Primary Position: 1B
 ##### Birdate: 1890-06-16T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Pasquella
 ##### Primary Position: 1B
 ##### Birdate: 1898-11-07T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gene Paulette
 ##### Primary Position: 1B
 ##### Birdate: 1891-05-26T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Milt Stock
 ##### Primary Position: 3B
 ##### Birdate: 1893-07-11T00:00:00
@@ -313,3 +349,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

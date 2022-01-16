@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 37
+##### Statistics
 #### Danys Baez
 ##### Primary Position: P
 ##### Birdate: 1977-09-10T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 28
+##### Statistics
 #### Brian Bass
 ##### Primary Position: P
 ##### Birdate: 1982-01-06T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 25
+##### Statistics
 #### Brad Bergesen
 ##### Primary Position: P
 ##### Birdate: 1985-09-25T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 35
+##### Statistics
 #### Jason Berken
 ##### Primary Position: P
 ##### Birdate: 1983-11-27T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 49
+##### Statistics
 #### Alberto Castillo
 ##### Primary Position: P
 ##### Birdate: 1975-07-05T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 53
+##### Statistics
 #### Adam Eaton
 ##### Primary Position: P
 ##### Birdate: 1977-11-23T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 24
+##### Statistics
 #### Jeremy Guthrie
 ##### Primary Position: P
 ##### Birdate: 1979-04-08T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 46
+##### Statistics
 #### Mark Hendrickson
 ##### Primary Position: P
 ##### Birdate: 1974-06-23T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 27
+##### Statistics
 #### Sean Henn
 ##### Primary Position: P
 ##### Birdate: 1981-04-23T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 53
+##### Statistics
 #### David Hernandez
 ##### Primary Position: P
 ##### Birdate: 1985-05-13T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 29
+##### Statistics
 #### Rich Hill
 ##### Primary Position: P
 ##### Birdate: 1980-03-11T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 51
+##### Statistics
 #### Jim Johnson
 ##### Primary Position: P
 ##### Birdate: 1983-06-27T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 43
+##### Statistics
 #### Chris Lambert
 ##### Primary Position: P
 ##### Birdate: 1983-03-08T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 55
+##### Statistics
 #### Radhames Liz
 ##### Primary Position: P
 ##### Birdate: 1983-10-06T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 62
+##### Statistics
 #### Brian Matusz
 ##### Primary Position: P
 ##### Birdate: 1987-02-11T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 17
+##### Statistics
 #### Bob McCrory
 ##### Primary Position: P
 ##### Birdate: 1982-05-03T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 41
+##### Statistics
 #### Cla Meredith
 ##### Primary Position: P
 ##### Birdate: 1983-06-04T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 26
+##### Statistics
 #### Kam Mickolio
 ##### Primary Position: P
 ##### Birdate: 1984-05-10T00:00:00
@@ -166,6 +184,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 31
+##### Statistics
 #### Chris Ray
 ##### Primary Position: P
 ##### Birdate: 1982-01-12T00:00:00
@@ -174,6 +193,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 37
+##### Statistics
 #### Dennis Sarfate
 ##### Primary Position: P
 ##### Birdate: 1981-04-09T00:00:00
@@ -182,6 +202,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 45
+##### Statistics
 #### George Sherrill
 ##### Primary Position: P
 ##### Birdate: 1977-04-19T00:00:00
@@ -190,6 +211,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 52
+##### Statistics
 #### Alfredo Simon
 ##### Primary Position: P
 ##### Birdate: 1981-05-08T00:00:00
@@ -198,6 +220,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 58
+##### Statistics
 #### Chris Tillman
 ##### Primary Position: P
 ##### Birdate: 1988-04-15T00:00:00
@@ -206,6 +229,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 54
+##### Statistics
 #### Koji Uehara
 ##### Primary Position: P
 ##### Birdate: 1975-04-03T00:00:00
@@ -214,6 +238,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 19
+##### Statistics
 #### Jamie Walker
 ##### Primary Position: P
 ##### Birdate: 1971-07-01T00:00:00
@@ -222,6 +247,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 32
+##### Statistics
 #### Chris Waters
 ##### Primary Position: P
 ##### Birdate: 1980-08-17T00:00:00
@@ -230,6 +256,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 29
+##### Statistics
 ### Catchers
 #### Chad Moeller
 ##### Primary Position: C
@@ -239,6 +266,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 16
+##### Statistics
 #### Guillermo Rodriguez
 ##### Primary Position: C
 ##### Birdate: 1978-05-15T00:00:00
@@ -247,6 +275,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 78
+##### Statistics
 #### Matt Wieters
 ##### Primary Position: C
 ##### Birdate: 1986-05-21T00:00:00
@@ -255,6 +284,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 32
+##### Statistics
 #### Gregg Zaun
 ##### Primary Position: C
 ##### Birdate: 1971-04-14T00:00:00
@@ -263,6 +293,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 9
+##### Statistics
 ### Outfielders
 ### Infielders
 #### Robert Andino
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 12
+##### Statistics
 #### Michael Aubrey
 ##### Primary Position: 1B
 ##### Birdate: 1982-04-15T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 24
+##### Statistics
 #### Ryan Freel
 ##### Primary Position: 3B
 ##### Birdate: 1976-03-08T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 2
+##### Statistics
 #### Aubrey Huff
 ##### Primary Position: 1B
 ##### Birdate: 1976-12-20T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 17
+##### Statistics
 #### Cesar Izturis
 ##### Primary Position: SS
 ##### Birdate: 1980-02-10T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 3
+##### Statistics
 #### Melvin Mora
 ##### Primary Position: 3B
 ##### Birdate: 1972-02-07T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 6
+##### Statistics
 #### Brian Roberts
 ##### Primary Position: 2B
 ##### Birdate: 1977-10-09T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 1
+##### Statistics
 #### Oscar Salazar
 ##### Primary Position: 1B
 ##### Birdate: 1978-06-27T00:00:00
@@ -329,6 +367,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 26
+##### Statistics
 #### Justin Turner
 ##### Primary Position: 2B
 ##### Birdate: 1984-11-23T00:00:00
@@ -337,6 +376,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 15
+##### Statistics
 #### Ty Wigginton
 ##### Primary Position: 1B
 ##### Birdate: 1977-10-11T00:00:00
@@ -345,3 +385,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 23
+##### Statistics

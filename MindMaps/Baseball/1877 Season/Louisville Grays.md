@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 ### Catchers
 #### Pop Snyder
 ##### Primary Position: C
@@ -31,6 +47,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 ### Outfielders
 #### Bill Crowley
 ##### Primary Position: OF
@@ -40,6 +72,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### George Hall
 ##### Primary Position: OF
 ##### Birdate: 1849-03-29T00:00:00
@@ -48,6 +96,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Flip Lafferty
 ##### Primary Position: OF
 ##### Birdate: 1854-05-04T00:00:00
@@ -56,6 +120,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Harry Little
 ##### Primary Position: OF
 ##### Birdate: 1850-11-09T00:00:00
@@ -64,6 +144,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### George Shafer
 ##### Primary Position: OF
 ##### Birdate: 1851-10-01T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 ### Infielders
 #### Bill Craver
 ##### Primary Position: SS
@@ -81,6 +193,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Joe Gerhardt
 ##### Primary Position: 2B
 ##### Birdate: 1855-02-14T00:00:00
@@ -89,6 +217,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Bill Hague
 ##### Primary Position: 3B
 ##### Birdate: 1852-01-01T00:00:00
@@ -97,6 +241,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### John Haldeman
 ##### Primary Position: 2B
 ##### Birdate: 1855-12-02T00:00:00
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Jumbo Latham
 ##### Primary Position: 1B
 ##### Birdate: 1852-09-06T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248
 #### Al Nichols
 ##### Primary Position: 2B
 ##### Birdate: 1852-02-14T00:00:00
@@ -121,3 +313,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .327
+###### BB: 3
+###### AVG: .258
+###### OPS: .594
+###### SO: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .267
+###### G: 61
+###### H: 64
+###### OBP: .267
+###### AO: 0
+###### R: 23
+###### AB: 248

@@ -22,6 +22,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jimmy Callahan
 ##### Primary Position: P
 ##### Birdate: 1874-03-18T00:00:00
@@ -30,6 +48,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Kid Carsey
 ##### Primary Position: P
 ##### Birdate: 1872-10-22T00:00:00
@@ -38,6 +74,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Fanning
 ##### Primary Position: P
 ##### Birdate: 1863-01-01T00:00:00
@@ -46,6 +100,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Frank Figgemeier
 ##### Primary Position: P
 ##### Birdate: 1873-04-22T00:00:00
@@ -54,6 +126,24 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Haddock
 ##### Primary Position: P
 ##### Birdate: 1866-12-25T00:00:00
@@ -62,6 +152,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Harper
 ##### Primary Position: P
 ##### Birdate: 1866-08-17T00:00:00
@@ -70,6 +178,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Lou Johnson
 ##### Primary Position: P
 ##### Birdate: 1869-11-18T00:00:00
@@ -78,6 +204,24 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Alex Jones
 ##### Primary Position: P
 ##### Birdate: 1869-12-25T00:00:00
@@ -86,6 +230,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Al Lukens
 ##### Primary Position: P
 ##### Birdate: 1868-11-15T00:00:00
@@ -94,6 +256,24 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Scheible
 ##### Primary Position: P
 ##### Birdate: 1866-02-16T00:00:00
@@ -102,6 +282,24 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Taylor
 ##### Primary Position: P
 ##### Birdate: 1873-05-23T00:00:00
@@ -110,6 +308,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Gus Weyhing
 ##### Primary Position: P
 ##### Birdate: 1866-09-29T00:00:00
@@ -118,6 +334,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Catchers
 #### Dick Buckley
 ##### Primary Position: C
@@ -127,6 +361,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Clements
 ##### Primary Position: C
 ##### Birdate: 1864-07-24T00:00:00
@@ -135,6 +387,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Mike Grady
 ##### Primary Position: C
 ##### Birdate: 1869-12-23T00:00:00
@@ -143,6 +413,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Outfielders
 #### Ed Delahanty
 ##### Primary Position: OF
@@ -152,6 +440,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Billy Hamilton
 ##### Primary Position: OF
 ##### Birdate: 1866-02-15T00:00:00
@@ -160,6 +466,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Sam Thompson
 ##### Primary Position: OF
 ##### Birdate: 1860-03-05T00:00:00
@@ -168,6 +492,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Tuck Turner
 ##### Primary Position: OF
 ##### Birdate: 1873-02-13T00:00:00
@@ -176,6 +518,24 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Infielders
 #### Bob Allen
 ##### Primary Position: SS
@@ -185,6 +545,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jack Boyle
 ##### Primary Position: 1B
 ##### Birdate: 1866-03-22T00:00:00
@@ -193,6 +571,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Lave Cross
 ##### Primary Position: 3B
 ##### Birdate: 1866-05-12T00:00:00
@@ -201,6 +597,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Tom Delahanty
 ##### Primary Position: 2B
 ##### Birdate: 1872-03-09T00:00:00
@@ -209,6 +623,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Bill Hallman
 ##### Primary Position: 2B
 ##### Birdate: 1867-03-31T00:00:00
@@ -217,6 +649,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Arthur Irwin
 ##### Primary Position: SS
 ##### Birdate: 1858-02-14T00:00:00
@@ -225,6 +675,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Tom Murray
 ##### Primary Position: SS
 ##### Birdate: 1866-01-01T00:00:00
@@ -233,6 +701,24 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Charlie Reilly
 ##### Primary Position: 3B
 ##### Birdate: 1867-02-15T00:00:00
@@ -241,6 +727,24 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Joe Sullivan
 ##### Primary Position: SS
 ##### Birdate: 1870-01-06T00:00:00
@@ -249,6 +753,24 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Joe Yingling
 ##### Primary Position: SS
 ##### Birdate: 1866-07-23T00:00:00
@@ -257,3 +779,21 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .250
+###### BB: 0
+###### AVG: .250
+###### OPS: .500
+###### SO: 1
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 1
+###### H: 1
+###### OBP: .250
+###### AO: 0
+###### R: 0
+###### AB: 4

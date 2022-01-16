@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dan Daub
 ##### Primary Position: P
 ##### Birdate: 1868-01-12T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Haddock
 ##### Primary Position: P
 ##### Birdate: 1866-12-25T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Brickyard Kennedy
 ##### Primary Position: P
 ##### Birdate: 1867-10-07T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Lovett
 ##### Primary Position: P
 ##### Birdate: 1863-12-07T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Sharrott
 ##### Primary Position: P
 ##### Birdate: 1869-11-02T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ed Stein
 ##### Primary Position: P
 ##### Birdate: 1869-09-05T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Con Daily
 ##### Primary Position: C
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tom Kinslow
 ##### Primary Position: C
 ##### Birdate: 1866-01-12T00:00:00
@@ -87,6 +95,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Oyster Burns
 ##### Primary Position: OF
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Griffin
 ##### Primary Position: OF
 ##### Birdate: 1865-03-20T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Harry Stovey
 ##### Primary Position: OF
 ##### Birdate: 1856-12-20T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Dan Brouthers
 ##### Primary Position: 1B
@@ -121,6 +133,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tommy Corcoran
 ##### Primary Position: SS
 ##### Birdate: 1869-01-04T00:00:00
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Daly
 ##### Primary Position: 2B
 ##### Birdate: 1866-02-07T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Dave Foutz
 ##### Primary Position: 1B
 ##### Birdate: 1856-09-07T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gil Hatfield
 ##### Primary Position: 3B
 ##### Birdate: 1855-01-27T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Willie Keeler
 ##### Primary Position: 3B
 ##### Birdate: 1872-03-03T00:00:00
@@ -161,6 +178,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Candy Lachance
 ##### Primary Position: 1B
 ##### Birdate: 1870-02-15T00:00:00
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Danny Richardson
 ##### Primary Position: 2B
 ##### Birdate: 1863-01-25T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Shoch
 ##### Primary Position: 2B
 ##### Birdate: 1859-01-06T00:00:00
@@ -185,3 +205,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

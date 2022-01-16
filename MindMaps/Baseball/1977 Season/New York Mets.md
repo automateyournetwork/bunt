@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rick Baldwin
 ##### Primary Position: P
 ##### Birdate: 1953-06-01T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Nino Espinosa
 ##### Primary Position: P
 ##### Birdate: 1953-08-15T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Roy Lee Jackson
 ##### Primary Position: P
 ##### Birdate: 1954-05-01T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jerry Koosman
 ##### Primary Position: P
 ##### Birdate: 1942-12-23T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Skip Lockwood
 ##### Primary Position: P
 ##### Birdate: 1946-08-17T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jon Matlack
 ##### Primary Position: P
 ##### Birdate: 1950-01-19T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Doc Medich
 ##### Primary Position: P
 ##### Birdate: 1948-12-09T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Myrick
 ##### Primary Position: P
 ##### Birdate: 1952-10-01T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Pacella
 ##### Primary Position: P
 ##### Birdate: 1956-09-15T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ray Sadecki
 ##### Primary Position: P
 ##### Birdate: 1940-12-26T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tom Seaver
 ##### Primary Position: P
 ##### Birdate: 1944-11-17T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Paul Siebert
 ##### Primary Position: P
 ##### Birdate: 1953-06-05T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Craig Swan
 ##### Primary Position: P
 ##### Birdate: 1950-11-30T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jackson Todd
 ##### Primary Position: P
 ##### Birdate: 1951-11-20T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pat Zachry
 ##### Primary Position: P
 ##### Birdate: 1952-04-24T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Jerry Grote
 ##### Primary Position: C
@@ -151,6 +167,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ron Hodges
 ##### Primary Position: C
 ##### Birdate: 1949-06-22T00:00:00
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Stearns
 ##### Primary Position: C
 ##### Birdate: 1951-08-21T00:00:00
@@ -167,6 +185,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Bruce Boisclair
 ##### Primary Position: OF
@@ -176,6 +195,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Steve Henderson
 ##### Primary Position: OF
 ##### Birdate: 1952-11-18T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave Kingman
 ##### Primary Position: OF
 ##### Birdate: 1948-12-21T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pepe Mangual
 ##### Primary Position: OF
 ##### Birdate: 1952-05-23T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Mazzilli
 ##### Primary Position: OF
 ##### Birdate: 1955-03-25T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Dan Norman
 ##### Primary Position: OF
 ##### Birdate: 1955-01-11T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Vail
 ##### Primary Position: OF
 ##### Birdate: 1951-11-10T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joel Youngblood
 ##### Primary Position: OF
 ##### Birdate: 1951-08-28T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Luis Alvarado
 ##### Primary Position: 3B
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doug Flynn
 ##### Primary Position: 2B
 ##### Birdate: 1951-04-18T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Leo Foster
 ##### Primary Position: 2B
 ##### Birdate: 1951-02-02T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bud Harrelson
 ##### Primary Position: SS
 ##### Birdate: 1944-06-06T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Ed Kranepool
 ##### Primary Position: 1B
 ##### Birdate: 1944-11-08T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Felix Millan
 ##### Primary Position: 2B
 ##### Birdate: 1943-08-21T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Milner
 ##### Primary Position: 1B
 ##### Birdate: 1949-12-28T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Mike Phillips
 ##### Primary Position: SS
 ##### Birdate: 1950-08-19T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lenny Randle
 ##### Primary Position: 3B
 ##### Birdate: 1949-02-12T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Luis Rosado
 ##### Primary Position: 1B
 ##### Birdate: 1955-12-06T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Roy Staiger
 ##### Primary Position: 3B
 ##### Birdate: 1950-01-06T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Torre
 ##### Primary Position: 1B
 ##### Birdate: 1940-07-18T00:00:00
@@ -329,6 +367,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Valentine
 ##### Primary Position: SS
 ##### Birdate: 1950-05-13T00:00:00
@@ -337,3 +376,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

@@ -22,6 +22,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Ewell Blackwell
 ##### Primary Position: P
 ##### Birdate: 1922-10-23T00:00:00
@@ -30,6 +49,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Bud Byerly
 ##### Primary Position: P
 ##### Birdate: 1920-10-26T00:00:00
@@ -38,6 +76,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Eddie Erautt
 ##### Primary Position: P
 ##### Birdate: 1924-09-26T00:00:00
@@ -46,6 +103,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Howie Fox
 ##### Primary Position: P
 ##### Birdate: 1921-03-01T00:00:00
@@ -54,6 +130,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Johnny Hetki
 ##### Primary Position: P
 ##### Birdate: 1922-05-12T00:00:00
@@ -62,6 +157,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Harry Perkowski
 ##### Primary Position: P
 ##### Birdate: 1922-09-06T00:00:00
@@ -70,6 +184,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Kent Peterson
 ##### Primary Position: P
 ##### Birdate: 1925-12-21T00:00:00
@@ -78,6 +211,25 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Ken Raffensberger
 ##### Primary Position: P
 ##### Birdate: 1917-08-08T00:00:00
@@ -86,6 +238,25 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Willie Ramsdell
 ##### Primary Position: P
 ##### Birdate: 1916-04-04T00:00:00
@@ -94,6 +265,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Frank Smith
 ##### Primary Position: P
 ##### Birdate: 1928-04-04T00:00:00
@@ -102,6 +292,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Herm Wehmeier
 ##### Primary Position: P
 ##### Birdate: 1927-02-18T00:00:00
@@ -110,6 +319,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 ### Catchers
 #### Walker Cooper
 ##### Primary Position: C
@@ -119,6 +347,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Dixie Howell
 ##### Primary Position: C
 ##### Birdate: 1920-04-24T00:00:00
@@ -127,6 +374,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Hobie Landrith
 ##### Primary Position: C
 ##### Birdate: 1930-03-16T00:00:00
@@ -135,6 +401,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Johnny Pramesa
 ##### Primary Position: C
 ##### Birdate: 1925-08-28T00:00:00
@@ -143,6 +428,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Bob Scheffing
 ##### Primary Position: C
 ##### Birdate: 1913-08-11T00:00:00
@@ -151,6 +455,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 ### Outfielders
 #### Joe Adcock
 ##### Primary Position: OF
@@ -160,6 +483,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Jim Bolger
 ##### Primary Position: OF
 ##### Birdate: 1932-02-23T00:00:00
@@ -168,6 +510,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Danny Litwhiler
 ##### Primary Position: OF
 ##### Birdate: 1916-08-31T00:00:00
@@ -176,6 +537,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Peanuts Lowrey
 ##### Primary Position: OF
 ##### Birdate: 1917-08-27T00:00:00
@@ -184,6 +564,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Lloyd Merriman
 ##### Primary Position: OF
 ##### Birdate: 1924-08-02T00:00:00
@@ -192,6 +591,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Ron Northey
 ##### Primary Position: OF
 ##### Birdate: 1920-04-26T00:00:00
@@ -200,6 +618,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Bob Usher
 ##### Primary Position: OF
 ##### Birdate: 1925-03-01T00:00:00
@@ -208,6 +645,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Johnny Wyrostek
 ##### Primary Position: OF
 ##### Birdate: 1919-07-12T00:00:00
@@ -216,6 +672,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 ### Infielders
 #### Bobby Adams
 ##### Primary Position: 3B
@@ -225,6 +700,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Jimmy Bloodworth
 ##### Primary Position: 2B
 ##### Birdate: 1917-07-26T00:00:00
@@ -233,6 +727,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Grady Hatton
 ##### Primary Position: 3B
 ##### Birdate: 1922-10-07T00:00:00
@@ -241,6 +754,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Ted Kluszewski
 ##### Primary Position: 1B
 ##### Birdate: 1924-09-10T00:00:00
@@ -249,6 +781,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Sammy Meeks
 ##### Primary Position: SS
 ##### Birdate: 1923-04-23T00:00:00
@@ -257,6 +808,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Connie Ryan
 ##### Primary Position: 2B
 ##### Birdate: 1920-02-27T00:00:00
@@ -265,6 +835,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509
 #### Virgil Stallcup
 ##### Primary Position: SS
 ##### Birdate: 1922-01-03T00:00:00
@@ -273,3 +862,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 14
+###### SAC: 3
+###### SLG: .418
+###### BB: 52
+###### AVG: .285
+###### OPS: .775
+###### SO: 38
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .296
+###### G: 131
+###### H: 145
+###### OBP: .357
+###### AO: 0
+###### R: 70
+###### AB: 509

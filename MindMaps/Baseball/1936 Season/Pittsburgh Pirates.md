@@ -22,6 +22,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Ralph Birkofer
 ##### Primary Position: P
 ##### Birdate: 1908-11-05T00:00:00
@@ -30,6 +49,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Cy Blanton
 ##### Primary Position: P
 ##### Birdate: 1908-07-06T00:00:00
@@ -38,6 +76,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Mace Brown
 ##### Primary Position: P
 ##### Birdate: 1909-05-21T00:00:00
@@ -46,6 +103,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Guy Bush
 ##### Primary Position: P
 ##### Birdate: 1901-08-23T00:00:00
@@ -54,6 +130,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Waite Hoyt
 ##### Primary Position: P
 ##### Birdate: 1899-09-09T00:00:00
@@ -62,6 +157,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Red Lucas
 ##### Primary Position: P
 ##### Birdate: 1902-04-28T00:00:00
@@ -70,6 +184,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Bill Swift
 ##### Primary Position: P
 ##### Birdate: 1908-01-10T00:00:00
@@ -78,6 +211,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Jack Tising
 ##### Primary Position: P
 ##### Birdate: 1903-10-09T00:00:00
@@ -86,6 +238,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Jim Weaver
 ##### Primary Position: P
 ##### Birdate: 1903-11-25T00:00:00
@@ -94,6 +265,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Johnny Welch
 ##### Primary Position: P
 ##### Birdate: 1906-12-02T00:00:00
@@ -102,6 +292,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 ### Catchers
 #### Hal Finney
 ##### Primary Position: C
@@ -111,6 +320,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Tom Padden
 ##### Primary Position: C
 ##### Birdate: 1908-10-06T00:00:00
@@ -119,6 +347,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Al Todd
 ##### Primary Position: C
 ##### Birdate: 1902-01-07T00:00:00
@@ -127,6 +374,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 ### Outfielders
 #### Johnny Dickshot
 ##### Primary Position: OF
@@ -136,6 +402,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Bud Hafey
 ##### Primary Position: OF
 ##### Birdate: 1912-08-06T00:00:00
@@ -144,6 +429,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Woody Jensen
 ##### Primary Position: OF
 ##### Birdate: 1907-08-11T00:00:00
@@ -152,6 +456,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Fred Schulte
 ##### Primary Position: OF
 ##### Birdate: 1901-01-13T00:00:00
@@ -160,6 +483,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Lloyd Waner
 ##### Primary Position: OF
 ##### Birdate: 1906-03-16T00:00:00
@@ -168,6 +510,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Paul Waner
 ##### Primary Position: OF
 ##### Birdate: 1903-04-16T00:00:00
@@ -176,6 +537,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 ### Infielders
 #### Earl Browne
 ##### Primary Position: 1B
@@ -185,6 +565,25 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Bill Brubaker
 ##### Primary Position: 3B
 ##### Birdate: 1910-11-07T00:00:00
@@ -193,6 +592,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Cookie Lavagetto
 ##### Primary Position: 2B
 ##### Birdate: 1912-12-01T00:00:00
@@ -201,6 +619,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Gus Suhr
 ##### Primary Position: 1B
 ##### Birdate: 1906-01-03T00:00:00
@@ -209,6 +646,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Arky Vaughan
 ##### Primary Position: SS
 ##### Birdate: 1912-03-09T00:00:00
@@ -217,6 +673,25 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475
 #### Pep Young
 ##### Primary Position: 2B
 ##### Birdate: 1907-08-29T00:00:00
@@ -225,3 +700,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 9
+###### SAC: 9
+###### SLG: .377
+###### BB: 29
+###### AVG: .248
+###### OPS: .670
+###### SO: 52
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 6
+###### BAB IP: .269
+###### G: 125
+###### H: 118
+###### OBP: .293
+###### AO: 0
+###### R: 47
+###### AB: 475

@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Bobby Mathews
 ##### Primary Position: P
 ##### Birdate: 1851-11-21T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Catchers
 #### Nat Hicks
 ##### Primary Position: C
@@ -39,6 +71,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John McGuinness
 ##### Primary Position: C
 ##### Birdate: 1857-01-01T00:00:00
@@ -47,6 +95,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Bob Valentine
 ##### Primary Position: C
 ##### Birdate: 
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Outfielders
 #### George Bechtel
 ##### Primary Position: OF
@@ -64,6 +144,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Eddie Booth
 ##### Primary Position: OF
 ##### Birdate: 
@@ -72,6 +168,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Hatfield
 ##### Primary Position: OF
 ##### Birdate: 1847-07-20T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Hayes
 ##### Primary Position: OF
 ##### Birdate: 1855-01-01T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jim Holdsworth
 ##### Primary Position: OF
 ##### Birdate: 1850-07-14T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### John Maloney
 ##### Primary Position: OF
 ##### Birdate: 
@@ -104,6 +264,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Nealy Phelps
 ##### Primary Position: OF
 ##### Birdate: 1840-11-19T00:00:00
@@ -112,6 +288,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jim Shandley
 ##### Primary Position: OF
 ##### Birdate: 
@@ -120,6 +312,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Fred Treacey
 ##### Primary Position: OF
 ##### Birdate: 1847-01-01T00:00:00
@@ -128,6 +336,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 ### Infielders
 #### Bill Craver
 ##### Primary Position: 2B
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Fair
 ##### Primary Position: 2B
 ##### Birdate: 1856-01-13T00:00:00
@@ -145,6 +385,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Jimmy Hallinan
 ##### Primary Position: SS
 ##### Birdate: 1849-05-27T00:00:00
@@ -153,6 +409,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Heubel
 ##### Primary Position: 1B
 ##### Birdate: 1849-01-01T00:00:00
@@ -161,6 +433,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Al Nichols
 ##### Primary Position: 3B
 ##### Birdate: 1852-02-14T00:00:00
@@ -169,6 +457,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### George Seward
 ##### Primary Position: 2B
 ##### Birdate: 
@@ -177,6 +481,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Joe Start
 ##### Primary Position: 1B
 ##### Birdate: 1842-10-14T00:00:00
@@ -185,6 +505,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Pete Treacey
 ##### Primary Position: SS
 ##### Birdate: 1852-01-01T00:00:00
@@ -193,6 +529,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4
 #### Billy West
 ##### Primary Position: 2B
 ##### Birdate: 1840-08-21T00:00:00
@@ -201,3 +553,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .000
+###### BB: 0
+###### AVG: .000
+###### OPS: .000
+###### SO: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .000
+###### G: 1
+###### H: 0
+###### OBP: .000
+###### AO: 0
+###### R: 0
+###### AB: 4

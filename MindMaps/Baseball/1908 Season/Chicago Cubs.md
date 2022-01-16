@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Andy Coakley
 ##### Primary Position: P
 ##### Birdate: 1882-11-20T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Chick Fraser
 ##### Primary Position: P
 ##### Birdate: 1873-08-26T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Rube Kroh
 ##### Primary Position: P
 ##### Birdate: 1886-08-25T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Carl Lundgren
 ##### Primary Position: P
 ##### Birdate: 1880-02-16T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Bill Mack
 ##### Primary Position: P
 ##### Birdate: 1885-02-12T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Orval Overall
 ##### Primary Position: P
 ##### Birdate: 1881-02-02T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Jack Pfiester
 ##### Primary Position: P
 ##### Birdate: 1878-05-24T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Ed Reulbach
 ##### Primary Position: P
 ##### Birdate: 1882-12-01T00:00:00
@@ -86,6 +222,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Carl Spongberg
 ##### Primary Position: P
 ##### Birdate: 1884-05-21T00:00:00
@@ -94,6 +247,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 ### Catchers
 #### Johnny Kling
 ##### Primary Position: C
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Doc Marshall
 ##### Primary Position: C
 ##### Birdate: 1875-09-22T00:00:00
@@ -111,6 +298,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Pat Moran
 ##### Primary Position: C
 ##### Birdate: 1876-02-07T00:00:00
@@ -119,6 +323,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 ### Outfielders
 #### Kid Durbin
 ##### Primary Position: OF
@@ -128,6 +349,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Jack Hayden
 ##### Primary Position: OF
 ##### Birdate: 1880-10-21T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Solly Hofman
 ##### Primary Position: OF
 ##### Birdate: 1882-10-29T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Del Howard
 ##### Primary Position: OF
 ##### Birdate: 1877-12-24T00:00:00
@@ -152,6 +424,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Frank Schulte
 ##### Primary Position: OF
 ##### Birdate: 1882-09-17T00:00:00
@@ -160,6 +449,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Jimmy Sheckard
 ##### Primary Position: OF
 ##### Birdate: 1878-11-23T00:00:00
@@ -168,6 +474,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Jimmy Slagle
 ##### Primary Position: OF
 ##### Birdate: 1873-07-11T00:00:00
@@ -176,6 +499,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 ### Infielders
 #### Frank Chance
 ##### Primary Position: 1B
@@ -185,6 +525,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Johnny Evers
 ##### Primary Position: 2B
 ##### Birdate: 1881-07-21T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Harry Steinfeldt
 ##### Primary Position: 3B
 ##### Birdate: 1877-09-29T00:00:00
@@ -201,6 +575,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Joe Tinker
 ##### Primary Position: SS
 ##### Birdate: 1880-07-27T00:00:00
@@ -209,6 +600,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113
 #### Heinie Zimmerman
 ##### Primary Position: 3B
 ##### Birdate: 1887-02-09T00:00:00
@@ -217,3 +625,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 4
+###### SLG: .345
+###### BB: 1
+###### AVG: .292
+###### OPS: .643
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .292
+###### G: 46
+###### H: 33
+###### OBP: .298
+###### AO: 0
+###### R: 17
+###### AB: 113

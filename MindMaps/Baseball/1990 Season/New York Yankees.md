@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Greg Cadaret
 ##### Primary Position: P
 ##### Birdate: 1962-02-27T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Chuck Cary
 ##### Primary Position: P
 ##### Birdate: 1960-03-03T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dave Eiland
 ##### Primary Position: P
 ##### Birdate: 1966-07-05T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lee Guetterman
 ##### Primary Position: P
 ##### Birdate: 1958-11-22T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### John Habyan
 ##### Primary Position: P
 ##### Birdate: 1964-01-29T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Andy Hawkins
 ##### Primary Position: P
 ##### Birdate: 1960-01-21T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jimmy Jones
 ##### Primary Position: P
 ##### Birdate: 1964-04-20T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave LaPoint
 ##### Primary Position: P
 ##### Birdate: 1959-07-29T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tim Leary
 ##### Primary Position: P
 ##### Birdate: 1958-12-23T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mark Leiter
 ##### Primary Position: P
 ##### Birdate: 1963-04-13T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lance McCullers
 ##### Primary Position: P
 ##### Birdate: 1964-03-08T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Alan Mills
 ##### Primary Position: P
 ##### Birdate: 1966-10-18T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rich Monteleone
 ##### Primary Position: P
 ##### Birdate: 1963-03-22T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Clay Parker
 ##### Primary Position: P
 ##### Birdate: 1962-12-19T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pascual Perez
 ##### Primary Position: P
 ##### Birdate: 1957-05-17T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Eric Plunk
 ##### Primary Position: P
 ##### Birdate: 1963-09-03T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave Righetti
 ##### Primary Position: P
 ##### Birdate: 1958-11-28T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jeff Robinson
 ##### Primary Position: P
 ##### Birdate: 1960-12-13T00:00:00
@@ -166,6 +184,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Witt
 ##### Primary Position: P
 ##### Birdate: 1960-07-20T00:00:00
@@ -174,6 +193,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Rick Cerone
 ##### Primary Position: C
@@ -183,6 +203,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Brian Dorsett
 ##### Primary Position: C
 ##### Birdate: 1961-04-09T00:00:00
@@ -191,6 +212,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Geren
 ##### Primary Position: C
 ##### Birdate: 1961-09-22T00:00:00
@@ -199,6 +221,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Leyritz
 ##### Primary Position: C
 ##### Birdate: 1963-12-27T00:00:00
@@ -207,6 +230,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Matt Nokes
 ##### Primary Position: C
 ##### Birdate: 1963-10-31T00:00:00
@@ -215,6 +239,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Oscar Azocar
 ##### Primary Position: OF
@@ -224,6 +249,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jesse Barfield
 ##### Primary Position: OF
 ##### Birdate: 1959-10-29T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mel Hall
 ##### Primary Position: OF
 ##### Birdate: 1960-09-16T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Hensley Meulens
 ##### Primary Position: OF
 ##### Birdate: 1967-06-23T00:00:00
@@ -248,6 +276,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Deion Sanders
 ##### Primary Position: OF
 ##### Birdate: 1967-08-09T00:00:00
@@ -256,6 +285,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Claudell Washington
 ##### Primary Position: OF
 ##### Birdate: 1954-08-31T00:00:00
@@ -264,6 +294,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dave Winfield
 ##### Primary Position: OF
 ##### Birdate: 1951-10-03T00:00:00
@@ -272,6 +303,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Mike Blowers
 ##### Primary Position: 3B
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Alvaro Espinoza
 ##### Primary Position: SS
 ##### Birdate: 1962-02-19T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Mattingly
 ##### Primary Position: 1B
 ##### Birdate: 1961-04-20T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Steve Sax
 ##### Primary Position: 2B
 ##### Birdate: 1960-01-29T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Wayne Tolleson
 ##### Primary Position: SS
 ##### Birdate: 1955-11-22T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Randy Velarde
 ##### Primary Position: SS
 ##### Birdate: 1962-11-24T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Walewander
 ##### Primary Position: 2B
 ##### Birdate: 1962-05-02T00:00:00
@@ -329,3 +367,4 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics

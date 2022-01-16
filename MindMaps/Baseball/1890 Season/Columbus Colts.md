@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jack Easton
 ##### Primary Position: P
 ##### Birdate: 1865-02-28T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Tom Ford
 ##### Primary Position: P
 ##### Birdate: 1866-10-01T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Hank Gastright
 ##### Primary Position: P
 ##### Birdate: 1865-03-29T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Frank Knauss
 ##### Primary Position: P
 ##### Birdate: 1868-10-01T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Al Mays
 ##### Primary Position: P
 ##### Birdate: 1865-05-17T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Wild Bill Widner
 ##### Primary Position: P
 ##### Birdate: 1867-06-03T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Catchers
 #### Ned Bligh
 ##### Primary Position: C
@@ -79,6 +198,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jack Doyle
 ##### Primary Position: C
 ##### Birdate: 1869-10-25T00:00:00
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### John Munyan
 ##### Primary Position: C
 ##### Birdate: 1860-11-14T00:00:00
@@ -95,6 +248,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jack O'Connor
 ##### Primary Position: C
 ##### Birdate: 1866-06-02T00:00:00
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Outfielders
 #### Spud Johnson
 ##### Primary Position: OF
@@ -112,6 +299,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jim McTamany
 ##### Primary Position: OF
 ##### Birdate: 1863-07-04T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Sam Nicholl
 ##### Primary Position: OF
 ##### Birdate: 1869-04-20T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### John Sneed
 ##### Primary Position: OF
 ##### Birdate: 1861-01-01T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Infielders
 #### Jack Crooks
 ##### Primary Position: 2B
@@ -145,6 +400,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Henry Easterday
 ##### Primary Position: SS
 ##### Birdate: 1864-09-16T00:00:00
@@ -153,6 +425,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Mike Lehane
 ##### Primary Position: 1B
 ##### Birdate: 1865-04-15T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Charlie Reilly
 ##### Primary Position: 3B
 ##### Birdate: 1867-02-15T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Bobby Wheelock
 ##### Primary Position: SS
 ##### Birdate: 1864-08-06T00:00:00
@@ -177,3 +500,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444

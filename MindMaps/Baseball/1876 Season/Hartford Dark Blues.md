@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Candy Cummings
 ##### Primary Position: P
 ##### Birdate: 1848-10-18T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 ### Catchers
 #### Doug Allison
 ##### Primary Position: C
@@ -39,6 +71,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### William Harbridge
 ##### Primary Position: C
 ##### Birdate: 1855-03-29T00:00:00
@@ -47,6 +95,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 ### Outfielders
 #### John Cassidy
 ##### Primary Position: OF
@@ -56,6 +120,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Dick Higham
 ##### Primary Position: OF
 ##### Birdate: 1851-07-24T00:00:00
@@ -64,6 +144,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Jack Remsen
 ##### Primary Position: OF
 ##### Birdate: 1851-01-01T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Tom York
 ##### Primary Position: OF
 ##### Birdate: 1851-07-13T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 ### Infielders
 #### Jack Burdock
 ##### Primary Position: 2B
@@ -89,6 +217,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Tom Carey
 ##### Primary Position: SS
 ##### Birdate: 1846-11-02T00:00:00
@@ -97,6 +241,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Bob Ferguson
 ##### Primary Position: 3B
 ##### Birdate: 1845-01-31T00:00:00
@@ -105,6 +265,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263
 #### Everett Mills
 ##### Primary Position: 1B
 ##### Birdate: 1845-01-20T00:00:00
@@ -113,3 +289,19 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .369
+###### BB: 10
+###### AVG: .259
+###### OPS: .655
+###### SO: 4
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .260
+###### G: 67
+###### H: 68
+###### OBP: .286
+###### AO: 0
+###### R: 47
+###### AB: 263

@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Roy Evans
 ##### Primary Position: P
 ##### Birdate: 1874-03-19T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cy Morgan
 ##### Primary Position: P
 ##### Birdate: 1878-11-10T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Barney Pelty
 ##### Primary Position: P
 ##### Birdate: 1880-09-10T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Powell
 ##### Primary Position: P
 ##### Birdate: 1874-07-09T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Reidy
 ##### Primary Position: P
 ##### Birdate: 1873-10-09T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ed Siever
 ##### Primary Position: P
 ##### Birdate: 1877-04-02T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Willie Sudhoff
 ##### Primary Position: P
 ##### Birdate: 1874-09-17T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Terry
 ##### Primary Position: P
 ##### Birdate: 1879-11-01T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gene Wright
 ##### Primary Position: P
 ##### Birdate: 1878-12-11T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Mike Kahoe
 ##### Primary Position: C
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Owen Shannon
 ##### Primary Position: C
 ##### Birdate: 1879-12-22T00:00:00
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Sugden
 ##### Primary Position: C
 ##### Birdate: 1870-07-31T00:00:00
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Jesse Burkett
 ##### Primary Position: OF
@@ -128,6 +141,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Emmet Heidrick
 ##### Primary Position: OF
 ##### Birdate: 1876-07-29T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Hemphill
 ##### Primary Position: OF
 ##### Birdate: 1876-04-20T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Martin
 ##### Primary Position: OF
 ##### Birdate: 1876-01-01T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pinky Swander
 ##### Primary Position: OF
 ##### Birdate: 1880-07-04T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### John Anderson
 ##### Primary Position: 1B
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Benny Bowcock
 ##### Primary Position: 2B
 ##### Birdate: 1879-10-28T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Friel
 ##### Primary Position: 3B
 ##### Birdate: 1876-04-01T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Claude Gouzzie
 ##### Primary Position: 2B
 ##### Birdate: 1873-01-01T00:00:00
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hunter Hill
 ##### Primary Position: 3B
 ##### Birdate: 1879-06-21T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Barry McCormick
 ##### Primary Position: 3B
 ##### Birdate: 1874-12-25T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dick Padden
 ##### Primary Position: 2B
 ##### Birdate: 1870-09-17T00:00:00
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bobby Wallace
 ##### Primary Position: SS
 ##### Birdate: 1873-11-04T00:00:00
@@ -225,3 +250,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

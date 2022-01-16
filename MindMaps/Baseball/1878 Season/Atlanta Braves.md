@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 ### Catchers
 #### Pop Snyder
 ##### Primary Position: C
@@ -31,6 +47,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 ### Outfielders
 #### Andy Leonard
 ##### Primary Position: OF
@@ -40,6 +72,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### Jack Manning
 ##### Primary Position: OF
 ##### Birdate: 1853-12-20T00:00:00
@@ -48,6 +96,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 ### Infielders
 #### Jack Burdock
 ##### Primary Position: 2B
@@ -57,6 +121,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### John Morrill
 ##### Primary Position: 1B
 ##### Birdate: 1855-02-19T00:00:00
@@ -65,6 +145,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### Jim O'Rourke
 ##### Primary Position: 1B
 ##### Birdate: 1850-09-01T00:00:00
@@ -73,6 +169,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### Harry Schafer
 ##### Primary Position: 3B
 ##### Birdate: 1846-08-14T00:00:00
@@ -81,6 +193,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### Ezra Sutton
 ##### Primary Position: 3B
 ##### Birdate: 1850-09-17T00:00:00
@@ -89,6 +217,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267
 #### George Wright
 ##### Primary Position: SS
 ##### Birdate: 1847-01-28T00:00:00
@@ -97,3 +241,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .251
+###### BB: 6
+###### AVG: .225
+###### OPS: .493
+###### SO: 22
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .245
+###### G: 59
+###### H: 60
+###### OBP: .242
+###### AO: 0
+###### R: 35
+###### AB: 267

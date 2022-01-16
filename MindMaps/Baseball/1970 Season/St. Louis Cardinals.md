@@ -22,6 +22,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Frank Bertaina
 ##### Primary Position: P
 ##### Birdate: 1944-04-14T00:00:00
@@ -30,6 +52,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Nelson Briles
 ##### Primary Position: P
 ##### Birdate: 1943-08-05T00:00:00
@@ -38,6 +82,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Sal Campisi
 ##### Primary Position: P
 ##### Birdate: 1942-08-11T00:00:00
@@ -46,6 +112,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Steve Carlton
 ##### Primary Position: P
 ##### Birdate: 1944-12-22T00:00:00
@@ -54,6 +142,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Bob Chlupsa
 ##### Primary Position: P
 ##### Birdate: 1945-09-16T00:00:00
@@ -62,6 +172,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Reggie Cleveland
 ##### Primary Position: P
 ##### Birdate: 1948-05-23T00:00:00
@@ -70,6 +202,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### George Culver
 ##### Primary Position: P
 ##### Birdate: 1943-07-08T00:00:00
@@ -78,6 +232,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Bob Gibson
 ##### Primary Position: P
 ##### Birdate: 1935-11-09T00:00:00
@@ -86,6 +262,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Santiago Guzman
 ##### Primary Position: P
 ##### Birdate: 1949-07-25T00:00:00
@@ -94,6 +292,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Chuck Hartenstein
 ##### Primary Position: P
 ##### Birdate: 1942-05-26T00:00:00
@@ -102,6 +322,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Tom Hilgendorf
 ##### Primary Position: P
 ##### Birdate: 1942-03-10T00:00:00
@@ -110,6 +352,28 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Al Hrabosky
 ##### Primary Position: P
 ##### Birdate: 1949-07-21T00:00:00
@@ -118,6 +382,28 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jerry Johnson
 ##### Primary Position: P
 ##### Birdate: 1943-12-03T00:00:00
@@ -126,6 +412,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Frank Linzy
 ##### Primary Position: P
 ##### Birdate: 1940-09-15T00:00:00
@@ -134,6 +442,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Billy McCool
 ##### Primary Position: P
 ##### Birdate: 1944-07-14T00:00:00
@@ -142,6 +472,28 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Fred Norman
 ##### Primary Position: P
 ##### Birdate: 1942-08-20T00:00:00
@@ -150,6 +502,28 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Rich Nye
 ##### Primary Position: P
 ##### Birdate: 1944-08-04T00:00:00
@@ -158,6 +532,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Harry Parker
 ##### Primary Position: P
 ##### Birdate: 1947-09-14T00:00:00
@@ -166,6 +562,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jerry Reuss
 ##### Primary Position: P
 ##### Birdate: 1949-06-19T00:00:00
@@ -174,6 +592,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Chuck Taylor
 ##### Primary Position: P
 ##### Birdate: 1942-04-18T00:00:00
@@ -182,6 +622,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Mike Torrez
 ##### Primary Position: P
 ##### Birdate: 1946-08-28T00:00:00
@@ -190,6 +652,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 ### Catchers
 #### Ted Simmons
 ##### Primary Position: C
@@ -199,6 +683,28 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Bart Zeller
 ##### Primary Position: C
 ##### Birdate: 1941-07-22T00:00:00
@@ -207,6 +713,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 ### Outfielders
 #### Jim Beauchamp
 ##### Primary Position: OF
@@ -216,6 +744,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Lou Brock
 ##### Primary Position: OF
 ##### Birdate: 1939-06-18T00:00:00
@@ -224,6 +774,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jose Cardenal
 ##### Primary Position: OF
 ##### Birdate: 1943-10-07T00:00:00
@@ -232,6 +804,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jose Cruz
 ##### Primary Position: OF
 ##### Birdate: 1947-08-08T00:00:00
@@ -240,6 +834,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Vic Davalillo
 ##### Primary Position: OF
 ##### Birdate: 1936-07-31T00:00:00
@@ -248,6 +864,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Leron Lee
 ##### Primary Position: OF
 ##### Birdate: 1948-03-04T00:00:00
@@ -256,6 +894,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Luis Melendez
 ##### Primary Position: OF
 ##### Birdate: 1948-08-11T00:00:00
@@ -264,6 +924,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Joe Nossek
 ##### Primary Position: OF
 ##### Birdate: 1940-11-08T00:00:00
@@ -272,6 +954,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jorge Roque
 ##### Primary Position: OF
 ##### Birdate: 1950-04-28T00:00:00
@@ -280,6 +984,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Carl Taylor
 ##### Primary Position: OF
 ##### Birdate: 1944-01-20T00:00:00
@@ -288,6 +1014,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 ### Infielders
 #### Dick Allen
 ##### Primary Position: 1B
@@ -297,6 +1045,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Ed Crosby
 ##### Primary Position: SS
 ##### Birdate: 1949-05-26T00:00:00
@@ -305,6 +1075,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jerry Davanon
 ##### Primary Position: SS
 ##### Birdate: 1945-08-21T00:00:00
@@ -313,6 +1105,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Phil Gagliano
 ##### Primary Position: 2B
 ##### Birdate: 1941-12-27T00:00:00
@@ -321,6 +1135,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Joe Hague
 ##### Primary Position: 1B
 ##### Birdate: 1944-04-25T00:00:00
@@ -329,6 +1165,28 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Julian Javier
 ##### Primary Position: 2B
 ##### Birdate: 1936-08-09T00:00:00
@@ -337,6 +1195,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Jim Kennedy
 ##### Primary Position: SS
 ##### Birdate: 1946-11-01T00:00:00
@@ -345,6 +1225,28 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Dal Maxvill
 ##### Primary Position: SS
 ##### Birdate: 1939-02-18T00:00:00
@@ -353,6 +1255,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Milt Ramirez
 ##### Primary Position: SS
 ##### Birdate: 1950-04-02T00:00:00
@@ -361,6 +1285,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Cookie Rojas
 ##### Primary Position: 2B
 ##### Birdate: 1939-03-06T00:00:00
@@ -369,6 +1315,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Mike Shannon
 ##### Primary Position: 3B
 ##### Birdate: 1939-07-05T00:00:00
@@ -377,6 +1345,28 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0
 #### Joe Torre
 ##### Primary Position: 3B
 ##### Birdate: 1940-07-18T00:00:00
@@ -385,3 +1375,25 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### GIDP: 0
+###### SAC: 0
+###### SLG: .---
+###### BB: 0
+###### AVG: .---
+###### OPS: .000
+###### SO: 0
+###### SF: 0
+###### CS: 0
+###### SB: 0
+###### GO AO: -.--
+###### PPA: -.--
+###### IBB: 0
+###### HR: 0
+###### BAB IP: .---
+###### G: 1
+###### H: 0
+###### OBP: .---
+###### AO: 0
+###### R: 0
+###### AB: 0

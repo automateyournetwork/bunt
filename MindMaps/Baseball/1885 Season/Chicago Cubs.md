@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Larry Corcoran
 ##### Primary Position: P
 ##### Birdate: 1859-08-10T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Ted Kennedy
 ##### Primary Position: P
 ##### Birdate: 1865-02-07T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Jim McCormick
 ##### Primary Position: P
 ##### Birdate: 1856-11-03T00:00:00
@@ -46,6 +94,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Wash Williams
 ##### Primary Position: P
 ##### Birdate: 
@@ -54,6 +118,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 ### Catchers
 #### Silver Flint
 ##### Primary Position: C
@@ -63,6 +143,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Ed Gastfield
 ##### Primary Position: C
 ##### Birdate: 1865-08-01T00:00:00
@@ -71,6 +167,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Bill Krieg
 ##### Primary Position: C
 ##### Birdate: 1859-01-29T00:00:00
@@ -79,6 +191,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Jim McCauley
 ##### Primary Position: C
 ##### Birdate: 1863-03-24T00:00:00
@@ -87,6 +215,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Sy Sutcliffe
 ##### Primary Position: C
 ##### Birdate: 1862-04-15T00:00:00
@@ -95,6 +239,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 ### Outfielders
 #### Abner Dalrymple
 ##### Primary Position: OF
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### George Gore
 ##### Primary Position: OF
 ##### Birdate: 1857-05-03T00:00:00
@@ -112,6 +288,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### King Kelly
 ##### Primary Position: OF
 ##### Birdate: 1857-12-31T00:00:00
@@ -120,6 +312,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Jimmy Ryan
 ##### Primary Position: OF
 ##### Birdate: 1863-02-11T00:00:00
@@ -128,6 +336,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Billy Sunday
 ##### Primary Position: OF
 ##### Birdate: 1862-11-19T00:00:00
@@ -136,6 +360,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 ### Infielders
 #### Cap Anson
 ##### Primary Position: 1B
@@ -145,6 +385,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Tom Burns
 ##### Primary Position: 3B
 ##### Birdate: 1857-03-30T00:00:00
@@ -153,6 +409,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Fred Pfeffer
 ##### Primary Position: 2B
 ##### Birdate: 1860-03-17T00:00:00
@@ -161,6 +433,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407
 #### Ned Williamson
 ##### Primary Position: 3B
 ##### Birdate: 1857-10-24T00:00:00
@@ -169,3 +457,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 75
+###### AVG: .238
+###### OPS: .681
+###### SO: 60
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 3
+###### BAB IP: .273
+###### G: 113
+###### H: 97
+###### OBP: .357
+###### AO: 0
+###### R: 87
+###### AB: 407

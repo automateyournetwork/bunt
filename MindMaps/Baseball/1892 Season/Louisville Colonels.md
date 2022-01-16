@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Warren Fitzgerald
 ##### Primary Position: P
 ##### Birdate: 1872-04-01T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Egyptian Healy
 ##### Primary Position: P
 ##### Birdate: 1866-10-27T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Hemming
 ##### Primary Position: P
 ##### Birdate: 1868-12-15T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Alex Jones
 ##### Primary Position: P
 ##### Birdate: 1869-12-25T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jouett Meekin
 ##### Primary Position: P
 ##### Birdate: 1867-02-21T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ben Sanders
 ##### Primary Position: P
 ##### Birdate: 1865-02-16T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Scott Stratton
 ##### Primary Position: P
 ##### Birdate: 1869-10-02T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lee Viau
 ##### Primary Position: P
 ##### Birdate: 1866-07-05T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Tom Dowse
 ##### Primary Position: C
@@ -95,6 +104,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### John Grim
 ##### Primary Position: C
 ##### Birdate: 1867-08-09T00:00:00
@@ -103,6 +113,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Merritt
 ##### Primary Position: C
 ##### Birdate: 1870-07-30T00:00:00
@@ -111,6 +122,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Tom Brown
 ##### Primary Position: OF
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Browning
 ##### Primary Position: OF
 ##### Birdate: 1861-06-17T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Dooms
 ##### Primary Position: OF
 ##### Birdate: 1867-01-30T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Alex McFarlan
 ##### Primary Position: OF
 ##### Birdate: 1866-11-11T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Emmett Seery
 ##### Primary Position: OF
 ##### Birdate: 1861-02-13T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Farmer Weaver
 ##### Primary Position: OF
 ##### Birdate: 1865-03-23T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Charley Bassett
 ##### Primary Position: 3B
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hughie Jennings
 ##### Primary Position: SS
 ##### Birdate: 1869-04-02T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Kuehne
 ##### Primary Position: 3B
 ##### Birdate: 1858-10-24T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Pfeffer
 ##### Primary Position: 2B
 ##### Birdate: 1860-03-17T00:00:00
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Taylor
 ##### Primary Position: 1B
 ##### Birdate: 1866-04-04T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lew Whistler
 ##### Primary Position: 1B
 ##### Birdate: 1868-03-10T00:00:00
@@ -209,3 +232,4 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics

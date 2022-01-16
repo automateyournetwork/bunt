@@ -22,6 +22,23 @@
 ##### Throws: 
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Billy Serad
 ##### Primary Position: P
 ##### Birdate: 1863-01-01T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Elmer Smith
 ##### Primary Position: P
 ##### Birdate: 1868-03-23T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Lee Viau
 ##### Primary Position: P
 ##### Birdate: 1866-07-05T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### John Weyhing
 ##### Primary Position: P
 ##### Birdate: 1869-06-24T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 ### Catchers
 #### Kid Baldwin
 ##### Primary Position: C
@@ -63,6 +148,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Ned Bligh
 ##### Primary Position: C
 ##### Birdate: 1864-06-30T00:00:00
@@ -71,6 +173,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Jim Keenan
 ##### Primary Position: C
 ##### Birdate: 1858-02-10T00:00:00
@@ -79,6 +198,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 ### Outfielders
 #### Pop Corkhill
 ##### Primary Position: OF
@@ -88,6 +224,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Hugh Nicol
 ##### Primary Position: OF
 ##### Birdate: 1858-01-01T00:00:00
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Jack O'Connor
 ##### Primary Position: OF
 ##### Birdate: 1866-06-02T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### George Tebeau
 ##### Primary Position: OF
 ##### Birdate: 1861-12-26T00:00:00
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 ### Infielders
 #### Hick Carpenter
 ##### Primary Position: 3B
@@ -121,6 +325,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Frank Fennelly
 ##### Primary Position: SS
 ##### Birdate: 1860-02-18T00:00:00
@@ -129,6 +350,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Heinie Kappel
 ##### Primary Position: SS
 ##### Birdate: 1863-09-01T00:00:00
@@ -137,6 +375,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### Bid McPhee
 ##### Primary Position: 2B
 ##### Birdate: 1859-11-01T00:00:00
@@ -145,6 +400,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452
 #### John Reilly
 ##### Primary Position: 1B
 ##### Birdate: 1858-10-05T00:00:00
@@ -153,3 +425,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .385
+###### BB: 65
+###### AVG: .250
+###### OPS: .737
+###### SO: 71
+###### SB: 25
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 8
+###### BAB IP: .282
+###### G: 132
+###### H: 113
+###### OBP: .352
+###### AO: 0
+###### R: 75
+###### AB: 452

@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ensign Cottrell
 ##### Primary Position: P
 ##### Birdate: 1888-08-29T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dick Crutcher
 ##### Primary Position: P
 ##### Birdate: 1889-11-25T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Iron Davis
 ##### Primary Position: P
 ##### Birdate: 1890-03-09T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Otto Hess
 ##### Primary Position: P
 ##### Birdate: 1878-10-10T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tom Hughes
 ##### Primary Position: P
 ##### Birdate: 1884-01-28T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill James
 ##### Primary Position: P
 ##### Birdate: 1892-03-12T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dolf Luque
 ##### Primary Position: P
 ##### Birdate: 1890-08-04T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hub Perdue
 ##### Primary Position: P
 ##### Birdate: 1882-06-07T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dick Rudolph
 ##### Primary Position: P
 ##### Birdate: 1887-08-25T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Paul Strand
 ##### Primary Position: P
 ##### Birdate: 1893-12-19T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Lefty Tyler
 ##### Primary Position: P
 ##### Birdate: 1889-12-14T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Fred Tyler
 ##### Primary Position: C
@@ -119,6 +131,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bert Whaling
 ##### Primary Position: C
 ##### Birdate: 1888-06-22T00:00:00
@@ -127,6 +140,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Ted Cather
 ##### Primary Position: OF
@@ -136,6 +150,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Wilson Collins
 ##### Primary Position: OF
 ##### Birdate: 1889-05-07T00:00:00
@@ -144,6 +159,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Connolly
 ##### Primary Position: OF
 ##### Birdate: 1884-02-01T00:00:00
@@ -152,6 +168,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Josh Devore
 ##### Primary Position: OF
 ##### Birdate: 1887-11-13T00:00:00
@@ -160,6 +177,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Larry Gilbert
 ##### Primary Position: OF
 ##### Birdate: 1891-12-03T00:00:00
@@ -168,6 +186,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tommy Griffith
 ##### Primary Position: OF
 ##### Birdate: 1889-10-26T00:00:00
@@ -176,6 +195,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Les Mann
 ##### Primary Position: OF
 ##### Birdate: 1892-11-18T00:00:00
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Herbie Moran
 ##### Primary Position: OF
 ##### Birdate: 1884-02-16T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jim Murray
 ##### Primary Position: OF
 ##### Birdate: 1878-01-16T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Possum Whitted
 ##### Primary Position: OF
 ##### Birdate: 1890-02-04T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Charlie Deal
 ##### Primary Position: 3B
@@ -217,6 +241,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Oscar Dugey
 ##### Primary Position: 2B
 ##### Birdate: 1887-10-25T00:00:00
@@ -225,6 +250,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Evers
 ##### Primary Position: 2B
 ##### Birdate: 1881-07-21T00:00:00
@@ -233,6 +259,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Hank Gowdy
 ##### Primary Position: 1B
 ##### Birdate: 1889-08-24T00:00:00
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Clarence Kraft
 ##### Primary Position: 1B
 ##### Birdate: 1887-06-09T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rabbit Maranville
 ##### Primary Position: SS
 ##### Birdate: 1891-11-11T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Billy Martin
 ##### Primary Position: SS
 ##### Birdate: 1894-02-13T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Martin
 ##### Primary Position: SS
 ##### Birdate: 1887-04-19T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Butch Schmidt
 ##### Primary Position: 1B
 ##### Birdate: 1886-07-19T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Red Smith
 ##### Primary Position: 3B
 ##### Birdate: 1890-04-06T00:00:00
@@ -289,3 +322,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

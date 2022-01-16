@@ -22,6 +22,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Dode Criss
 ##### Primary Position: P
 ##### Birdate: 1885-03-12T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Bill Dinneen
 ##### Primary Position: P
 ##### Birdate: 1876-04-05T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Bill Grahame
 ##### Primary Position: P
 ##### Birdate: 1883-07-22T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Harry Howell
 ##### Primary Position: P
 ##### Birdate: 1876-11-14T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Barney Pelty
 ##### Primary Position: P
 ##### Birdate: 1880-09-10T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Jack Powell
 ##### Primary Position: P
 ##### Birdate: 1874-07-09T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Rube Waddell
 ##### Primary Position: P
 ##### Birdate: 1876-10-13T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 ### Catchers
 #### Bert Blue
 ##### Primary Position: C
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Syd Smith
 ##### Primary Position: C
 ##### Birdate: 1883-08-31T00:00:00
@@ -95,6 +248,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Tubby Spencer
 ##### Primary Position: C
 ##### Birdate: 1884-01-26T00:00:00
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Jim Stephens
 ##### Primary Position: C
 ##### Birdate: 1883-12-10T00:00:00
@@ -111,6 +298,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 ### Outfielders
 #### Emmet Heidrick
 ##### Primary Position: OF
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Danny Hoffman
 ##### Primary Position: OF
 ##### Birdate: 1880-03-02T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Charlie Jones
 ##### Primary Position: OF
 ##### Birdate: 1876-06-02T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Al Schweitzer
 ##### Primary Position: OF
 ##### Birdate: 1882-12-23T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### George Stone
 ##### Primary Position: OF
 ##### Birdate: 1877-09-03T00:00:00
@@ -152,6 +424,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 ### Infielders
 #### Hobe Ferris
 ##### Primary Position: 3B
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Roy Hartzell
 ##### Primary Position: 3B
 ##### Birdate: 1881-07-06T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Tom Jones
 ##### Primary Position: 1B
 ##### Birdate: 1874-06-21T00:00:00
@@ -177,6 +500,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Bobby Wallace
 ##### Primary Position: SS
 ##### Birdate: 1873-11-04T00:00:00
@@ -185,6 +525,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Jimmy Williams
 ##### Primary Position: 2B
 ##### Birdate: 1876-12-20T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15
 #### Joe Yeager
 ##### Primary Position: 3B
 ##### Birdate: 1875-08-28T00:00:00
@@ -201,3 +575,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .400
+###### BB: 1
+###### AVG: .333
+###### OPS: .874
+###### SB: 2
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .333
+###### G: 10
+###### H: 5
+###### OBP: .474
+###### AO: 0
+###### R: 3
+###### AB: 15

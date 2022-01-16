@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Danny Friend
 ##### Primary Position: P
 ##### Birdate: 1873-04-18T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Clark Griffith
 ##### Primary Position: P
 ##### Birdate: 1869-11-20T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Monte McFarland
 ##### Primary Position: P
 ##### Birdate: 1872-11-07T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Doc Parker
 ##### Primary Position: P
 ##### Birdate: 1872-06-14T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Adonis Terry
 ##### Primary Position: P
 ##### Birdate: 1864-08-07T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Con Daily
 ##### Primary Position: C
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tim Donahue
 ##### Primary Position: C
 ##### Birdate: 1870-06-08T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Malachi Kittridge
 ##### Primary Position: C
 ##### Birdate: 1869-10-12T00:00:00
@@ -87,6 +95,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### George Decker
 ##### Primary Position: OF
@@ -96,6 +105,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### George Flynn
 ##### Primary Position: OF
 ##### Birdate: 1871-05-24T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Bill Lange
 ##### Primary Position: OF
 ##### Birdate: 1871-06-06T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Algie McBride
 ##### Primary Position: OF
 ##### Birdate: 1869-05-23T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jimmy Ryan
 ##### Primary Position: OF
 ##### Birdate: 1863-02-11T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Walter Thornton
 ##### Primary Position: OF
 ##### Birdate: 1875-02-18T00:00:00
@@ -136,6 +150,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Cap Anson
 ##### Primary Position: 1B
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Dahlen
 ##### Primary Position: SS
 ##### Birdate: 1870-01-05T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Everitt
 ##### Primary Position: 3B
 ##### Birdate: 1868-12-13T00:00:00
@@ -161,6 +178,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Barry McCormick
 ##### Primary Position: SS
 ##### Birdate: 1874-12-25T00:00:00
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Pfeffer
 ##### Primary Position: 2B
 ##### Birdate: 1860-03-17T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Josh Reilly
 ##### Primary Position: 2B
 ##### Birdate: 1868-05-09T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Truby
 ##### Primary Position: 2B
 ##### Birdate: 1870-05-12T00:00:00
@@ -193,3 +214,4 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics

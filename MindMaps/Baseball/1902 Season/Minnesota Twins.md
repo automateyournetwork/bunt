@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Al Orth
 ##### Primary Position: P
 ##### Birdate: 1872-09-05T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Casey Patten
 ##### Primary Position: P
 ##### Birdate: 1874-05-07T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Happy Townsend
 ##### Primary Position: P
 ##### Birdate: 1879-04-09T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cy Vorhees
 ##### Primary Position: P
 ##### Birdate: 1874-09-30T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Boileryard Clarke
 ##### Primary Position: C
@@ -63,6 +68,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tim Donahue
 ##### Primary Position: C
 ##### Birdate: 1870-06-08T00:00:00
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Lew Drill
 ##### Primary Position: C
 ##### Birdate: 1877-05-09T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Ed Delahanty
 ##### Primary Position: OF
@@ -88,6 +96,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Keister
 ##### Primary Position: OF
 ##### Birdate: 1871-08-17T00:00:00
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Watty Lee
 ##### Primary Position: OF
 ##### Birdate: 1879-08-12T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jimmy Ryan
 ##### Primary Position: OF
 ##### Birdate: 1863-02-11T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Stanley
 ##### Primary Position: OF
 ##### Birdate: 1881-04-02T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### John Atz
 ##### Primary Position: 2B
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Scoops Carey
 ##### Primary Position: 1B
 ##### Birdate: 1870-12-04T00:00:00
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Coughlin
 ##### Primary Position: 3B
 ##### Birdate: 1878-07-12T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Doyle
 ##### Primary Position: 2B
 ##### Birdate: 1869-10-25T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bones Ely
 ##### Primary Position: SS
 ##### Birdate: 1863-06-07T00:00:00
@@ -161,6 +178,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harry Wolverton
 ##### Primary Position: 3B
 ##### Birdate: 1873-12-06T00:00:00
@@ -169,3 +187,4 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics

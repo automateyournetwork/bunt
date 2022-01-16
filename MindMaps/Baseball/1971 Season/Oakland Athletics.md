@@ -22,6 +22,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Chuck Dobson
 ##### Primary Position: P
 ##### Birdate: 1944-01-10T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rollie Fingers
 ##### Primary Position: P
 ##### Birdate: 1946-08-25T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rob Gardner
 ##### Primary Position: P
 ##### Birdate: 1944-12-19T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mudcat Grant
 ##### Primary Position: P
 ##### Birdate: 1935-08-13T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Catfish Hunter
 ##### Primary Position: P
 ##### Birdate: 1946-04-08T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ron Klimkowski
 ##### Primary Position: P
 ##### Birdate: 1944-03-01T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Darold Knowles
 ##### Primary Position: P
 ##### Birdate: 1941-12-09T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Marcel Lachemann
 ##### Primary Position: P
 ##### Birdate: 1941-06-13T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Paul Lindblad
 ##### Primary Position: P
 ##### Birdate: 1941-08-09T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bob Locker
 ##### Primary Position: P
 ##### Birdate: 1938-03-15T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Blue Moon Odom
 ##### Primary Position: P
 ##### Birdate: 1945-05-29T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jim Panther
 ##### Primary Position: P
 ##### Birdate: 1945-03-01T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Daryl Patterson
 ##### Primary Position: P
 ##### Birdate: 1943-11-21T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jim Roland
 ##### Primary Position: P
 ##### Birdate: 1942-12-14T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Diego Segui
 ##### Primary Position: P
 ##### Birdate: 1937-08-17T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Curt Blefary
 ##### Primary Position: C
@@ -151,6 +167,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dave Duncan
 ##### Primary Position: C
 ##### Birdate: 1945-09-26T00:00:00
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Frank Fernandez
 ##### Primary Position: C
 ##### Birdate: 1943-04-16T00:00:00
@@ -167,6 +185,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Gene Tenace
 ##### Primary Position: C
 ##### Birdate: 1946-10-10T00:00:00
@@ -175,6 +194,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Felipe Alou
 ##### Primary Position: OF
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tommy Davis
 ##### Primary Position: OF
 ##### Birdate: 1939-03-21T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Adrian Garrett
 ##### Primary Position: OF
 ##### Birdate: 1943-01-03T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### George Hendrick
 ##### Primary Position: OF
 ##### Birdate: 1949-10-18T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Steve Hovley
 ##### Primary Position: OF
 ##### Birdate: 1944-12-18T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Reggie Jackson
 ##### Primary Position: OF
 ##### Birdate: 1946-05-18T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Angel Mangual
 ##### Primary Position: OF
 ##### Birdate: 1947-03-19T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rick Monday
 ##### Primary Position: OF
 ##### Birdate: 1945-11-20T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Dwain Anderson
 ##### Primary Position: SS
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Sal Bando
 ##### Primary Position: 3B
 ##### Birdate: 1944-02-13T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Larry Brown
 ##### Primary Position: 2B
 ##### Birdate: 1940-03-01T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bert Campaneris
 ##### Primary Position: SS
 ##### Birdate: 1942-03-09T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Epstein
 ##### Primary Position: 1B
 ##### Birdate: 1943-04-04T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dick Green
 ##### Primary Position: 2B
 ##### Birdate: 1941-04-21T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mike Hegan
 ##### Primary Position: 1B
 ##### Birdate: 1942-07-21T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Tony La Russa
 ##### Primary Position: 2B
 ##### Birdate: 1944-10-04T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Mincher
 ##### Primary Position: 1B
 ##### Birdate: 1938-06-24T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Joe Rudi
 ##### Primary Position: 1B
 ##### Birdate: 1946-09-07T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ray Webster
 ##### Primary Position: 1B
 ##### Birdate: 1942-08-31T00:00:00
@@ -329,3 +367,4 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics

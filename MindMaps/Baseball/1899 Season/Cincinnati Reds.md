@@ -22,6 +22,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Jack Cronin
 ##### Primary Position: P
 ##### Birdate: 1874-05-26T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Bill Dammann
 ##### Primary Position: P
 ##### Birdate: 1872-08-09T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Frank Dwyer
 ##### Primary Position: P
 ##### Birdate: 1868-03-25T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Emil Frisk
 ##### Primary Position: P
 ##### Birdate: 1874-10-15T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Noodles Hahn
 ##### Primary Position: P
 ##### Birdate: 1879-04-29T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Pink Hawley
 ##### Primary Position: P
 ##### Birdate: 1872-12-05T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Bill Phillips
 ##### Primary Position: P
 ##### Birdate: 1868-11-09T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Jack Taylor
 ##### Primary Position: P
 ##### Birdate: 1873-05-23T00:00:00
@@ -86,6 +222,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 ### Catchers
 #### Mike Kahoe
 ##### Primary Position: C
@@ -95,6 +248,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Heinie Peitz
 ##### Primary Position: C
 ##### Birdate: 1870-11-28T00:00:00
@@ -103,6 +273,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Farmer Vaughn
 ##### Primary Position: C
 ##### Birdate: 1864-03-01T00:00:00
@@ -111,6 +298,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Bob Wood
 ##### Primary Position: C
 ##### Birdate: 1865-07-28T00:00:00
@@ -119,6 +323,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 ### Outfielders
 #### Jimmy Barrett
 ##### Primary Position: OF
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Sam Crawford
 ##### Primary Position: OF
 ##### Birdate: 1880-04-18T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Lefty Houtz
 ##### Primary Position: OF
 ##### Birdate: 1875-09-04T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Algie McBride
 ##### Primary Position: OF
 ##### Birdate: 1869-05-23T00:00:00
@@ -152,6 +424,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Dusty Miller
 ##### Primary Position: OF
 ##### Birdate: 1868-09-10T00:00:00
@@ -160,6 +449,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Kip Selbach
 ##### Primary Position: OF
 ##### Birdate: 1872-03-24T00:00:00
@@ -168,6 +474,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Socks Seybold
 ##### Primary Position: OF
 ##### Birdate: 1870-11-23T00:00:00
@@ -176,6 +499,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Elmer Smith
 ##### Primary Position: OF
 ##### Birdate: 1868-03-23T00:00:00
@@ -184,6 +524,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Jake Stenzel
 ##### Primary Position: OF
 ##### Birdate: 1867-06-24T00:00:00
@@ -192,6 +549,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 ### Infielders
 #### Jake Beckley
 ##### Primary Position: 1B
@@ -201,6 +575,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Tommy Corcoran
 ##### Primary Position: SS
 ##### Birdate: 1869-01-04T00:00:00
@@ -209,6 +600,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Kid Elberfeld
 ##### Primary Position: SS
 ##### Birdate: 1875-04-13T00:00:00
@@ -217,6 +625,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Charlie Irwin
 ##### Primary Position: 3B
 ##### Birdate: 1869-02-15T00:00:00
@@ -225,6 +650,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Bid McPhee
 ##### Primary Position: 2B
 ##### Birdate: 1859-11-01T00:00:00
@@ -233,6 +675,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194
 #### Harry Steinfeldt
 ##### Primary Position: 3B
 ##### Birdate: 1877-09-29T00:00:00
@@ -241,3 +700,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 2
+###### SLG: .443
+###### BB: 25
+###### AVG: .314
+###### OPS: .850
+###### SB: 3
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .314
+###### G: 62
+###### H: 61
+###### OBP: .406
+###### AO: 0
+###### R: 34
+###### AB: 194

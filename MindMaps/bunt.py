@@ -27,6 +27,7 @@ headers = {
 start_year = 1876
 end_year = 2021
 team_template = env.get_template('team.j2')
+allTeamList = []
 while start_year <= end_year:
     print (f"Getting All Teams from the year { start_year }")
     teams = requests.request("GET", f"http://lookup-service-prod.mlb.com/json/named.team_all_season.bam?sport_code='mlb'&sort_order=name_asc&season='{ start_year }'", headers=headers)
@@ -36,9 +37,6 @@ while start_year <= end_year:
 # -------------------------
 # Single Team
 # -------------------------
-
-    allTeamList = []
-    allRostersList = []
     for team in teamList:
         if team['mlb_org'] != "Office of the Commissioner":
             singleTeam = team
@@ -50,12 +48,23 @@ while start_year <= end_year:
 
         print (f"Getting Roster from the year { start_year } for team { singleTeam['mlb_org'].replace('/',' ') }")
         if singleTeam['mlb_org']:
+            print(singleTeam['mlb_org'])
+            print(singleTeam['team_id'])
             roster = requests.request("GET", f"http://lookup-service-prod.mlb.com/json/named.roster_team_alltime.bam?start_season={ start_year }&end_season={ start_year }&team_id={ singleTeam['team_id'] }", headers=headers)
             rosterJSON = roster.json()
-            if rosterJSON['roster_team_alltime']['queryResults']['totalSize'] != "0":
+            if rosterJSON['roster_team_alltime']['queryResults']['totalSize'] > "1":
                 rosterList = rosterJSON['roster_team_alltime']['queryResults']['row']
-                allRostersList.append(rosterList)
-
+                for player in rosterList:
+                    if player['primary_position'] != "P":
+                        playerStatsAPI = requests.request("GET", f"http://lookup-service-prod.mlb.com//json/named.sport_hitting_tm.bam?league_list_id='mlb'&game_type='R'&season={ start_year }&player_id={ player['player_id'] }", headers=headers)
+                        statsJSON = playerStatsAPI.json()
+                        if statsJSON['sport_hitting_tm']['queryResults']['totalSize'] != "0":
+                            playerStats = statsJSON['sport_hitting_tm']['queryResults']['row']
+                    else:
+                        playerStatsAPI = requests.request("GET", f"http://lookup-service-prod.mlb.com//json/named.sport_pitching_tm.bam?league_list_id='mlb'&game_type='R'&season={ start_year }&player_id={ player['player_id'] }", headers=headers)
+                        statsJSON = playerStatsAPI.json()
+                        if statsJSON['sport_pitching_tm']['queryResults']['totalSize'] != "0":
+                            playerStats = statsJSON['sport_pitching_tm']['queryResults']['row']
 
 # -------------------------
 # Team Template
@@ -64,6 +73,7 @@ while start_year <= end_year:
                 parsed_all_output = team_template.render(
                     singleTeam = singleTeam,
                     singleRoster = rosterList,
+                    playerStats = playerStats
                     )
 
 # -------------------------
@@ -80,9 +90,9 @@ while start_year <= end_year:
 # -------------------------
 # All MLB Template
 # -------------------------
+
     parsed_all_output = allMLB_template.render(
         teamList = allTeamList,
-        rosterList = allRostersList
         )
 
 # -------------------------

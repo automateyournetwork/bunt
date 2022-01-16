@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Jack Leary
 ##### Primary Position: P
 ##### Birdate: 1858-07-01T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Frank Mountain
 ##### Primary Position: P
 ##### Birdate: 1860-05-17T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Tony Mullane
 ##### Primary Position: P
 ##### Birdate: 1859-01-30T00:00:00
@@ -46,6 +94,22 @@
 ##### Throws: 
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Will White
 ##### Primary Position: P
 ##### Birdate: 1854-10-11T00:00:00
@@ -54,6 +118,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Stump Wiedman
 ##### Primary Position: P
 ##### Birdate: 1861-02-17T00:00:00
@@ -62,6 +142,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 ### Catchers
 #### Charlie Bennett
 ##### Primary Position: C
@@ -71,6 +167,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Charlie Reilley
 ##### Primary Position: C
 ##### Birdate: 1856-01-01T00:00:00
@@ -79,6 +191,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Sam Trott
 ##### Primary Position: C
 ##### Birdate: 1859-03-01T00:00:00
@@ -87,6 +215,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 ### Outfielders
 #### Mike Dorgan
 ##### Primary Position: OF
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Ned Hanlon
 ##### Primary Position: OF
 ##### Birdate: 1857-08-22T00:00:00
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Lon Knight
 ##### Primary Position: OF
 ##### Birdate: 1853-06-16T00:00:00
@@ -112,6 +288,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Mike Moynahan
 ##### Primary Position: OF
 ##### Birdate: 1856-01-01T00:00:00
@@ -120,6 +312,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Dan O'Leary
 ##### Primary Position: OF
 ##### Birdate: 1856-10-22T00:00:00
@@ -128,6 +336,22 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Billy Taylor
 ##### Primary Position: OF
 ##### Birdate: 1855-01-01T00:00:00
@@ -136,6 +360,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### George Wood
 ##### Primary Position: OF
 ##### Birdate: 1858-11-09T00:00:00
@@ -144,6 +384,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 ### Infielders
 #### George Bradley
 ##### Primary Position: 3B
@@ -153,6 +409,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Lew Brown
 ##### Primary Position: 1B
 ##### Birdate: 1858-02-01T00:00:00
@@ -161,6 +433,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Will Foley
 ##### Primary Position: 3B
 ##### Birdate: 1855-11-15T00:00:00
@@ -169,6 +457,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Joe Gerhardt
 ##### Primary Position: 2B
 ##### Birdate: 1855-02-14T00:00:00
@@ -177,6 +481,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Sadie Houck
 ##### Primary Position: SS
 ##### Birdate: 1856-02-29T00:00:00
@@ -185,6 +505,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Martin Powell
 ##### Primary Position: 1B
 ##### Birdate: 1856-03-25T00:00:00
@@ -193,6 +529,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Ecky Stearns
 ##### Primary Position: SS
 ##### Birdate: 1861-10-17T00:00:00
@@ -201,6 +553,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Dasher Troy
 ##### Primary Position: 2B
 ##### Birdate: 1856-05-08T00:00:00
@@ -209,6 +577,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Art Whitney
 ##### Primary Position: 3B
 ##### Birdate: 1858-01-16T00:00:00
@@ -217,6 +601,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337
 #### Sam Wise
 ##### Primary Position: 3B
 ##### Birdate: 1857-08-18T00:00:00
@@ -225,3 +625,19 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .421
+###### BB: 19
+###### AVG: .297
+###### OPS: .756
+###### SO: 32
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .323
+###### G: 80
+###### H: 100
+###### OBP: .334
+###### AO: 0
+###### R: 54
+###### AB: 337

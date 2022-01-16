@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ned Garver
 ##### Primary Position: P
 ##### Birdate: 1925-12-25T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ted Gray
 ##### Primary Position: P
 ##### Birdate: 1924-12-31T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Billy Hoeft
 ##### Primary Position: P
 ##### Birdate: 1932-05-17T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Art Houtteman
 ##### Primary Position: P
 ##### Birdate: 1927-08-07T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Hutchinson
 ##### Primary Position: P
 ##### Birdate: 1919-08-12T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Ken Johnson
 ##### Primary Position: P
 ##### Birdate: 1923-01-14T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dick Littlefield
 ##### Primary Position: P
 ##### Birdate: 1926-03-18T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dave Madison
 ##### Primary Position: P
 ##### Birdate: 1921-02-01T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dick Marlowe
 ##### Primary Position: P
 ##### Birdate: 1929-06-27T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Wayne McLeland
 ##### Primary Position: P
 ##### Birdate: 1924-08-29T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hal Newhouser
 ##### Primary Position: P
 ##### Birdate: 1921-05-20T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Marlin Stuart
 ##### Primary Position: P
 ##### Birdate: 1918-08-08T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Dizzy Trout
 ##### Primary Position: P
 ##### Birdate: 1915-06-29T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Virgil Trucks
 ##### Primary Position: P
 ##### Birdate: 1917-04-26T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Hal White
 ##### Primary Position: P
 ##### Birdate: 1919-03-18T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bill Wight
 ##### Primary Position: P
 ##### Birdate: 1922-04-12T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Matt Batts
 ##### Primary Position: C
@@ -159,6 +176,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Ginsberg
 ##### Primary Position: C
 ##### Birdate: 1926-10-11T00:00:00
@@ -167,6 +185,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bob Swift
 ##### Primary Position: C
 ##### Birdate: 1915-03-06T00:00:00
@@ -175,6 +194,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Jim Delsing
 ##### Primary Position: OF
@@ -184,6 +204,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Hoot Evers
 ##### Primary Position: OF
 ##### Birdate: 1921-02-08T00:00:00
@@ -192,6 +213,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Groth
 ##### Primary Position: OF
 ##### Birdate: 1926-07-23T00:00:00
@@ -200,6 +222,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Lenhardt
 ##### Primary Position: OF
 ##### Birdate: 1922-10-04T00:00:00
@@ -208,6 +231,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Lerchen
 ##### Primary Position: OF
 ##### Birdate: 1922-12-01T00:00:00
@@ -216,6 +240,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
 #### Don Lund
 ##### Primary Position: OF
 ##### Birdate: 1923-05-18T00:00:00
@@ -224,6 +249,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cliff Mapes
 ##### Primary Position: OF
 ##### Birdate: 1922-03-13T00:00:00
@@ -232,6 +258,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pat Mullin
 ##### Primary Position: OF
 ##### Birdate: 1917-11-01T00:00:00
@@ -240,6 +267,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Steve Souchock
 ##### Primary Position: OF
 ##### Birdate: 1919-03-03T00:00:00
@@ -248,6 +276,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Russ Sullivan
 ##### Primary Position: OF
 ##### Birdate: 1923-02-19T00:00:00
@@ -256,6 +285,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bill Tuttle
 ##### Primary Position: OF
 ##### Birdate: 1929-07-04T00:00:00
@@ -264,6 +294,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Vic Wertz
 ##### Primary Position: OF
 ##### Birdate: 1925-02-09T00:00:00
@@ -272,6 +303,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Neil Berry
 ##### Primary Position: SS
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Walt Dropo
 ##### Primary Position: 1B
 ##### Birdate: 1923-01-30T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Al Federoff
 ##### Primary Position: 2B
 ##### Birdate: 1924-07-11T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Hatfield
 ##### Primary Position: 3B
 ##### Birdate: 1925-03-18T00:00:00
@@ -305,6 +340,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Hopp
 ##### Primary Position: 1B
 ##### Birdate: 1916-07-18T00:00:00
@@ -313,6 +349,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### George Kell
 ##### Primary Position: 3B
 ##### Birdate: 1922-08-23T00:00:00
@@ -321,6 +358,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Don Kolloway
 ##### Primary Position: 1B
 ##### Birdate: 1918-08-04T00:00:00
@@ -329,6 +367,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Harvey Kuenn
 ##### Primary Position: SS
 ##### Birdate: 1930-12-04T00:00:00
@@ -337,6 +376,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Lipon
 ##### Primary Position: SS
 ##### Birdate: 1922-11-10T00:00:00
@@ -345,6 +385,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Pesky
 ##### Primary Position: 2B
 ##### Birdate: 1919-09-27T00:00:00
@@ -353,6 +394,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Jerry Priddy
 ##### Primary Position: 2B
 ##### Birdate: 1919-11-09T00:00:00
@@ -361,6 +403,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Ben Taylor
 ##### Primary Position: 1B
 ##### Birdate: 1924-09-30T00:00:00
@@ -369,3 +412,4 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics

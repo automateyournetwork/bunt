@@ -22,6 +22,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Phil Knell
 ##### Primary Position: P
 ##### Birdate: 1865-03-12T00:00:00
@@ -30,6 +48,24 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Mike Sullivan
 ##### Primary Position: P
 ##### Birdate: 1866-10-23T00:00:00
@@ -38,6 +74,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Zeke Wilson
 ##### Primary Position: P
 ##### Birdate: 1869-12-24T00:00:00
@@ -46,6 +100,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Cy Young
 ##### Primary Position: P
 ##### Birdate: 1867-03-29T00:00:00
@@ -54,6 +126,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 ### Catchers
 #### Fred Donovan
 ##### Primary Position: C
@@ -63,6 +153,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Jack O'Connor
 ##### Primary Position: C
 ##### Birdate: 1866-06-02T00:00:00
@@ -71,6 +179,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Eddie O'Meara
 ##### Primary Position: C
 ##### Birdate: 1872-12-12T00:00:00
@@ -79,6 +205,24 @@
 ##### Throws: 
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Chief Zimmer
 ##### Primary Position: C
 ##### Birdate: 1860-11-23T00:00:00
@@ -87,6 +231,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 ### Outfielders
 #### Harry Blake
 ##### Primary Position: OF
@@ -96,6 +258,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Jesse Burkett
 ##### Primary Position: OF
 ##### Birdate: 1868-12-04T00:00:00
@@ -104,6 +284,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Jimmy McAleer
 ##### Primary Position: OF
 ##### Birdate: 1864-07-10T00:00:00
@@ -112,6 +310,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### George Tebeau
 ##### Primary Position: OF
 ##### Birdate: 1861-12-26T00:00:00
@@ -120,6 +336,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Pussy Tebeau
 ##### Primary Position: OF
 ##### Birdate: 1870-02-22T00:00:00
@@ -128,6 +362,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 ### Infielders
 #### Cupid Childs
 ##### Primary Position: 2B
@@ -137,6 +389,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Ed Gremminger
 ##### Primary Position: 3B
 ##### Birdate: 1874-03-30T00:00:00
@@ -145,6 +415,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Chippy McGarr
 ##### Primary Position: 3B
 ##### Birdate: 1863-05-10T00:00:00
@@ -153,6 +441,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Ed McKean
 ##### Primary Position: SS
 ##### Birdate: 1864-06-06T00:00:00
@@ -161,6 +467,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Patsy Tebeau
 ##### Primary Position: 1B
 ##### Birdate: 1864-12-05T00:00:00
@@ -169,6 +493,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315
 #### Bobby Wallace
 ##### Primary Position: 3B
 ##### Birdate: 1873-11-04T00:00:00
@@ -177,3 +519,21 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 0
+###### SLG: .467
+###### BB: 33
+###### AVG: .340
+###### OPS: .884
+###### SO: 30
+###### SB: 14
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 5
+###### BAB IP: .364
+###### G: 88
+###### H: 107
+###### OBP: .417
+###### AO: 0
+###### R: 60
+###### AB: 315

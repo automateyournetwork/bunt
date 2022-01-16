@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 ### Catchers
 #### Amos Booth
 ##### Primary Position: C
@@ -31,6 +47,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### John Clapp
 ##### Primary Position: C
 ##### Birdate: 1851-07-15T00:00:00
@@ -39,6 +71,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Deacon White
 ##### Primary Position: C
 ##### Birdate: 1847-12-07T00:00:00
@@ -47,6 +95,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 ### Outfielders
 #### Jack Manning
 ##### Primary Position: OF
@@ -56,6 +120,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Mike Mansell
 ##### Primary Position: OF
 ##### Birdate: 1858-01-15T00:00:00
@@ -64,6 +144,22 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Blondie Purcell
 ##### Primary Position: OF
 ##### Birdate: 1854-03-16T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Charlie Reilley
 ##### Primary Position: OF
 ##### Birdate: 1856-01-01T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Joe Sommer
 ##### Primary Position: OF
 ##### Birdate: 1858-11-20T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Harry Wheeler
 ##### Primary Position: OF
 ##### Birdate: 1858-03-03T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 ### Infielders
 #### Hick Carpenter
 ##### Primary Position: 3B
@@ -105,6 +265,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Andy Leonard
 ##### Primary Position: SS
 ##### Birdate: 1846-06-01T00:00:00
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### John Reilly
 ##### Primary Position: 1B
 ##### Birdate: 1858-10-05T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Lou Say
 ##### Primary Position: SS
 ##### Birdate: 1854-02-04T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Pop Smith
 ##### Primary Position: 2B
 ##### Birdate: 1856-10-12T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34
 #### Sam Wright
 ##### Primary Position: SS
 ##### Birdate: 1848-11-25T00:00:00
@@ -145,3 +385,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .088
+###### BB: 0
+###### AVG: .088
+###### OPS: .176
+###### SO: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .103
+###### G: 9
+###### H: 3
+###### OBP: .088
+###### AO: 0
+###### R: 0
+###### AB: 34

@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 ### Catchers
 #### Doug Allison
 ##### Primary Position: C
@@ -31,6 +47,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### William Harbridge
 ##### Primary Position: C
 ##### Birdate: 1855-03-29T00:00:00
@@ -39,6 +71,22 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 ### Outfielders
 #### John Bass
 ##### Primary Position: OF
@@ -48,6 +96,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Josh Bunce
 ##### Primary Position: OF
 ##### Birdate: 1847-05-10T00:00:00
@@ -56,6 +120,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### John Cassidy
 ##### Primary Position: OF
 ##### Birdate: 1855-01-01T00:00:00
@@ -64,6 +144,22 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Jim Holdsworth
 ##### Primary Position: OF
 ##### Birdate: 1850-07-14T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### John Maloney
 ##### Primary Position: OF
 ##### Birdate: 
@@ -80,6 +192,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Israel Pike
 ##### Primary Position: OF
 ##### Birdate: 1853-12-01T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Live Oak Taylor
 ##### Primary Position: OF
 ##### Birdate: 
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Tom York
 ##### Primary Position: OF
 ##### Birdate: 1851-07-13T00:00:00
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 ### Infielders
 #### Jack Burdock
 ##### Primary Position: 2B
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Tom Carey
 ##### Primary Position: SS
 ##### Birdate: 1846-11-02T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Bob Ferguson
 ##### Primary Position: 3B
 ##### Birdate: 1845-01-31T00:00:00
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237
 #### Joe Start
 ##### Primary Position: 1B
 ##### Birdate: 1842-10-14T00:00:00
@@ -137,3 +361,19 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .422
+###### BB: 3
+###### AVG: .283
+###### OPS: .714
+###### SO: 11
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 1
+###### BAB IP: .293
+###### G: 56
+###### H: 67
+###### OBP: .292
+###### AO: 0
+###### R: 43
+###### AB: 237

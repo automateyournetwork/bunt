@@ -22,6 +22,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Bill Garfield
 ##### Primary Position: P
 ##### Birdate: 1867-10-26T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Ezra Lincoln
 ##### Primary Position: P
 ##### Birdate: 1868-11-17T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Charlie Parsons
 ##### Primary Position: P
 ##### Birdate: 1863-07-18T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Lee Viau
 ##### Primary Position: P
 ##### Birdate: 1866-07-05T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jack Wadsworth
 ##### Primary Position: P
 ##### Birdate: 1867-12-17T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Cy Young
 ##### Primary Position: P
 ##### Birdate: 1867-03-29T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Catchers
 #### Pete Sommers
 ##### Primary Position: C
@@ -79,6 +198,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Chief Zimmer
 ##### Primary Position: C
 ##### Birdate: 1860-11-23T00:00:00
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Outfielders
 #### Vince Dailey
 ##### Primary Position: OF
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### George Davis
 ##### Primary Position: OF
 ##### Birdate: 1870-08-23T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Tom Dowse
 ##### Primary Position: OF
 ##### Birdate: 1866-08-12T00:00:00
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Bob Gilks
 ##### Primary Position: OF
 ##### Birdate: 1864-07-02T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Joe Sommer
 ##### Primary Position: OF
 ##### Birdate: 1858-11-20T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Buck West
 ##### Primary Position: OF
 ##### Birdate: 1860-08-29T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Rasty Wright
 ##### Primary Position: OF
 ##### Birdate: 1863-01-31T00:00:00
@@ -144,6 +399,23 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 ### Infielders
 #### Joe Ardner
 ##### Primary Position: 2B
@@ -153,6 +425,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Bill Delaney
 ##### Primary Position: 2B
 ##### Birdate: 1863-03-05T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Pat Lyons
 ##### Primary Position: 2B
 ##### Birdate: 1860-03-01T00:00:00
@@ -169,6 +475,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Ed McKean
 ##### Primary Position: SS
 ##### Birdate: 1864-06-06T00:00:00
@@ -177,6 +500,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Will Smalley
 ##### Primary Position: 3B
 ##### Birdate: 1871-06-27T00:00:00
@@ -185,6 +525,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Len Stockwell
 ##### Primary Position: 1B
 ##### Birdate: 1859-08-25T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Peek-A-Boo Veach
 ##### Primary Position: 1B
 ##### Birdate: 1862-06-15T00:00:00
@@ -201,6 +575,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444
 #### Jake Virtue
 ##### Primary Position: 1B
 ##### Birdate: 1865-03-02T00:00:00
@@ -209,3 +600,20 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .291
+###### BB: 46
+###### AVG: .214
+###### OPS: .594
+###### SO: 54
+###### SB: 15
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .240
+###### G: 125
+###### H: 95
+###### OBP: .303
+###### AO: 0
+###### R: 54
+###### AB: 444

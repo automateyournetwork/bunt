@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Hardie Henderson
 ##### Primary Position: P
 ##### Birdate: 1862-10-31T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Henry Porter
 ##### Primary Position: P
 ##### Birdate: 1858-06-01T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Adonis Terry
 ##### Primary Position: P
 ##### Birdate: 1864-08-07T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Steve Toole
 ##### Primary Position: P
 ##### Birdate: 1859-04-09T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 ### Catchers
 #### Bob Clark
 ##### Primary Position: C
@@ -63,6 +148,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Jim McCauley
 ##### Primary Position: C
 ##### Birdate: 1863-03-24T00:00:00
@@ -71,6 +173,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Dave Oldfield
 ##### Primary Position: C
 ##### Birdate: 1864-12-18T00:00:00
@@ -79,6 +198,23 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Jimmy Peoples
 ##### Primary Position: C
 ##### Birdate: 1863-10-08T00:00:00
@@ -87,6 +223,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 ### Outfielders
 #### Ernie Burch
 ##### Primary Position: OF
@@ -96,6 +249,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Ed Kennedy
 ##### Primary Position: OF
 ##### Birdate: 1856-04-01T00:00:00
@@ -104,6 +274,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Jim McTamany
 ##### Primary Position: OF
 ##### Birdate: 1863-07-04T00:00:00
@@ -112,6 +299,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Pop Schriver
 ##### Primary Position: OF
 ##### Birdate: 1865-07-11T00:00:00
@@ -120,6 +324,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Joe Strauss
 ##### Primary Position: OF
 ##### Birdate: 1858-11-16T00:00:00
@@ -128,6 +349,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Ed Swartwood
 ##### Primary Position: OF
 ##### Birdate: 1859-01-12T00:00:00
@@ -136,6 +374,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 ### Infielders
 #### Bill McClellan
 ##### Primary Position: 2B
@@ -145,6 +400,23 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Bill Phillips
 ##### Primary Position: 1B
 ##### Birdate: 1857-04-01T00:00:00
@@ -153,6 +425,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### George Pinkney
 ##### Primary Position: 3B
 ##### Birdate: 1859-01-11T00:00:00
@@ -161,6 +450,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71
 #### Germany Smith
 ##### Primary Position: SS
 ##### Birdate: 1863-04-21T00:00:00
@@ -169,3 +475,20 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .169
+###### BB: 5
+###### AVG: .141
+###### OPS: .366
+###### SO: 15
+###### SB: 0
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .179
+###### G: 21
+###### H: 10
+###### OBP: .197
+###### AO: 0
+###### R: 2
+###### AB: 71

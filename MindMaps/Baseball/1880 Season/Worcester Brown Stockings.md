@@ -22,6 +22,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Tricky Nichols
 ##### Primary Position: P
 ##### Birdate: 1850-07-26T00:00:00
@@ -30,6 +46,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Lee Richmond
 ##### Primary Position: P
 ##### Birdate: 1857-05-05T00:00:00
@@ -38,6 +70,22 @@
 ##### Throws: L
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 ### Catchers
 #### Charlie Bennett
 ##### Primary Position: C
@@ -47,6 +95,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Doc Bushong
 ##### Primary Position: C
 ##### Birdate: 1856-09-15T00:00:00
@@ -55,6 +119,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 ### Outfielders
 #### Buttercup Dickerson
 ##### Primary Position: OF
@@ -64,6 +144,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Steve Dignan
 ##### Primary Position: OF
 ##### Birdate: 1859-04-16T00:00:00
@@ -72,6 +168,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Jerry Dorgan
 ##### Primary Position: OF
 ##### Birdate: 1856-01-01T00:00:00
@@ -80,6 +192,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Lon Knight
 ##### Primary Position: OF
 ##### Birdate: 1853-06-16T00:00:00
@@ -88,6 +216,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Bill McGunnigle
 ##### Primary Position: OF
 ##### Birdate: 1855-01-01T00:00:00
@@ -96,6 +240,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### George Wood
 ##### Primary Position: OF
 ##### Birdate: 1858-11-09T00:00:00
@@ -104,6 +264,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 ### Infielders
 #### George Creamer
 ##### Primary Position: 2B
@@ -113,6 +289,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Joe Ellick
 ##### Primary Position: 3B
 ##### Birdate: 1854-04-03T00:00:00
@@ -121,6 +313,22 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Billy Geer
 ##### Primary Position: SS
 ##### Birdate: 
@@ -129,6 +337,22 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Arthur Irwin
 ##### Primary Position: SS
 ##### Birdate: 1858-02-14T00:00:00
@@ -137,6 +361,22 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Harry Stovey
 ##### Primary Position: 1B
 ##### Birdate: 1856-12-20T00:00:00
@@ -145,6 +385,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Chub Sullivan
 ##### Primary Position: 1B
 ##### Birdate: 1856-01-12T00:00:00
@@ -153,6 +409,22 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Bill Tobin
 ##### Primary Position: 1B
 ##### Birdate: 1854-10-10T00:00:00
@@ -161,6 +433,22 @@
 ##### Throws: 
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327
 #### Art Whitney
 ##### Primary Position: 3B
 ##### Birdate: 1858-01-16T00:00:00
@@ -169,3 +457,19 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .324
+###### BB: 10
+###### AVG: .245
+###### OPS: .591
+###### SO: 37
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .276
+###### G: 81
+###### H: 80
+###### OBP: .267
+###### AO: 0
+###### R: 37
+###### AB: 327

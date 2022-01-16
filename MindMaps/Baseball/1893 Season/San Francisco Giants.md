@@ -22,6 +22,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Ed Crane
 ##### Primary Position: P
 ##### Birdate: 1862-05-27T00:00:00
@@ -30,6 +47,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### George Davies
 ##### Primary Position: P
 ##### Birdate: 1868-02-22T00:00:00
@@ -38,6 +72,23 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Red Donahue
 ##### Primary Position: P
 ##### Birdate: 1873-01-23T00:00:00
@@ -46,6 +97,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Frank Foreman
 ##### Primary Position: P
 ##### Birdate: 1863-05-01T00:00:00
@@ -54,6 +122,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Les German
 ##### Primary Position: P
 ##### Birdate: 1869-06-01T00:00:00
@@ -62,6 +147,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Bumpus Jones
 ##### Primary Position: P
 ##### Birdate: 1870-01-01T00:00:00
@@ -70,6 +172,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Silver King
 ##### Primary Position: P
 ##### Birdate: 1868-01-11T00:00:00
@@ -78,6 +197,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Charlie Petty
 ##### Primary Position: P
 ##### Birdate: 1866-01-28T00:00:00
@@ -86,6 +222,23 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Amos Rusie
 ##### Primary Position: P
 ##### Birdate: 1871-05-30T00:00:00
@@ -94,6 +247,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Crazy Schmit
 ##### Primary Position: P
 ##### Birdate: 1866-02-13T00:00:00
@@ -102,6 +272,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Seth Sigsby
 ##### Primary Position: P
 ##### Birdate: 1874-04-30T00:00:00
@@ -110,6 +297,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 ### Catchers
 #### King Kelly
 ##### Primary Position: C
@@ -119,6 +323,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Jocko Milligan
 ##### Primary Position: C
 ##### Birdate: 1861-08-08T00:00:00
@@ -127,6 +348,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Parke Wilson
 ##### Primary Position: C
 ##### Birdate: 1867-10-26T00:00:00
@@ -135,6 +373,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 ### Outfielders
 #### Eddie Burke
 ##### Primary Position: OF
@@ -144,6 +399,23 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### William Kinsler
 ##### Primary Position: OF
 ##### Birdate: 1867-11-09T00:00:00
@@ -152,6 +424,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Harry Lyons
 ##### Primary Position: OF
 ##### Birdate: 1866-03-25T00:00:00
@@ -160,6 +449,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### General Stafford
 ##### Primary Position: OF
 ##### Birdate: 1868-01-30T00:00:00
@@ -168,6 +474,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Mike Tiernan
 ##### Primary Position: OF
 ##### Birdate: 1867-01-21T00:00:00
@@ -176,6 +499,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 ### Infielders
 #### Roger Connor
 ##### Primary Position: 1B
@@ -185,6 +525,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### George Davis
 ##### Primary Position: SS
 ##### Birdate: 1870-08-23T00:00:00
@@ -193,6 +550,23 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Jack Doyle
 ##### Primary Position: 1B
 ##### Birdate: 1869-10-25T00:00:00
@@ -201,6 +575,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Shorty Fuller
 ##### Primary Position: SS
 ##### Birdate: 1867-10-10T00:00:00
@@ -209,6 +600,23 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Shorty Howe
 ##### Primary Position: 2B
 ##### Birdate: 
@@ -217,6 +625,23 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Willie Keeler
 ##### Primary Position: 3B
 ##### Birdate: 1872-03-03T00:00:00
@@ -225,6 +650,23 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### Jack McMahon
 ##### Primary Position: 1B
 ##### Birdate: 1869-10-15T00:00:00
@@ -233,6 +675,23 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114
 #### John Ward
 ##### Primary Position: 2B
 ##### Birdate: 1860-03-03T00:00:00
@@ -241,3 +700,20 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SLG: .351
+###### BB: 7
+###### AVG: .246
+###### OPS: .640
+###### SO: 9
+###### SB: 5
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 2
+###### BAB IP: .252
+###### G: 31
+###### H: 28
+###### OBP: .289
+###### AO: 0
+###### R: 16
+###### AB: 114

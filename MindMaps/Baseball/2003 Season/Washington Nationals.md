@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 59
+##### Statistics
 #### Tony Armas
 ##### Primary Position: P
 ##### Birdate: 1978-04-29T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 36
+##### Statistics
 #### Luis Ayala
 ##### Primary Position: P
 ##### Birdate: 1978-01-12T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 56
+##### Statistics
 #### Rocky Biddle
 ##### Primary Position: P
 ##### Birdate: 1976-05-21T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 60
+##### Statistics
 #### Roy Corcoran
 ##### Primary Position: P
 ##### Birdate: 1980-05-11T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 47
+##### Statistics
 #### Chad Cordero
 ##### Primary Position: P
 ##### Birdate: 1982-03-18T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 32
+##### Statistics
 #### Vic Darensbourg
 ##### Primary Position: P
 ##### Birdate: 1970-11-13T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 45
+##### Statistics
 #### Zach Day
 ##### Primary Position: P
 ##### Birdate: 1978-06-15T00:00:00
@@ -78,6 +85,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 40
+##### Statistics
 #### Scott Downs
 ##### Primary Position: P
 ##### Birdate: 1976-03-17T00:00:00
@@ -86,6 +94,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 37
+##### Statistics
 #### Tim Drew
 ##### Primary Position: P
 ##### Birdate: 1978-08-31T00:00:00
@@ -94,6 +103,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 47
+##### Statistics
 #### Joey Eischen
 ##### Primary Position: P
 ##### Birdate: 1970-05-25T00:00:00
@@ -102,6 +112,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 58
+##### Statistics
 #### Anthony Ferrari
 ##### Primary Position: P
 ##### Birdate: 1978-06-22T00:00:00
@@ -110,6 +121,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 32
+##### Statistics
 #### Bryan Hebson
 ##### Primary Position: P
 ##### Birdate: 1976-03-12T00:00:00
@@ -118,6 +130,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 59
+##### Statistics
 #### Livan Hernandez
 ##### Primary Position: P
 ##### Birdate: 1975-02-20T00:00:00
@@ -126,6 +139,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 61
+##### Statistics
 #### Sun-Woo Kim
 ##### Primary Position: P
 ##### Birdate: 1977-09-04T00:00:00
@@ -134,6 +148,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 31
+##### Statistics
 #### Eric Knott
 ##### Primary Position: P
 ##### Birdate: 1974-09-23T00:00:00
@@ -142,6 +157,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 41
+##### Statistics
 #### Julio Manon
 ##### Primary Position: P
 ##### Birdate: 1973-06-10T00:00:00
@@ -150,6 +166,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 44
+##### Statistics
 #### Jose Mercedes
 ##### Primary Position: P
 ##### Birdate: 1971-03-05T00:00:00
@@ -158,6 +175,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 50
+##### Statistics
 #### Tomo Ohka
 ##### Primary Position: P
 ##### Birdate: 1976-03-18T00:00:00
@@ -166,6 +184,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 34
+##### Statistics
 #### Britt Reames
 ##### Primary Position: P
 ##### Birdate: 1973-08-19T00:00:00
@@ -174,6 +193,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 34
+##### Statistics
 #### Dan Smith
 ##### Primary Position: P
 ##### Birdate: 1975-09-15T00:00:00
@@ -182,6 +202,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 43
+##### Statistics
 #### Scott Stewart
 ##### Primary Position: P
 ##### Birdate: 1975-08-14T00:00:00
@@ -190,6 +211,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 51
+##### Statistics
 #### T.J. Tucker
 ##### Primary Position: P
 ##### Birdate: 1978-08-20T00:00:00
@@ -198,6 +220,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 52
+##### Statistics
 #### Claudio Vargas
 ##### Primary Position: P
 ##### Birdate: 1978-06-19T00:00:00
@@ -206,6 +229,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 45
+##### Statistics
 #### Javier Vazquez
 ##### Primary Position: P
 ##### Birdate: 1976-07-25T00:00:00
@@ -214,6 +238,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 23
+##### Statistics
 ### Catchers
 #### Michael Barrett
 ##### Primary Position: C
@@ -223,6 +248,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 5
+##### Statistics
 #### Brian Schneider
 ##### Primary Position: C
 ##### Birdate: 1976-11-26T00:00:00
@@ -231,6 +257,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 23
+##### Statistics
 ### Outfielders
 ### Infielders
 #### Orlando Cabrera
@@ -241,6 +268,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 18
+##### Statistics
 #### Jamey Carroll
 ##### Primary Position: 2B
 ##### Birdate: 1974-02-18T00:00:00
@@ -249,6 +277,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 2
+##### Statistics
 #### Wil Cordero
 ##### Primary Position: 1B
 ##### Birdate: 1971-10-03T00:00:00
@@ -257,6 +286,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 12
+##### Statistics
 #### Edwards Guzman
 ##### Primary Position: 3B
 ##### Birdate: 1976-09-11T00:00:00
@@ -265,6 +295,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 35
+##### Statistics
 #### Henry Mateo
 ##### Primary Position: 2B
 ##### Birdate: 1976-10-14T00:00:00
@@ -273,6 +304,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 4
+##### Statistics
 #### Fernando Tatis
 ##### Primary Position: 3B
 ##### Birdate: 1975-01-01T00:00:00
@@ -281,6 +313,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 21
+##### Statistics
 #### Jose Vidro
 ##### Primary Position: 2B
 ##### Birdate: 1974-08-27T00:00:00
@@ -289,6 +322,7 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 3
+##### Statistics
 #### Joe Vitiello
 ##### Primary Position: 1B
 ##### Birdate: 1970-04-11T00:00:00
@@ -297,6 +331,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 32
+##### Statistics
 #### Todd Zeile
 ##### Primary Position: 3B
 ##### Birdate: 1965-09-09T00:00:00
@@ -305,3 +340,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 7
+##### Statistics

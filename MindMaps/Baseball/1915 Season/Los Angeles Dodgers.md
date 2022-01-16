@@ -22,6 +22,24 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Ed Appleton
 ##### Primary Position: P
 ##### Birdate: 1892-02-29T00:00:00
@@ -30,6 +48,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Elmer Brown
 ##### Primary Position: P
 ##### Birdate: 1883-03-25T00:00:00
@@ -38,6 +74,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Leon Cadore
 ##### Primary Position: P
 ##### Birdate: 1891-11-20T00:00:00
@@ -46,6 +100,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Larry Cheney
 ##### Primary Position: P
 ##### Birdate: 1886-05-02T00:00:00
@@ -54,6 +126,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Jack Coombs
 ##### Primary Position: P
 ##### Birdate: 1882-11-18T00:00:00
@@ -62,6 +152,24 @@
 ##### Throws: R
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Wheezer Dell
 ##### Primary Position: P
 ##### Birdate: 1886-06-11T00:00:00
@@ -70,6 +178,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Phil Douglas
 ##### Primary Position: P
 ##### Birdate: 1890-06-17T00:00:00
@@ -78,6 +204,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Duster Mails
 ##### Primary Position: P
 ##### Birdate: 1894-10-01T00:00:00
@@ -86,6 +230,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Rube Marquard
 ##### Primary Position: P
 ##### Birdate: 1886-10-09T00:00:00
@@ -94,6 +256,24 @@
 ##### Throws: L
 ##### Bats: S
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Jeff Pfeffer
 ##### Primary Position: P
 ##### Birdate: 1888-03-04T00:00:00
@@ -102,6 +282,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Pat Ragan
 ##### Primary Position: P
 ##### Birdate: 1883-11-15T00:00:00
@@ -110,6 +308,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Nap Rucker
 ##### Primary Position: P
 ##### Birdate: 1884-09-30T00:00:00
@@ -118,6 +334,24 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Charlie Schmutz
 ##### Primary Position: P
 ##### Birdate: 1891-01-01T00:00:00
@@ -126,6 +360,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Sherry Smith
 ##### Primary Position: P
 ##### Birdate: 1891-02-18T00:00:00
@@ -134,6 +386,24 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 ### Catchers
 #### Lew McCarty
 ##### Primary Position: C
@@ -143,6 +413,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Otto Miller
 ##### Primary Position: C
 ##### Birdate: 1889-06-01T00:00:00
@@ -151,6 +439,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Mack Wheat
 ##### Primary Position: C
 ##### Birdate: 1893-06-09T00:00:00
@@ -159,6 +465,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 ### Outfielders
 #### Hi Myers
 ##### Primary Position: OF
@@ -168,6 +492,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Al Nixon
 ##### Primary Position: OF
 ##### Birdate: 1886-04-11T00:00:00
@@ -176,6 +518,24 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Red Smyth
 ##### Primary Position: OF
 ##### Birdate: 1893-01-30T00:00:00
@@ -184,6 +544,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Casey Stengel
 ##### Primary Position: OF
 ##### Birdate: 1890-07-30T00:00:00
@@ -192,6 +570,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Zack Wheat
 ##### Primary Position: OF
 ##### Birdate: 1888-05-23T00:00:00
@@ -200,6 +596,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Bill Zimmerman
 ##### Primary Position: OF
 ##### Birdate: 1889-01-20T00:00:00
@@ -208,6 +622,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 ### Infielders
 #### George Cutshaw
 ##### Primary Position: 2B
@@ -217,6 +649,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Jake Daubert
 ##### Primary Position: 1B
 ##### Birdate: 1884-04-17T00:00:00
@@ -225,6 +675,24 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Dick Egan
 ##### Primary Position: SS
 ##### Birdate: 1884-06-23T00:00:00
@@ -233,6 +701,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Gus Getz
 ##### Primary Position: 3B
 ##### Birdate: 1889-08-03T00:00:00
@@ -241,6 +727,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### John Hummel
 ##### Primary Position: 2B
 ##### Birdate: 1883-04-04T00:00:00
@@ -249,6 +753,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### John Karst
 ##### Primary Position: 3B
 ##### Birdate: 1893-10-15T00:00:00
@@ -257,6 +779,24 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Ollie O'Mara
 ##### Primary Position: SS
 ##### Birdate: 1891-03-08T00:00:00
@@ -265,6 +805,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Ivy Olson
 ##### Primary Position: 2B
 ##### Birdate: 1885-10-14T00:00:00
@@ -273,6 +831,24 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57
 #### Joe Schultz
 ##### Primary Position: 3B
 ##### Birdate: 1893-07-24T00:00:00
@@ -281,3 +857,21 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
+###### SAC: 1
+###### SLG: .316
+###### BB: 4
+###### AVG: .281
+###### OPS: .644
+###### SO: 8
+###### SB: 1
+###### GO AO: -.--
+###### PPA: 0.00
+###### HR: 0
+###### BAB IP: .327
+###### G: 22
+###### H: 16
+###### OBP: .328
+###### AO: 0
+###### R: 3
+###### AB: 57

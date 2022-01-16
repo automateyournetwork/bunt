@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Mal Eason
 ##### Primary Position: P
 ##### Birdate: 1879-03-13T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Ferguson
 ##### Primary Position: P
 ##### Birdate: 1875-05-10T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Tom Hughes
 ##### Primary Position: P
 ##### Birdate: 1878-11-29T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jock Menefee
 ##### Primary Position: P
 ##### Birdate: 1868-01-15T00:00:00
@@ -54,6 +58,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Taylor
 ##### Primary Position: P
 ##### Birdate: 1873-12-13T00:00:00
@@ -62,6 +67,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Rube Waddell
 ##### Primary Position: P
 ##### Birdate: 1876-10-13T00:00:00
@@ -70,6 +76,7 @@
 ##### Throws: L
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Mike Kahoe
 ##### Primary Position: C
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Johnny Kling
 ##### Primary Position: C
 ##### Birdate: 1875-11-13T00:00:00
@@ -87,6 +95,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Harry Croft
 ##### Primary Position: OF
@@ -96,6 +105,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Cozy Dolan
 ##### Primary Position: OF
 ##### Birdate: 1872-12-03T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Bill Gannon
 ##### Primary Position: OF
 ##### Birdate: 1873-03-17T00:00:00
@@ -112,6 +123,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Danny Green
 ##### Primary Position: OF
 ##### Birdate: 1876-11-06T00:00:00
@@ -120,6 +132,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Topsy Hartsel
 ##### Primary Position: OF
 ##### Birdate: 1874-06-26T00:00:00
@@ -128,6 +141,7 @@
 ##### Throws: L
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Frank Chance
 ##### Primary Position: 1B
@@ -137,6 +151,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Cupid Childs
 ##### Primary Position: 2B
 ##### Birdate: 1867-08-08T00:00:00
@@ -145,6 +160,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Pete Childs
 ##### Primary Position: 2B
 ##### Birdate: 1871-11-15T00:00:00
@@ -153,6 +169,7 @@
 ##### Throws: R
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Jim Delahanty
 ##### Primary Position: 3B
 ##### Birdate: 1879-06-20T00:00:00
@@ -161,6 +178,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Dexter
 ##### Primary Position: 1B
 ##### Birdate: 1876-06-15T00:00:00
@@ -169,6 +187,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Jack Doyle
 ##### Primary Position: 1B
 ##### Birdate: 1869-10-25T00:00:00
@@ -177,6 +196,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Eddie Hickey
 ##### Primary Position: 3B
 ##### Birdate: 1872-08-18T00:00:00
@@ -185,6 +205,7 @@
 ##### Throws: 
 ##### Bats: 
 ##### Jersey Number: 
+##### Statistics
 #### Larry Hoffman
 ##### Primary Position: 3B
 ##### Birdate: 1878-07-18T00:00:00
@@ -193,6 +214,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Barry McCormick
 ##### Primary Position: SS
 ##### Birdate: 1874-12-25T00:00:00
@@ -201,6 +223,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Fred Raymer
 ##### Primary Position: 3B
 ##### Birdate: 1875-11-12T00:00:00
@@ -209,6 +232,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Germany Schaefer
 ##### Primary Position: 3B
 ##### Birdate: 1876-02-04T00:00:00
@@ -217,3 +241,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics

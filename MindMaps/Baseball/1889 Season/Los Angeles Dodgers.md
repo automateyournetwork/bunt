@@ -22,6 +22,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Mickey Hughes
 ##### Primary Position: P
 ##### Birdate: 1866-10-25T00:00:00
@@ -30,6 +31,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Tom Lovett
 ##### Primary Position: P
 ##### Birdate: 1863-12-07T00:00:00
@@ -38,6 +40,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Adonis Terry
 ##### Primary Position: P
 ##### Birdate: 1864-08-07T00:00:00
@@ -46,6 +49,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Catchers
 #### Doc Bushong
 ##### Primary Position: C
@@ -55,6 +59,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Bob Clark
 ##### Primary Position: C
 ##### Birdate: 1863-03-18T00:00:00
@@ -63,6 +68,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Charlie Reynolds
 ##### Primary Position: C
 ##### Birdate: 1865-05-01T00:00:00
@@ -71,6 +77,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Joe Visner
 ##### Primary Position: C
 ##### Birdate: 1859-09-27T00:00:00
@@ -79,6 +86,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 ### Outfielders
 #### Oyster Burns
 ##### Primary Position: OF
@@ -88,6 +96,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Pop Corkhill
 ##### Primary Position: OF
 ##### Birdate: 1858-04-11T00:00:00
@@ -96,6 +105,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Darby O'Brien
 ##### Primary Position: OF
 ##### Birdate: 1863-09-01T00:00:00
@@ -104,6 +114,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 ### Infielders
 #### Hub Collins
 ##### Primary Position: 2B
@@ -113,6 +124,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### Dave Foutz
 ##### Primary Position: 1B
 ##### Birdate: 1856-09-07T00:00:00
@@ -121,6 +133,7 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
 #### George Pinkney
 ##### Primary Position: 3B
 ##### Birdate: 1859-01-11T00:00:00
@@ -129,6 +142,7 @@
 ##### Throws: R
 ##### Bats: L
 ##### Jersey Number: 
+##### Statistics
 #### Germany Smith
 ##### Primary Position: SS
 ##### Birdate: 1863-04-21T00:00:00
@@ -137,3 +151,4 @@
 ##### Throws: R
 ##### Bats: R
 ##### Jersey Number: 
+##### Statistics
